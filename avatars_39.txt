@@ -885,8 +885,8 @@ df8d90de-233b-4368-becd-1323f05ab943|Akira|boshgreen|W|3|akira joker, persona 5,
 cb57cfc4-faad-4655-880e-acf72ba79373|CHANxCO Gumi|Intelark|W|0|chanxco gumi by tawashi chibi, cute, anime, female, human, cartoon, doll, mascot, green hair, red goggles, yellow, yello, yelloe, odd, creepy, stuffed, vrc, vrchat, chat
 1a0b07e7-f37a-49ef-b461-e63bd7a7afc9|CYKAGSGO|w00p|W|2|cykagsgo terrorist, counter-strike, fps, male, human, soldier, counter terror, shooter, swat, vest, beige balaclava, ski mask, olive camo, combat, militant, terroristt, counterstrike
 017ad98d-f482-49be-8c21-cd2233aa43f8|pochan|sewarufous 65aa|W|5|pochan
-91f29938-69ad-4722-9ba6-821496c0bf79|pomidor|BAT9||your|| party|W|5|pomidor
-0ef9a5a5-8197-4b76-a77b-94cbb6581f12|pomidor|BAT9||your|| party|W|5|pomidor
+91f29938-69ad-4722-9ba6-821496c0bf79|pomidor|BAT9  your   party|W|5|pomidor
+0ef9a5a5-8197-4b76-a77b-94cbb6581f12|pomidor|BAT9  your   party|W|5|pomidor
 8d1937d8-ae65-4508-945c-13dc52952e79|angel|モモンガ 8b85|W|5|angel
 1b7c3a73-1d85-4235-9a52-d1d08d9b4b58|Nasos|DERVILWARS［HD］ 6643|W|5|nasos
 52f77326-2959-4988-8b98-870a7ec0515d|Saitama|Trixxer|W|3|saitama na

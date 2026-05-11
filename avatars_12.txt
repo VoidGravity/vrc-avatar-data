@@ -101,7 +101,7 @@ ee3d46a6-903b-45a9-8a91-9869514c8b3b|Jimmy|LaserBoy|W|2|jimmy male, human, carto
 d2072321-a21e-4b4d-9948-c3c05e213060|Sagiri Izumi|Shia Ron|W|4|anime girl, manga, female, human, schoolgirl, cartoon, lolita, shoujo, pink, white, kawaii, cute, adorable, sweet, school uniform, pink ribbon, dress, anime, japan, japanese, asia, asian, weeaboo, weeb, otaku, manga kawai, loli, cutte
 10e4f0e2-4213-42a8-8660-65b987ad7c7c|Shadow|Unicore2|W|2|shadow na
 5dcdddca-b6b7-47d5-9ef4-9bdb6329f629|Hoppu|Draachx|W|2|hoppu female, anime, cartoon, manga, girl, doll, creepy, spooky, scary, white, red, black collar, child, loli, anime ghoul, weird, kawaii, cute
-ab61f457-c130-4269-b2f0-9f4615ee613f|Luka||Tina||W|2|luka na
+ab61f457-c130-4269-b2f0-9f4615ee613f|Luka| Tina |W|2|luka na
 86ab4a98-8124-41b0-8c52-4d55a004ec27|boris|systematickiki|W|3|boris skeleton, goth, androgynous, humanoid, monochrome, corpse, ghoul, undead, shirt, plaid skeleton button up, bowtie, suspenders, grunge, creepy, scary, emo, club, horror, spooky, halloween, skelaton, gothh, corpes, ghoulie
 9e9a7086-97fe-4189-ac63-0c8d84d551b5|Naruko Uzumaki|Scrub-SamaSenpai|W|3|the genderbent naruto based off of his transformation jutsu uzumaki, naruto, anime, manga, male, human, ninja, shinobi, kunoichi, hokage, yellow, orange, black, orange tracksuit, ninja headband, hero, cartoon, ninjya, shinoby, koonoichi, hokaage
 90c1d924-5c99-4622-8a0c-eaf8a9387a7a|Hidden Ebola|Zjinn|W|1|the ebola hides within deval my brudda ugandan knuckles, meme, do you know da wae, deviantart horror, male, furry, echidna, red, red fur, brown trench coat, viral, funny, troll, creepy, weird, knuckels, knucklese, nugandan deviant art, knuckes
@@ -2670,8 +2670,7 @@ ca578486-9b85-4caa-bab5-85dbf9761e54|KannaNL|Akordu|W|2|kannanl kanna kamui, mis
 cb3fbb5d-b7ac-4f32-a7d6-fe5af1967567|Claude|Willdog102|W|0|from gta na
 ed3f12d6-fb5b-4eee-883e-1abb945f4382|Wario|Doinks|W|2|wario wario, super mario, nintendo, plumber, villain, male, human, overweight, greedy, glutton, yellow, purple, black mustache, big funny, meme, troll, creepy, waluigi, warioo, warrio
 4445af77-d503-4aa6-8acd-cffc4e15a88f|ONE|Gille|W|3|one female, human, girl, woman, lady, blonde, orange hair, black choker, blue eyes, outfit, sexy, attractive, flirty, cute, thicc, small, small
-39ea9412-88ff-4bc3-b38e-cb1e762efa3f|Layotam birb
-|Layotam|W|0|wolfieconversion bird, avian, animal, creature, cute, pink, blue wings, gold crown, princess, royal, queen, king, birdie, birb, chrip, tweet, polly, feathers, blue, pink rosa, ave
+39ea9412-88ff-4bc3-b38e-cb1e762efa3f|Layotam birb |Layotam|W|0|wolfieconversion bird, avian, animal, creature, cute, pink, blue wings, gold crown, princess, royal, queen, king, birdie, birb, chrip, tweet, polly, feathers, blue, pink rosa, ave
 d96f9881-04b4-46d1-9246-6a6de5cfe628|Korekiyo Shinguji (Prologue)|Kaito Momota|W|1|korekiyo shinguji (prologue) female, human, schoolgirl, student, girl, woman, teenager, school uniform, blazer, suit, mask, emo, goth, dark academia, preppy, green tie, black, green, black egirl, schoolgirl outfit, grunge, thicc, e-girl, emogirl, goht, gohtic, ehirl
 5ec3d75c-4778-4c7d-933e-ae5626df5aca|Monika|Zero14|W|1|anime girl, female, human, samurai, asian, lavender hair, purple, white, japanese, cosplay, fanart, action, fighting, animee, waifu, club, dancing, y2k, animae, femalle, humann
 ed56492b-3363-4481-87b3-2030a5257422|El MONO|SoloSanty24|W|2|este el mono mas piola gato chimpanzee, ape, male, animal, mammal, primate, monkey, dark gray, troll, meme, funny, realistic, apeee, monkeyy, primatee, chimpazee, chimpazi, chimzee

@@ -408,7 +408,7 @@ e6bba301-1bee-49e0-8ce9-38bba9c86ebb|Okaruto_chan|バスター|W|3|okaruto_chan 
 0bd424d9-8a4b-451c-b30d-75102667ce5b|Orpheus|Zaid_Mk1|W|4|orpheus robot, android, machine, bot, automaton, androgynous, cyborg, mechanical, robotic, futuristic, grey, white, red scarf, eyes, science fiction, sci-fi, tech, cyber, androyd
 37908671-42c0-47cc-9b53-53e8cd972082|actually saber|call me senpai|W|4|actually saber artoria pendragon, saber, fate stay night, anime, female, human, knight, royal, white armor, blue dress, blonde hair, black armor trim, fighter, kawaii, waifu, sabor, fait, nite, pendragonn
 079fce79-e66a-4483-bc5d-59eca200eb17|tracer|Altair4ik|W|4|tracer tie pilot, star wars, fighter, male, human, imperial imperial, black, black helmet, green lines, suit, warz, tie, pylot
-d4b7524c-313d-458f-8bb7-aae7940cc660|556688992|σ(o‘ω‘o)||W|1|55668899 na
+d4b7524c-313d-458f-8bb7-aae7940cc660|556688992|σ(o‘ω‘o) |W|1|55668899 na
 d289b347-9298-4d2e-821b-0c47b38bb384|Dark Joker|Fishieguy92|W|3|dark joker goro akechi, persona 5, character, detective, male, human, masked vigilante, hero, superhero, black, black coat, white hair, mask, stylish, detective prince, masked, goro, persona, five, prsona, persna, persoona
 8ce4242b-9785-4a3e-88ce-60a74dbf773e|uganda armor|volfson07 aec7|W|5|uganda armor
 70c5b53a-8ab1-4f39-8316-43794ca37107|grhtrhtrh|Kill[la]Kill|W|5|grhtrhtrh
@@ -2048,7 +2048,7 @@ f86e61bd-d38e-4548-aed5-931b8638c2be|Iron Giant|Valen XIII|W|2|iron giant shadow
 a89908bb-e9a4-413e-a744-e93502ab46c6|kakashi capo|Chara-Mg|W|2|kakashi capo kakashi, hatake, naruto, ninja, male, human, shinobi, anbu, mercenary, assassin, gray hair, black mask, vest, gray, edgy, weeb, otaku, anime, manga, cosplay, roleplay, rp, kakasi, hatakee, sensei
 9e063e93-64f5-4ccc-ad1e-df0104949ac9|iron giant|tomato cheese a556|W|5|iron giant
 fc36371f-86cf-47a6-aaae-3ae28001f1c2|shizuka|juicedeer|W|3|testing ao, ao tsuchikage, naruto, naruto shippuden, anime, manga, female, human, ninja, kunoichi, warrior, anime girl, blue, purple, maroon sash, purple armor, ninja outfit, fighter, aotsuchikage, toochikage, narutoshippuden, narutto, naruta, aoo, aoo tsushikage, tsuhikage, shiipuden
-43be58ab-5888-451d-805b-9df9a83dc39f|1|σ(o‘ω‘o)||W|1|maid, anime, female, furry, cat, feline, kitty, nekogirl, pink hair, red eyes, black dress, white apron, fur cuffs, bell choker, collar, kawaii, cute, sleep, cuddle, cosplay, meido, kitten, furrymaid, furimaid, meyd, meed
+43be58ab-5888-451d-805b-9df9a83dc39f|1|σ(o‘ω‘o) |W|1|maid, anime, female, furry, cat, feline, kitty, nekogirl, pink hair, red eyes, black dress, white apron, fur cuffs, bell choker, collar, kawaii, cute, sleep, cuddle, cosplay, meido, kitten, furrymaid, furimaid, meyd, meed
 86e2ef10-198f-4147-8723-13f7219547d8|TEST Rozalin dynamic|SkyPidgeot|W|1|test rozalin girl, female, imp, demon, devil, fiend, yellow, red, red eyes, wings, horns, dark, cute, kawaii, anime, anime animegirl, femalehuman, yalow
 74563bc5-19f9-426e-8ec0-f88598960195|susanoo|gokublackz|W|4|susanoo na
 2d33ee8c-a792-4e15-8a46-78b98f55e329|MG snake|TakuuFTR|W|3|mg snake male, human, soldier, mercenary, thug, gangster, dark, headband, black tank top, vest, edgy, tactical, mercinary
@@ -2334,7 +2334,7 @@ ca121fc2-beed-4ccc-ae51-bfd4ddb76e1f|dododile|Chiquita|W|0|dododile na
 f8eaa8f6-0f58-44c9-a29d-60e8b0566d17|elegant miku mf|Omega Vital|W|4|elegant miku mf original avatar, female, human, anime girl, lady, woman, blue hair, black dress, red rose, gothic, victorian, emo, rose choker, gloves, formal, goth, character, oc, edgy, dark, emo goth anima, aneme, anemie
 bdef6adb-5dcb-4400-ac28-c839b0697858|Ruby|Envycore|W|2|ruby rose, rwby, huntress, female, human, anime, manga, student, weapon master, red, black, red cloak, rose emblem, scythe, schoolgirl, waifu, anime girl, rwbyy, rubierose, rubyyrose, rby, rouby, rubi, animee
 c93e6ea7-fc61-49f4-88c3-0ef1c02ab007|MONSTRO c496|KOT1K_Barsik|W|5|monstro c496
-7fb4132e-bfc7-445f-8edb-3a6766054010|3|σ(o‘ω‘o)||W|4|na
+7fb4132e-bfc7-445f-8edb-3a6766054010|3|σ(o‘ω‘o) |W|4|na
 3f695b5c-4499-4ee4-a7a0-efb0f363b876|UNSC Pilot v4|nik_nitro|W|1|unsc pilot v4 soldier, sci-fi marine, future male, human, space trooper, grunt, infantry, sci-fi, olive, black, white, armor, helmet, straps, military, futuristic, solider, scifi, trooperer
 9bd50afa-30f2-4a0c-af5d-856030497b77|coolandchill darkblu|coolandchilli|W|1|me but darkblu male, human, mannequin, dummy, figure, avatar, low poly, blue, glasses, geek, nerdy, studious, smart, teacher, club, basic, minimalist, manakin, manequin
 5739a987-2955-4cea-baa1-460e579ef7bc|Hank Hill|Stanpai|W|0|hank hill hill, king of the cartoon, male, human, father, husband, dad, white shirt, blue pants, glasses, comedy, funny, memes, animated, hankh ill, king, cartooon

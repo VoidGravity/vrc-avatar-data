@@ -62,7 +62,7 @@ a35967ef-09e1-4d88-a7ff-aaf86df254d1|Majima Goro|riceington|W|5|majima goro
 edfcb29d-8127-4c08-8acf-b4481d4f1243|Cinnabunn Bunny|ᄇViXeNᄇ|W|5|cinnabunn bunny
 325c61dd-ba4e-417d-a98c-542914225512|Rin|HaruA|W|2|you're welcome harua anime girl, schoolgirl, female, human, manga cartoon kawaii pink, pink hair, white bow, and red outfit, cute, cuddle, sleep, waifu, anime, manga, cartoon, kawaii, school, sleepy, cutegirl, animae
 2f1764ed-46ea-4b8e-8599-cd3c7b313d63|Prayuth|keerateen|W|0|cha chan
-f1275290-1800-4a13-af8f-fed31cf05c5f|HawtKnuckles|www.twitch.tv|lit_nex|W|5|hawtknuckles
+f1275290-1800-4a13-af8f-fed31cf05c5f|HawtKnuckles|www.twitch.tv lit_nex|W|5|hawtknuckles
 03d7176c-f9df-4517-ace6-e2a74736c1c1|Princess Styla|Nahor|W|2|princess styla zelda, the legend of nintendo, video game, princess, female, human, blonde hair, blue dress, pink polygon, retro, low poly, vidoe polygonn
 f2316899-9ab3-4b38-ba68-ebdd7204dbb6|SodaPop|Duane|W|1|coke-a-cola
 85da5e49-2226-4959-8e25-99b27227507b|Phantom Psyker|-Phantom-|W|4|reload!
@@ -1937,7 +1937,7 @@ ebc3bcd7-8640-4b13-9c9a-ee4d63fa7708|Miku Dress|Sinergy84|W|3|miku dress gothic 
 95cb2e1b-6aa9-44c3-81a1-e3c36b10a7a5|Commander cody|Mashiro Munetani|W|2|commander cody clone trooper, star wars, soldier, male, human, galactic marine, clone, republic, white armor, orange markings, black visor, military, sci-fi, science fiction, starwars, clonetrooper, starwar
 b1741793-f306-43df-8384-e533f63f1e77|AnimalCrossingGuyWITHSWORD|Rubster|W|5|modeled by myself pogchamp.
 e20f26d3-b1fc-47b0-b686-94aa834ec1df|Autism Prime|Zetanor|W|4|autism prime
-34d025bc-e181-4168-b7d7-8803733b0642|DekuLink|D|NNER|W|5|shoots nuts at other people na
+34d025bc-e181-4168-b7d7-8803733b0642|DekuLink|D NNER|W|5|shoots nuts at other people na
 70eaabaa-dcae-4096-8bf4-4a0b3288429a|The ant|Yoman|W|5|the abomination na
 23482582-41e2-4c8a-b3f5-9a49dc86b9a5|Kaneki Katana|Kai Fox|W|5|katana test
 7b033e85-6a77-4b38-9eb5-53b17797ee46|Bob|astrolink2000|W|0|bob from animal crossing: city folk

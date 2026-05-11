@@ -56,7 +56,7 @@ a169d435-b19e-4ab9-9947-6280705887e8|Hollow Ichigo|KoalaKiddo|W|1|hollow ichigo 
 471e9864-8e81-4a11-94a4-928fdbaa081c|Konko|Everteson|W|3|konko na
 96be4e6b-2f1d-4b51-ac3f-b98ce74edaee|Luka|AlexYariven UwU|W|3|luka anime girl, female, human, schoolgirl, student, teen, pink, pink hoodie, sailor fuku, blue eyes, short hair, kawaii, moe, cute, sweet, innocent, school, youthful, pastel, girly, top, hudi, hudie, pinkk
 925e9039-952d-4b8f-b767-39752654144a|Bunny Squad|_NekoNeko_|W|4|mi pri squad lol avali, female, furry, alien, bird, sergal, vrchat, avatar, raptor, galaxy, colorful, multicolored hair, black helmet, fluffy, cute, cuddle, sleep, comfy, aveli, avili, avale, floofy, birb
-9730ed3d-c613-4136-850e-a6012beb3dcb|IttyBittyHassan|カイバラ | Kaibara|W|1|lil 3ft. tall grand assassin na
+9730ed3d-c613-4136-850e-a6012beb3dcb|IttyBittyHassan|カイバラ   Kaibara|W|1|lil 3ft. tall grand assassin na
 91babe3a-a218-4d49-95b2-e366e8365733|gundam_test|Alto|W|4|gundam_test gundam, mobile suit anime, robot, android, machine, bot, automaton, male, robotic, metallic, white, red, blue, yellow, red armor, blue details, yellow vents, wing, mecha, war, fighting, sci-fi, gundanm, gundam mobile, mobil
 326e7e2f-a8ba-42cf-b806-b65a2680b13f|trumpknuckles|voicinski|W|2|trumpknuckles na
 b33a4b8b-f6e3-4d80-ab6c-527d1ca71287|Gun Loli|Farya|W|4|gun loli female, human, girl, woman, gal, lady, blonde, yellow jacket, headphones, pastel, soft, cute, sleep, cuddle, cozy, kawaii, adorable, gurl, womam, gaal
@@ -765,7 +765,7 @@ f4cf844e-0b7d-439f-b2bc-d6adf65e95d8|Vegeuckles|Clint Torres|W|4|vegeuckles meme
 51fdfaad-9748-475b-be41-bef5db41e16d|IA Tropical|Girlbaka|W|3|ia tropical beach, swimsuit, female, human, anime, bikini, blond hair, white pink details, summer, vacations, swim, swimm, bikiny
 7f6edd41-eaa2-4693-8fc7-fa8660a2bdc6|last luka|deadlysnowcone|W|4|asdf hatsune miku, vocaloid, virtual idol, female, android, singer, turquoise hair, teal phone, winking, blush, cute, kawaii, jpop, digital, cyber, hadsune, hatsnee, mikuuu, hadsunee, mikuu
 1b1e9c96-da96-42f4-8948-a014e07d0d54|Rave-Ryuu chan|KYWI☆|W|3|party! na
-bb2a5b4e-422d-44ce-af0e-6a4db34c7ead|BMO|Twitch | auhbgrb|W|3|awesome as fuck na
+bb2a5b4e-422d-44ce-af0e-6a4db34c7ead|BMO|Twitch   auhbgrb|W|3|awesome as fuck na
 ab727742-d3bd-477c-92b7-2fa4b111cbd0|Bob, o construtor.|LJoga|W|0|bob, construtor. na
 521fc15b-c9be-465d-8b7e-abbd00b4fa74|For Gallium|Skyos|W|4|for gallium anime girl, military, soldier, female, human, android, machine, bot, cyborg, black and white, gunner, anime, manga, tactical, mercenary, commando, android cyborg robot animay
 cd68bf24-4109-4fd7-aeee-cd54aeb0e488|2B|Imper1um|W|3|2b from nier: automata 2b, yorha no.2 type b, automata, android, female, robot, battle automaton, machine, bot, black, black dress, blindfold, sleeves, elegant, fighter, battle, cyberpunk, y2k, androidd, bee, toobee, too be
@@ -1202,7 +1202,7 @@ a7911c7a-a97f-4fa7-b49e-d95286f39bb5|Wonder Woman|THEMYS_AMAZON|W|1|wonder woman
 efdfaa41-d24f-4c90-81f1-bb9b6e5cc566|RACE|Matcha拿鐵|W|2|race
 838faf7f-9f2d-4d81-8c5d-da72d54ec6fc|Len|EvilAvro|W|3|len rin kagamine, vocaloid, singer, idol, female, human, popstar, musician, blond, yellow, black, green tie, gold trim, anime, j-pop, concert, perform, blnd, yello, goldd, blackk
 4522a1ef-a27f-4764-b51e-4bdb7885a906|Жопа с ручкой v1|Свобода|W|3|жопа ручкой v1 female, human, girl, woman, lady, pink hair, gray scarf, black hat, casual, cute, cozy, sleep, cuddle, girly, waifu, waifu material, pink, blk, grel, slepe, coot, girll, woamn
-bbe05b0c-1e9d-4a0d-9c70-1141827edadf|Kanna giant|かんな | Dracofeu|W|4|kk skirt, outfit, female, human, gray white thigh highs, socks, tights, clothing, cosplay, costume, cute, girly, schoolgirl, anime, animae, animay, skert, outfitt
+bbe05b0c-1e9d-4a0d-9c70-1141827edadf|Kanna giant|かんな   Dracofeu|W|4|kk skirt, outfit, female, human, gray white thigh highs, socks, tights, clothing, cosplay, costume, cute, girly, schoolgirl, anime, animae, animay, skert, outfitt
 e79bcd48-193d-48c7-865b-d4bd57d2c140|Karasuma|PringlePeto|W|3|karasuma male, human, businessman, salesman, corporate, man, agent, black suit, tie, white shirt, formal, serious, sophisticated, realistic, mature, club, social, relaxed, clubbing, casual, buisnessman, salseman, buisiness, slaesman
 fea30aaa-7e20-40bb-9831-16d690b4a400|Slenderman Elegant|GreenHeartDemon|W|1|slenderman elegant.
 a98eb0cf-231d-4aa7-9f0d-ac92273e909a|Tsuki Neko 1|Bakeneko0|W|3|tsuki neko female, furry, kemonomimi, cat girl, anime wolf woman, lady, silver, silver hair, grey, grey black, black collar, purple eyes, kawaii, cute, anime, animated, fmale, femle, wolgf kat girl
@@ -1236,7 +1236,7 @@ a931740c-f2ed-4b40-b8ed-279942c60076|Alice|BFL_SSD|W|3|alice anime girl, school 
 5addcf70-3825-4f2e-9a17-63710e6fe2a8|Knucklesnazisaid|TheLemming|W|0|xd na
 75f1d271-dab5-42d7-871e-ccfffe71abbc|Koumoridaifu|BFL_SSD|W|5|koumoridaifu bat, creature, animal, anthro, flying mammal, cryptid, androgynous, monster, beast, chibi, winged, chiropteran, gray, red mouth, black eyes, scary, creepy, club, meme, viral, batty, batmann, batt, creteure, creepyee
 8813c5be-8ff3-458e-a8cc-2b863c8ac469|Lil [B]unny|BFL_SSD|W|3|lil [b]unny
-2eb948f5-ee29-4d8c-a75c-948e7939def8|Gothic Miku||Zet||W|4|gothic miku hatsune miku, vocaloid, gothic, goth, female, android, idol, singer, black dress, purple hair, chains, crown, spikes, emo, creepy, horror, scary, hastsune, miko, vocloid, hatson
+2eb948f5-ee29-4d8c-a75c-948e7939def8|Gothic Miku| Zet |W|4|gothic miku hatsune miku, vocaloid, gothic, goth, female, android, idol, singer, black dress, purple hair, chains, crown, spikes, emo, creepy, horror, scary, hastsune, miko, vocloid, hatson
 3317d936-2392-404a-ac81-970ce854df45|Khazall|Khazall|W|3|awdawdawd na
 cfe5528b-68fa-42d1-bde0-3002bc6d1f2d|clank bobble|wiide boii|W|0|clank bobble
 21e76a01-e187-4df7-a151-a30565356dbc|knu eat3|Anju Skalov|W|4|knu eat3 anime girl, female, humanoid, eyes, eye, eyeshadow, face, kawaii, moe, anime, mmd, eys, eyees, kaewaii, mowe
@@ -1853,7 +1853,7 @@ c32da0f2-7c3b-40ee-aad4-9a2e7156a3b3|4GO Noire Outfit 3|Reco-|W|1|4go noire outf
 a0bc485a-c912-46cd-a595-5aec0b86ff83|h2o-f|Monica_XCVI|W|2|h2o-f girl, female, human, horror character, scary, creepy, dark, pale, mask, hockey blood, blood splatter, white red accents, black hoodie, skull emblem, spooky, terror, emo, goth, horor, horrer
 3afb164e-c9ad-4ddb-a61a-03a1f670850a|hinat|The_appendix|W|3|hinat anime girl, female, human, schoolgirl, student, ghost eyes, blank stare, creepy, emo, blue hair, ghostly school uniform, sailor animae, anima, annima
 5dcfbf89-d17e-428a-a822-3c7f5b747020|knuckles vendedor de grogas|malucopt69|W|2|quer po popopo na
-797fb9de-9dd0-4148-ba56-b8d18fd724ac|Heartless|カイバラ | Kaibara|W|2|heartless na
+797fb9de-9dd0-4148-ba56-b8d18fd724ac|Heartless|カイバラ   Kaibara|W|2|heartless na
 1caca70f-130e-43e5-b49a-29a3dd063451|Oooo|Amor I Love U|W|3|oooo vocaloid, hatsune miku inspired, anime character, female, human, idol, popstar, singer, performer, blue, blue hair, white outfit, scarf, cute, kawaii, moe, vrc, futa, vocoloid, vocaloido, hatsune, miku, mikku
 14efd56b-c51f-4685-a552-1d866b5da84e|Space Kanna|Wensleydale|W|4|my first avatar... pls dont hate me kanna kamui, miss kobayashi's dragon maid, anime, dragon, female, human, kemonomimi, waifu, loli, lilac, white, blue eyes, horns, kawaii, cute, anime girl, avatar, kannaa kamui
 01cee2a5-6805-4c89-8cb7-68452b886f38|clone holo 1|Geriant|W|0|awf na
@@ -3868,7 +3868,7 @@ cc2680df-bead-4877-8cc2-1a619c5f4638|BloodyMiku|DrewGoodOne|W|1|bloodymiku femal
 3f396da8-c328-4c16-b8c0-337bbe5efa5e|Krieg|Specter_Cornix|W|2|krieg psycho, borderlands, male, human, bandit, lunatic, maniac, marauder, tan, white, mask, brown straps, psycho grimy, dirt, wastelander, scavenger, apocalyptic, crazy, pscho, bordrlands, borderlands2, psyco
 dfab5374-5d8b-4434-a37e-5e12a8dd537d|Bloody Miku|#ABATE|W|1|bloody miku hatsune miku, vocaloid, virtual idol, female, android, vocal synthesizer, pop star, singer, robot, machine, automaton, red, black, black dress, hair, dark, emo, goth, creepy, horror, scary, edgy, alternative, htsune htsune, mikuu, hatsunee, mikku, hadsune
 a7d9853a-c55e-4789-992f-73ffb51b1632|Rainbow Bear|lovi|W|2|rainbow bear anime girl, waifu, female, human, hoodie, green black mask, anime, kawaii, cute, egirl, pastel, club, dancing, sleep, cuddle, vibing, lewd, animee, animme, hoomam, kawiii, egrill, greeen, ber
-85184d19-01e3-46f1-a4e4-33f93791cc00|FluffyMiku|Party|Post|Zesca|W|4|fluffymiku party post anime girl, schoolgirl, female, humanoid, green hair, kawaii, manga, school, student, waifu, emerald, pink bow, dress, white shorts, trim, cute, sleep, cuddle, kawai, animay, animae, scoolgirl, grren, piink
+85184d19-01e3-46f1-a4e4-33f93791cc00|FluffyMiku Party Post|Zesca|W|4|fluffymiku party post anime girl, schoolgirl, female, humanoid, green hair, kawaii, manga, school, student, waifu, emerald, pink bow, dress, white shorts, trim, cute, sleep, cuddle, kawai, animay, animae, scoolgirl, grren, piink
 2a339bc5-22ef-4e8e-b3d9-549e4cf81b62|nuckles uganda heavy|darkzincomedodeoco|W|2|he fiunally find the way na
 b92ce167-109f-40ee-9be0-595654b256b3|gumi teeth u|CrypticCrow|W|3|gumi teeth galaxy, furry, female, anthro, kemonomimi, space, cosmic, purple, blue, orange, purple hair, galaxy cat ears, collar, dress, cute, kawaii, club, dancing, party, femboy, femboyish, kemonomini, print, space cosmic print
 23a33828-1f1b-4395-a2d5-24cd2a81b4c4|Haruka|Yukaa|W|4|haruka anime girl, cartoon, female, human, pink, white, blonde, gold, pink bow, anime, chibi, cartoon blond gold trim, outfit, and anme, anima, anume, girl anima
@@ -4696,8 +4696,7 @@ e6c7dd92-37a7-4cd4-ab0a-979de79079b0|Girl|Marci|W|2|girl anime girl, female, kem
 2ac3952e-b5cb-4a17-b9e7-ac9ea9895f97|Luka Nyan|DesuzaKiddo|W|2|luka nyan female, furry, neko, cat, black, purple, white, black hoodie, cat ears, e-girl, kawaii, cute, edgy, kawaii girl, catgirl, neko hoody, purpel, bleck
 efd32f29-c1ce-479a-a07b-c754f6d6d222|SpringBoy|Arsaike|W|3|springboy androgynous, human, boy, girl, child, kid, toddler, youth, neutral, olive, green jacket, gray shorts, anime, cartoon, kawaii, cute, cozy, sleep, cuddle, emo, olive top, androgenous, cartoonish, anyme
 4c640595-142d-4807-8961-4ecda74281a8|Pink Guy|H U E|W|1|pink guy male, human, man, pink, suit, adult, meme, troll, funny, silly, comedy, pinkk, punk, suut
-f0e396e2-ce9c-4ca0-aeff-ea8edb294a53|error
-e̹̹͇r͕̳̼̩̟̥r̦o̸̯̫̘ͅŗ͚̥̼̺̪̟|pinkfluffer|W|2|error e̹̹͇r͕̳̼̩̟̥r̦o̸̯̫̘ͅŗ͚̥̼̺̪̟ villager, animal crossing, generic, female, human, townie, resident, dweller, pink hair, red coat, brown shoes, black trousers, cozy, sleep, cuddle, social, casual, vrchat, vrc, vigerla, resdint, anmal crosing
+f0e396e2-ce9c-4ca0-aeff-ea8edb294a53|error e̹̹͇r͕̳̼̩̟̥r̦o̸̯̫̘ͅŗ͚̥̼̺̪̟|pinkfluffer|W|2|error e̹̹͇r͕̳̼̩̟̥r̦o̸̯̫̘ͅŗ͚̥̼̺̪̟ villager, animal crossing, generic, female, human, townie, resident, dweller, pink hair, red coat, brown shoes, black trousers, cozy, sleep, cuddle, social, casual, vrchat, vrc, vigerla, resdint, anmal crosing
 711f25a9-60c7-4ef7-9f0b-b46392b4cb9c|Crash Bandicoot (AKU AKU + FRUIT)|tecktron|W|2|crash bandicoot (aku aku fruit) bandicoot, ps1, playstation, platformer, anthropomorphic animal, male, marsupial, orange fur, 90s, nostalgia, retro, meme, cartoon, funny, crash, bandicot, crsh, bandikut
 eb8491b4-7695-42c2-9130-09a561770b7e|Blue Fox Girl|Alsandair|W|3|blue fox girl kemonomimi, nekomimi, cat girl, female, furry, cat, feline, anime manga, blue, hair, white shirt, black ribbon, overalls, cute, kawaii, e-girl, sleep, cuddle, soft, fluffy, nekogirl, kitten, kitty, kemo, catte, fluff, animoo, kemomimi, nekomimi
 ec10b38b-9cb2-4e01-b968-dc09eb45a1cc|tomtato s|matthew54321|W|2|tomtato pajama girl, onesie sleepwear, cute, female, human, red, green, sleep, cuddle, cozy, pajamas, pijama, pijamas
@@ -4734,7 +4733,7 @@ bfd16903-fcc9-4274-a5b4-63e9b41e031d|HKM_upd10|dxoid|W|4|hkm_upd10 na
 3f95b176-5e87-4b07-a917-c918832229a3|Paper Reg|TheEggOverlord|W|4|version of reg made paper na
 3ab2b256-949b-4dc7-9ed4-fc903c9bed56|Ridley(Metroid_ Other M)|willdoe|W|3|ridley(metroid_ other m) purple dragon, drake, wyvern, draconian, male, reptile, monster, beast, purple, orange, spikes, wings, fantasy, horror, scary, creepy, monsterous, purpel, dragn, draagon
 ee89a4d8-5d46-4a3d-be2d-e04139bc1e86|Naruto|hallysonBB|W|3|naruto uzumaki, naruto, shippuden, anime, manga, ninja, shinobi, male, human, orange, black, blond hair, leaf village, hidden leaf, headband, cartoon, shonen, uzamaki, naurto, narooto
-1694b6db-ffbd-4146-95b1-e76b7e95ef08|Fox Girl|cxx|.,.,.,.,▶Oktober|W|2|hello and goodbye cat girl, neko, kemonomimi, female, human, anime, manga, hooded, jacket, gothic, pastel goth, blue hair, purple ears, cute, kawaii, creepy catgirl, nekogirl, hood, ear hoodie, kawaii
+1694b6db-ffbd-4146-95b1-e76b7e95ef08|Fox Girl|cxx .,.,.,.,▶Oktober|W|2|hello and goodbye cat girl, neko, kemonomimi, female, human, anime, manga, hooded, jacket, gothic, pastel goth, blue hair, purple ears, cute, kawaii, creepy catgirl, nekogirl, hood, ear hoodie, kawaii
 79c4a559-59d0-4ebe-b745-ad0f8e95104b|lilie|rafaelbaratieri|W|2|lillie, pokemon, pokemon sun and moon, trainer, female, human, coach, blond hair, green eyes, white dress, grey hat, white, black bag, cute, kawaii, anime, waifu, egirl, pokemonn, pokimon, pokeman, pocketmonster, pkmn, lilli, lilly
 6c5c120f-060f-47d5-8106-f4fd2ef67afe|joker persona5|6msm6|W|3|joker persona5 joker, ren amamiya, persona 5, protagonist, phantom thief, male, human, vigilante, rebel, trickster, black, gray coat, red gloves, goggles, mask, stylish, cool, mysterious, emo, edgy, masked, avatar, renn amamia, persona, jocker, joka, persnna, p5
 a5e6725b-5739-45a2-86e7-97281ee37845|Bloody Miku|Kriven|W|1|bloody miku

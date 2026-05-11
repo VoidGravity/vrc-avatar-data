@@ -1559,7 +1559,7 @@ adadecbb-5ada-4f21-87dc-5487b4c9acd3|charmander|bastardo|W|5|charmander
 7a55109b-11df-4678-bfc3-31daeb16965a|Galakas|Plywkin|W|4|galakaaas bird, raven, crow, vulture, male, furry, anthro, avian, feathers, beak, green jacket, black hoodie, grunge, edgy, creepy, horror, scary, dark, cursed, emo, scene, goth, punk, rave, gothcore, emocore, scenecore, alt, alternative, gothic, gothik, punkcore, scarry, creeepy, horrer, birb, ravin, crwo, volture
 6bf1b6c9-57cb-4745-adb1-3ea1d654124d|KNI01-F "Ready-Go"|patilly|W|4|kni01-f "ready-go" ninja, robot, automaton, male, machine, cyborg, android, black, red, samurai, swords, helmet, cyberpunk, sci-fi, metallic, futuristic, ninja samurai cybernetic, ninjarobot
 8e779c44-3cf7-4452-a882-7139e637f222|Makoto-worjking|epicdab|W|2|makoto niijima, persona 5, queen, student, female, human, anime, school uniform, blazer, plaid skirt, gray vest, brown hair, schoolgirl, smart, intelligent, serious, makoto, persona, makotoe, neijima, persna
-14c361e5-513d-417d-b6fc-c19b2fcb777e||furro|bastardo|W|5|furro
+14c361e5-513d-417d-b6fc-c19b2fcb777e| furro|bastardo|W|5|furro
 0acdb5d5-9907-4da2-bee9-ac7ffa92ecdf|Nekumo|Nekumo1|W|3|nekumo kemonomimi, cat boy, male, human, furry, anthro, animal, fox schoolboy, student, anime, blue, white, black, ears, sailor uniform, kawaii, cute, club, dancing, y2k, feline
 84c11f18-85f1-41ae-b0cc-798fcaed6dc5|luka|Cydem|W|2|luka rosaria, genshin impact, thorned benevolence, sister female, human, nun, cleric, priestess, gothic, red, black hat, dress, black, red rose, religious, church, nun outfit, elegant, cosplay, rosario, rosariaa, impactt, rosria
 1295176c-bd6e-44d0-8cbe-27a2a2d2b311|patricio|bastardo|W|5|patricio
@@ -2087,7 +2087,7 @@ defe104b-949f-4882-bd2b-4bdd4c1f6f2f|Hatsuzuki Base|Tsuzu|W|4|female, anime, hum
 9188f1fc-c155-4544-ae92-bbd29ee264ef|ProphetLoli|MyNameUhSenpai||5|
 2d7a6e31-d139-42fd-b657-6d0e5f4fbd84|RED Pyro|WittyName001|W|0|the red pyro from team fortress 2. both belong to valve corperation. pyro, tf2, 2, valve, male, human, soldier, fighter, arsonist, pyromaniac, firebug, red, black, orange, grenades, creepy, horror, shooter, fps, multiplayer, fortress, teamfortress, pirow
 f87891a0-43fd-4cdc-b03d-be8d0939a414|Aoi Asahina|Dranoelx|W|3|aoi asahina athlete, gymnast, sportswear, female, human, competitor, player, runner, red, red jacket, white shirt, grey shorts, design, casual, sporty, comfy, everyday, avatar, player model, athleat, gimnast, sportswearr, femail, hoomin
-c3747df1-fa3d-408d-a744-ca27ada4b0a5|Bayonetta|Chisoe12|W|4|small bayonetta, cereza, bayonetta series, umbra witch, female, human, gun, superhero, diva, black, black suit, gold zipper, silver hair, witchcraft, action, strong, powerful, bayoneta, baiyonetta, baiyoneta, baionetta, baionetta
+c3747df1-fa3d-408d-a744-ca27ada4b0a5|Bayonetta |Chisoe12|W|4|small bayonetta, cereza, bayonetta series, umbra witch, female, human, gun, superhero, diva, black, black suit, gold zipper, silver hair, witchcraft, action, strong, powerful, bayoneta, baiyonetta, baiyoneta, baionetta, baionetta
 9df46693-23ca-4eb3-b7cd-c0574ea88b5b|Shadov t1|Aluthanos|W|4|test shadowa shadow the hedgehog, sonic male, animal, anthropomorphic, creature, antihero, edgy, black, red, red eyes, white gloves, rings, game character, fighter, shado, shadough, shadhow, shedeh
 0887c2f8-545e-4bbc-8ed4-26c2b8cc8c9b|Subaru|Cianvro|W|1|subaru natsuki subaru, re:zero, anime, isekai, light novel, male, human, black, white jacket, orange accent, school uniform, anime boy, rezero, rem, emilia, subaruu
 844f9fac-8424-426e-81e6-64f10d3f6742|Koookles|tasteyCloudz|W|0|liberals na
@@ -2680,8 +2680,7 @@ edac4d65-9a79-4774-af40-1d675db531c1|Mami|emu|W|3|rip the baby mami tomoe, puell
 f5e5e5a0-4f0a-4015-b27d-b59aeeab8bee|Kizuna Ai|Jisagi|W|1|kizuna ai ai, virtual youtuber, vtuber, female, human, idol, performer, influencer, entertainer, white, pink, pink bow, brown hair, sailor outfit, jpop, cute, kawaii, streamer, kizzunaai, virtualidol, aichan, aichann, kizzuna, kizunah
 c2765f25-85a6-45ea-b671-36e46cb109b1|Black Heart (Stone Grey)|-Milk Deluxe-|W|1|black heart from neptunia heart, neptune, hyperdimension neptunia, game, female, human, goddess, cpu, processor, black, white hair, outfit, purple highlights, leotard, cyberpunk, egirl, alt girl, waifu, club, dancing, edgy, baddie, hyperdimension, blackheart, cpu cyber punk, leoturd, blackheartt
 97f19688-33c4-498c-8e6f-e786636f56bb|Shinoa|Spucknit|W|4|shinoa hiiragi, seraph of the end, owari no seraph, anime, manga, female, human, schoolgirl, student, character, girl, lavender hair, purple brown eyes, uniform, japanese school bow, school, anime manga shinoa, seraf, heiragi, shenoa
-d8cb75e4-6e04-4aae-831b-9bed7420f67d|Flintstone
-Flintstones |beepbob|W|1|flintstone flintstones na
+d8cb75e4-6e04-4aae-831b-9bed7420f67d| Flintstone Flintstones |beepbob|W|1|flintstone flintstones na
 fee4d6c6-3fdc-4804-b694-9749e36fb76f|DSq|DyingInside|W|4|dssdsd anime girl, school female, human, teen, student, waifu, black hair, blue white uniform, tie, anime, cute, kawaii, school, animegril, animae girl
 d9220e6f-618b-4693-8dca-9a5423b5e092|yellow avatar|LubeMyTube|W|3|aaaaaaaaaaaaaaa female, human, anime, cartoon, manga, toon, animated, teen, girly, schoolgirl, japanese, cute, kawaii, big eyes, teal hair, animegirl, mangagirl, cutte, kawaaii
 f9cfc7d5-0a7e-4982-be11-ceff53696301|LilFoxy|Loesfy|W|4|lilfoxy fox girl, kemonomimi, female, furry, canine, anthro, animal, tan, white stockings, armbands, casual, relaxed, kawaii, cuddle, sleep, foxgirl, kemomimi, furryy
@@ -2968,7 +2967,7 @@ acbbba77-a1f6-4a5a-ae9c-fd29243927bb|Pingu|EscapeJam|W|3|pingu anime girl, kemon
 59c15924-a644-4fa4-aed2-f9a103216387|neon|Fuji_Nora|W|2|neon na
 05128456-4ce5-486e-93da-c6c2ba484150|Miku Future|Fluffy 82ea|W|5|miku future
 f8a27077-cd7c-4e43-a4d2-b9929d44aaa4|catgirl|justison|W|0|testing na
-39b12b9d-7e0b-4a45-b981-5dcb8411f58d|spidhuman|Fate|South|W|2|spidhuman na
+39b12b9d-7e0b-4a45-b981-5dcb8411f58d|spidhuman|Fate South|W|2|spidhuman na
 aa879276-d9bb-4fcd-bed3-67499a3f2731|Succubus Original|リュウ|W|3|succubus original anime girl, female, human, woman, waifu, manga, kawaii, pastel, cyan hair, blue pink hair streak, orange eyes, white bow, moe, cute, pretty, animegirl, femal, hoomam, grl, pastell, cyanhair, bluhair, pnkhair
 381c76cd-8b7f-4457-a797-3c476db0f3a0|Courtney|Voidsinger|W|2|...slurp♪ sina, pokemon, pokemon and y, character, female, human, anime, purple, pocket monster, game freak, npc, trainer, pokemontrainer, pkemon, pokeman, ziina, zeena, seena
 a98d53fb-0f17-46c7-92ae-90e65cfe7aee|Tanya|Nadongie|W|0|tanya von degurechaff, youjo senki, saga of the evil, soldier, female, human, mage, wizard, sorcerer, military, officer, black uniform, red accents, iron cross, world war, historical, serious, tanyavondegurechaff, tanyavon, degurechaf, tanya, anime, manga, youyosenki, youjo, tanja, tanyia
@@ -3100,8 +3099,7 @@ d6abc23a-0c5e-49f6-8422-a88f5c079455|pepe|rk0killer|W|2|pepememe pepe the frog, 
 d88e6397-3c72-49a4-908c-db9307628287|TRON Miku|Ikaroswings4|W|4|tron miku android, cyborg, female, robot, droid, automaton, mech, white, black, teal, teal highlights, cyberpunk, futuristic, techwear, y2k, dance, club, vibing, androyd, cybrg, whitte, blaack, teeal
 393b48fc-f93d-4cbc-a302-f4417e864718|WarGreymon|ShockwaveOfKaon|W|1|the mega level of agumon omnimon, digimon, holy knight, royal warrior, male, cyborg, android, digimon adventure, digivolution, angel, white, yellow armor, blue omegamon, ommimon
 37ade0ec-baec-48e3-b005-dedef4996194|GeniusKaitoV1|Fayt|W|3|genius kaito without bone collision. naruto uzumaki, naruto, anime, ninja, male, human, manga, orange, orange outfit, leaf village, konoha, hidden leaf, nine tails, kyuubi, anime character, metaverse, uzimaki, naroto, shippuden
-af1bf9ce-406e-414c-8bab-5f4a2e088c27|Doe-chan
-|Azurba|W|4|doe-chan deer girl, female, anthro, fawn, doe, white, silver antlers, white dress, black trim, sleeper, cuddle, cosy, calm, quiet, deergirl, deergrl, deergurl, deargirl
+af1bf9ce-406e-414c-8bab-5f4a2e088c27|Doe-chan  |Azurba|W|4|doe-chan deer girl, female, anthro, fawn, doe, white, silver antlers, white dress, black trim, sleeper, cuddle, cosy, calm, quiet, deergirl, deergrl, deergurl, deargirl
 65db8ecb-1945-4c09-ad8d-e0d73f9dff6c|Libeccio|Dezmonda|W|4|kantai collection comissioned by based bass anime girl, female, human, schoolgirl, sailor, animated, green, white, red bow, brown hair, cute, kawaii, school uniform, jpop, animegirl, animegurl, animae
 074fb223-0774-480a-b61b-3296d108dd9d|pepa|Fruit Heroin|W|2|pepa pepe, pepe the frog, sad meme, male, amphibian, green, white shirt, cartoon, web troll, funny, viral, based, cringe, pepethefrog, pepee, peepo
 63ca6036-38ba-4fcc-88b8-368da16ded11|AstraDraw|Zierk|W|3|astradraw original character, oc, girl, female, alien, monster, kawaii, pastel, pink, white, black, purple, galaxy, star, spooky, cute, emo, pastel goth, orignal character
@@ -3702,7 +3700,7 @@ f0ec7357-7fb9-4060-8b39-dcd28221eb70|Mech|KahoHinata|W|5|mech
 ad380a96-6b4b-4413-94b9-934b10a3d371|Loli Elie Alpha|Debiruku|W|4|loli elie alpha anime girl, female, human, teenager, schoolgirl, student, anime, manga, brown hair, blue eyes, white skirt, jacket, school uniform, e-girl, club, dancing, cute, animee, animay, animae, aime, aneme, animi
 9255dd8b-5a25-4374-b90a-826b7f53424a|Creepyface|Herezz Jonnyy|W|3|creepyface na
 bcc87cba-f332-4734-822e-dc5d3850d74a|Loli|KahoHinata|W|5|loli
-fa83227a-c989-4195-8064-bfb6b6d4827a|Sagiri <3|twitch|madafakaoficialYT|W|4|sagiri <3 izumi, eromanga sensei, female, human, anime girl, manga kawaii, loli, little white, pink, light blue, white hair, pink hoodie, blue eyes, headphones, cute, child, smol, weeaboo, otaku, japan, asian, sagiri, eromamga, manga, animae, animay
+fa83227a-c989-4195-8064-bfb6b6d4827a|Sagiri <3|twitch madafakaoficialYT|W|4|sagiri <3 izumi, eromanga sensei, female, human, anime girl, manga kawaii, loli, little white, pink, light blue, white hair, pink hoodie, blue eyes, headphones, cute, child, smol, weeaboo, otaku, japan, asian, sagiri, eromamga, manga, animae, animay
 bcc1de4d-930a-4d53-8f67-0808551d8c02|Little kim|xosunshinexo4302|W|0|little kim britney spears, singer, celebrity, female, human, blonde, star, pop musician, white, silver necklace, heart tattoo, 2000s, y2k, egirl, club, dancing, britny, britaney, speers, spearz
 5dc5ede8-2af6-428a-8825-141f53691afd|Issa living greenscreen|akazork|W|2|dsa na
 efa36faf-67ad-402d-8c7f-1e8dd18c815c|Arwing SNES submitted by dlfon99|Coin-Amok|W|2|arwing from starfox, found on the models resource, submitted by dlfon99. na

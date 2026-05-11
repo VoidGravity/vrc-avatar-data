@@ -369,7 +369,7 @@ e3ef2c08-fad7-4c65-920a-3a9e924b6bdc|Celty #3|TheCordisMARKI|W|5|celty #3
 41fa83f5-7a0e-42c0-a021-ef7236528cd7|Kanna|BDvonBaron|W|4|sadasdsa na
 3f902cc1-7af1-4fad-a3bf-9bd325d1da25|Fairy Girl|ClaudiaasWorld|W|4|na
 0bb97431-efe4-432d-94b4-a5716b264a8e|cuphead|TheKumaBearr|W|1|cuphead mugman, cuphead, studio mdhr, video game, cartoon, male, cartoon character, living cup, talking red, white, black, red straw, drinking cup head, game meme, funny, troll, coffee, cofe, caphead, muggman, cuphed
-9b3871fc-9b22-49fc-9df9-1accbca708ac|Shinoa Hiragi||Noctis||W|3|shinoa hiragi female, human, anime girl, schoolgirl, student, schoolkid, anime, manga, gray hair, red streaks, pink bow, kawaii, cute, waifu, egirl, teen, animee, annime, grray, pnk, kuwaii, wiafu
+9b3871fc-9b22-49fc-9df9-1accbca708ac|Shinoa Hiragi| Noctis |W|3|shinoa hiragi female, human, anime girl, schoolgirl, student, schoolkid, anime, manga, gray hair, red streaks, pink bow, kawaii, cute, waifu, egirl, teen, animee, annime, grray, pnk, kuwaii, wiafu
 b135acfa-cb1c-404e-b067-9395ba8a233c|Dinero|kurankaname2|W|5|dinero
 2969255b-0e18-4618-810c-186d825c1b2b|Kanna|Cameddie|W|4|kanna na
 f7e6303d-9eb0-424d-9cf7-58b27e023b3b|Lanexia v4|Nidro|W|1|324 na
@@ -416,7 +416,7 @@ d4098722-9c9f-4b27-bbfd-6f8fbb54a132|Nanachi|Skeke|W|4|nanachi nanachi, made in 
 9a91525e-77f0-478b-aa82-efb67f005532|�����뢠|Anamath|W|5|�����뢠
 9b0abbef-b6cf-40c4-bbe8-82d38bdf7275|sex|Coldblood 41cd|W|5|sex
 9aa33ce2-6663-4180-9574-7f9a6835f60e|HOKUSAI|vermili0ns_ts113|W|2|hokusai japanese girl, kimono geisha female, human, woman, lady, blossom, purple, red flowers, black yellow sash, white ornament, fabric, cloth, beautiful, cute, kawaii, asian, jpnese, gepsha, giesha, kiyomizudera
-263a214d-7431-488f-8d21-24a02d5bb2b1|SithKermit|twitch.tv | HotSquatch|W|0|do it kermit the frog, muppets, meme, male, amphibian, comedian, entertainer, green, black robe, dark, mysterious, occult, funny, troll, viral, cursed, kermit, kermitt, frogge, froge
+263a214d-7431-488f-8d21-24a02d5bb2b1|SithKermit|twitch.tv   HotSquatch|W|0|do it kermit the frog, muppets, meme, male, amphibian, comedian, entertainer, green, black robe, dark, mysterious, occult, funny, troll, viral, cursed, kermit, kermitt, frogge, froge
 49abe548-685c-41ba-90b9-78ea490cb84d|Tharja|Festive Onahole|W|4|tharja female, witch, mage, sorceress, anime girl, human, sorcerer, black hair, red dress, gold trim, fantasy, magical, mysterious, elegant, witchh, witche, magee, mayge, sorceresss, sorceror, wtich
 539760a6-a37e-45d9-9f98-8e688567e309|Taube|ReCoKo|W|5|taube
 0e746ec3-9e9d-428d-a61f-edd33531feae|BlueShadow|Eriniin|W|1|blueshadow cyborg, female, robot, android, machine, bot, automaton, white, white body suit, turquoise accent, teal fighting, sci-fi, futuristic, cyberpunk, androidd, robott, cybrg
@@ -484,7 +484,7 @@ a9f15b46-cd73-45ae-9381-1d5bdb6cbf47|Swiss Eren Yeager v1.2|JustMichi|W|2|swiss 
 232dc071-9745-4ebc-983f-d69ad204a6e8|Knuckles Suit|Alsandair|W|2|knuckles suit knuckles, ugandan meme, male, furry, echidna, anthro, do you know da wae, he knows fedora, sunglasses, black, dark, uganda, funny, troll, knuckless, ugandal, dawae
 5df97f99-2d47-4850-8de2-f5134c10e9a8|Pingu|600wmicrowave|W|2|pingu pingu, penguin, cartoon character, bird, male, animal, mascot, black, white, red, funny, meme, tv show, childhood, happy feet, penguin avatar, pingggu, pinguin
 bf5af02e-ff3f-43a9-946f-0567790a067e|TOKI|vermili0ns_ts113|W|1|toki female, furry, bird, avian, harpy, angel, angelic, birdgirl, white, red, peach, white hair, pink wings, cute, kawaii, anime, egirl, andro, feathered
-4f69a2bc-54db-4d24-9707-216ff9a8c2b1|DeWhey|twitch.tv | HotSquatch|W|2|dewey maid, anime girl, female, human, servant, domestic, helper, anime, cartoon, pink dress, white apron, housekeeper, club, dancing, kawaii, cute, aneme, animay, aniem
+4f69a2bc-54db-4d24-9707-216ff9a8c2b1|DeWhey|twitch.tv   HotSquatch|W|2|dewey maid, anime girl, female, human, servant, domestic, helper, anime, cartoon, pink dress, white apron, housekeeper, club, dancing, kawaii, cute, aneme, animay, aniem
 3dd841ad-a39c-4134-8efa-4ba92b3db7c8|Devil of uganda|_KyotoBogdan_|W|5|devil of uganda
 e1b2eb63-da29-4acd-93db-d87ab2bb5b16|Toliet|kittenlovah|W|0|dirty toliet na
 9edaae94-0853-4e65-80a0-3067a7ce08e1|Reaper 2|Azara_|W|1|space marine, sci-fi character, soldier, male, human, warrior, mercenary, fighter, orange, black helmet, white armor, armored, tactical gear, cyberpunk, military, action, space, science fiction, sifi, sci fi, spacemarine
@@ -3226,8 +3226,7 @@ c122118b-2527-406b-8d41-a85a98c23ca0|Twilight Zelda|ZeldaxSheik|W|2|twilight zel
 6deb94f4-b86f-4319-a8fa-e32539c1bfc6|LOL|Chiken 1|W|0|lololololol mr. sardine, spongebob squarepants, cartoon, male, humanoid, tan, blue, red tie, funny, meme, fish, mr sardeen, sardin, mr,
 67894cae-9c0d-4f5a-bf8b-a581b3f4e87f|Alex|FrickeDe|W|3|alex male, human, man, anime, cartoon, dad, father, buff, muscular, brawny, white t-shirt, red hair, beard, blue jeans, brown belt, admiral, daiseiryaku, anime strong, masculine, manley, animee, mna
 e2b4b5ff-70a2-4082-924f-6b349e04fefd|aaaa|kakashi123456|W|1|aaaa neko girl, female, kemonomimi, humanoid, catgirl, anime, manga, cat ears, kawaii, petgirl, pet, cat, blonde, red bow, scarf, black logo, catz, neko, catears, neeko
-dc96cd9b-a60e-49fd-b853-99ecec5cfa01|Miko Ooka
-|UnleashTheKraken|W|1|some vocaloid, tiny thing with tail. working eyes, mouth, colliders and dynabones. optimized atlas'd textures so poly count don't matter. enjoi maid, catgirl, anime girl, female, furry, kemonomimi, animal ears, servant, waitress, neko, cat pink hair, red brown dress, white apron, fluffy cuffs, kawaii, egirl, anime, cat, neko kitty, servent, ket, kat, waitresss
+dc96cd9b-a60e-49fd-b853-99ecec5cfa01|Miko Ooka  |UnleashTheKraken|W|1|some vocaloid, tiny thing with tail. working eyes, mouth, colliders and dynabones. optimized atlas'd textures so poly count don't matter. enjoi maid, catgirl, anime girl, female, furry, kemonomimi, animal ears, servant, waitress, neko, cat pink hair, red brown dress, white apron, fluffy cuffs, kawaii, egirl, anime, cat, neko kitty, servent, ket, kat, waitresss
 f89babec-99c9-4bd8-bf9d-972d85d4893e|Ribbon Girl Miku|Lilycats|W|2|ribbon girl miku female, humanoid, anime girl, schoolgirl, school uniform, pink, white, pink jacket, grey tie, headphones, school, vibe, e-girl, cozy, kawaii, moe, anime, femaile, gril, gurl, heaadphones
 9bacf15a-692a-45d1-9014-0e836c1128fd|ada|kanakun|W|5|ada
 be7950d7-19a4-46b0-b8a6-55478495db71|spiderwingman|Dr.Strika|W|0|spiderpizzaboi spider-man, peter parker, marvel comics, superhero, avenger, male, human, spiderman, spooderman, web-slinger, wall-crawler, vigilante, red, blue, black webbing, spider emblem, hero, fighting, action, spidey, man, spidrman, spidermann, spoder man
@@ -4059,7 +4058,7 @@ da2c8834-6d3f-449c-b4c2-291225e838ba|Catgirlcustom|Neolynxx|W|2|catgirlcustom na
 1e784e31-fa35-4f6a-9195-e8bf38ec9655|BaymaX|BBMoose33|W|1|baymax baymax, big hero 6, male, robot, android, machine, bot, automaton, white, white body, inflatable, protector, defender, caregiver, healer, robotic, hero, superhero, cartoon, meme, funny, cuddle, baemax, baimax, bighero6
 68e3afdc-754f-4fd1-811b-5c158d314864|Leon Kennedy RPD|Taffi|W|3|leon kennedy rpd goth, female, human, maid, gothic lolita, servant, housekeeper, attendant, black, white, gothic, cute, kawaii, maid outfit, goth
 f5eac4eb-89fd-4a38-87d2-4d787ad442bc|VoodooDoll|Fobio|W|3|doll with deal voodoo doll, ragdoll, male, undead, zombie, spirit, ghoul, white, black stitches, empty eyes, horror, scary, creepy, troll, meme, viral, cursed, vudoo dol, raggdol, ragdol, vodo voodoo, unded, zombi, zombe, spirt, spooki, creepi
-d3594f00-ba3e-4e7e-ab4e-119cb95165ca|Bandit|Raidens_a_BicH_lo||W|3|gsg9 soldier, male, human, mercenary, combatant, fighter, trooper, gray, military gear, tactical vest, headphones, goggles, balaclava, mask, armed, war, tactical, merc, solider, soldir, marcenary
+d3594f00-ba3e-4e7e-ab4e-119cb95165ca|Bandit|Raidens_a_BicH_lo |W|3|gsg9 soldier, male, human, mercenary, combatant, fighter, trooper, gray, military gear, tactical vest, headphones, goggles, balaclava, mask, armed, war, tactical, merc, solider, soldir, marcenary
 aeb3a7f9-ba34-4cbd-813b-a00ce6750ca9|Aqua V2|Alto|W|4|aqua v2 aqua, konosuba, female, human, goddess, priestess, archpriest, anime girl, blue, white sleeves, gold trim, brown skirt, green bow, cute, waifu, kawaii, club, dancing, anime, aquaa, acqua, aquakonosuba
 5355e6f0-e144-4162-8dd8-624726aedb80|2lk|DaddyGirl|W|3|2lk anime girl, female, human, schoolgirl, student, character, manga glasses, brown hair, coat, dress, school scolgirl, aniime
 2b062c90-e025-4f0d-8930-693b86a9a1db|Konko Small|S1B1C1|W|3|konko small e-boy, grunge, streetwear, male, human, influencer, model, white, white hoodie, black text, tactical vest, y2k, street, cozy, aesthetic, eboy, streewear

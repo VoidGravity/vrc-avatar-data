@@ -1767,7 +1767,7 @@ d46a4c2a-0ab2-4648-aaff-053cf4854cb2|COMMANDA KNUKKLES|sjkskjkj|W|5|commanda knu
 2a2f5986-17c9-4ca8-8994-55344148adfa|Natsuki v3|Tenshinen|W|5|natsuki v3
 b3e4af01-b098-4b4a-bb83-eb1223174c16| Succubus V2|Chrabo|W|5|sucubbbus
 af3a7c7c-6187-4730-80f4-6824a76e4a70|Pit *fixed cam*|Zarge|W|3|the lead character from nintendo's "kid icarus" series.
-5190336a-bc79-449d-aa0a-07c7a922e13a|Niko2|Ducky || アンドレ|W|5|niko
+5190336a-bc79-449d-aa0a-07c7a922e13a|Niko2|Ducky    アンドレ|W|5|niko
 c8856ee0-d14f-41f7-85e6-eee771021f3d|Jabba the Hutt|Xeraster|W|5|jabba the hutt
 f47c51d9-402e-4826-954c-70df6f986ba2|UGANDA KNUCKLES|Aidwen|W|5|uganda knuckles
 50136833-30b8-454b-84ac-18979b26d1d3|Sayori|WorthlessVR|W|5|come hang out with me!
@@ -2282,7 +2282,7 @@ d2e90a14-7e1b-4535-88bb-7e86e65edd36|Knuckles Meme Avatar|derpjesus1212|W|5|new 
 026ce2ed-3c6b-439c-8b26-d7795053d71d|Black Rock Shooter|WOLFling|W|4|black rock shooter shooter, anime, female, human, anti hero, vigilante, fighter, black, blue, white, star emblem, edgy, emo, goth, alternative, cool, blackrockshooter, blckrockshooter, blacrockshooter
 1096d329-03c7-4816-b2d3-a2f0574de38c|Shadow Mewtwo|Chef 9797|W|5|shadow mewtwo mewtwo, pokémon, pokemon, legendary, legendary male, monster, feline, furry, animal, purple, purple fur, gold armor, psychic, esp, psionic, gen 1, pokemon red and blue, re, pokeman, pokimon
 1142dbdf-ea52-4b81-8a1f-85b1a3715878|Abysse|Devil Leo|W|5|abysse
-fa2ea9cc-b2d1-4203-a8e6-4d0fe07d82fd|st_jeezy|twitch.tv|st_jeezy|W|2|st_jeezy
+fa2ea9cc-b2d1-4203-a8e6-4d0fe07d82fd|st_jeezy|twitch.tv st_jeezy|W|2|st_jeezy
 8af746df-f06a-4e25-b6df-39d1eb17cc99|ShadowBenEye|ShadowBen|W|5|shadowbeneye
 c3995c6f-75b0-4e0d-8221-43a5ff7cd251|Albedo 5|Oshino Meme|W|5|albedo
 2856c66c-b2f3-4976-8aca-6d0931f60894|White anime|Blaz00r|W|1|white anime boy, male, human, school uniform, student, teen, white, black, gold emblem, buttoned jacket, classy, anime, manga, andro, androgynous, aneme, aniime, animae
@@ -3349,7 +3349,7 @@ ad2bcd8c-eab5-41f6-be00-c14a82917eab|Risa|Betrix|W|5|risa
 eb0341e3-762b-4ea9-a4fe-8f0c813c1e53|neko chan|Ataru`|W|5|kawaii!!!
 0274a6ce-f305-444f-810c-3ed1779b11bc|Kirito|ButterBrown|W|5|kirito
 7da44470-23c9-4ba3-991b-8add18533e3e|Alex Jones Knuckle|Nut Like This|W|4|alex jones knuckle ugandan knuckles, knuckles the echidna, sonic hedgehog, sonic, male, mammal, animal, meme, funny, troll, do you know way, de click click, spitting, ugandan, vrchat, garry's mod, virtual reality, social, vrc, virutal reality chat, vrchat
-4e211bc8-4e63-4ee6-9ebc-5e85770e0f48|TF|2 - Viper v.1.2|ScriptKitt3h|W|5|tf viper
+4e211bc8-4e63-4ee6-9ebc-5e85770e0f48|TF 2 - Viper v.1.2|ScriptKitt3h|W|5|tf viper
 fdb1391d-61a6-4c33-96ef-cbf1f8b0d136|Taiga|♥ Classwork ♥|W|5|taiga
 d86e50e8-9f1a-4bc9-8116-8eead4785062|Android18|Saiyan Bastard|W|5|android na
 504e2107-3899-4429-99a2-18fb22268de6|Periclod|Sparkpin|W|3|periclod
@@ -4590,7 +4590,7 @@ a7e466a7-ef51-4978-92ba-93f511f2fe9f|Adolf Hitler|kokenya|W|5|adolf hitler
 e3efc111-2da7-44b8-9d2e-f2ad3d30905a|Teto|lazarBeeM|W|5|teto
 ef4ad0ed-2e35-4c19-a840-455547e6e519|Homero |Shiftings|W|5|asdasdasdsa
 ae44a108-ee23-4145-996c-6471563d8390|SkellySpin|Dobbin|W|5|skellyspin
-91cce536-f0f0-48e6-b7bc-683af38c6db4|penguin|twitch.tv|shawnez|W|0|it's fucking penguin
+91cce536-f0f0-48e6-b7bc-683af38c6db4|penguin|twitch.tv shawnez|W|0|it's fucking penguin
 6f4971af-6a83-4b51-89a8-af57a54e61ac|Arcade Machine|Wubbalubadubdub|W|5|arcade machine na
 1dc70d1e-8fde-4154-82f3-6296a4c145e9|commando|hammu|W|5|lol
 7a87d1a6-72d1-4766-a99d-e755198e2d75|Mega Man X|tehmeaty|W|5|super fighting robot. mega man

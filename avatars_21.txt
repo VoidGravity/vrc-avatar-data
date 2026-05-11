@@ -508,7 +508,7 @@ cf3e1110-7767-4fe6-94a2-e30f28541eeb|FemViller|PaperDawN|W|2|femvil na
 357eaf8d-8b31-402a-864e-fbd229b95944|Normie Onix|Onix Chan|W|0|normie onix male, human, gamer, content creator, streamer, video game player, casual, guy, man, blue, gray, white hat, purple gamecube controller, playful, fun, friendly, gaming, gamerboy, gammer, gameing
 eedafb87-11bf-4ef4-96ff-ed267050dbba|Misaki|LiteFeathers|W|2|misaki na
 645a81a4-06ef-45cb-ad29-996c262405eb|Oka Chan|Hellstringer|W|3|oka chan maid, gothic, anime, female, human, butler, gothic lolita, victorian, black, white, dress, frills, lace, cute, elegant, moe, moegirl, meid
-26dd7cfc-f71f-410e-b091-c879c0d68395|Jake From adventure time|.tv|Ladomiand|W|0|jake from adventure time e-girl, egirl, female, human, streetwear, y2k, emo, punk, teenager, black, white tank top, tattoos, chains, e-grill, egril, grill, ding
+26dd7cfc-f71f-410e-b091-c879c0d68395|Jake From adventure time|.tv Ladomiand|W|0|jake from adventure time e-girl, egirl, female, human, streetwear, y2k, emo, punk, teenager, black, white tank top, tattoos, chains, e-grill, egril, grill, ding
 efd01472-6573-4a45-9abb-ae1d63b66143|Una|GuavaJoe|W|4|una anime girl, school female, human, manga, cartoon, character, avatar, student, cute, kawaii, loli, blue, white, sailor dress, hair clips, glasses, red emblem, patch, backpack, twin tails, blue hair, pink school, highschool, middle social, friend, cutie, lolie, cutt, blu, whitte, saylor, hare, clipss, glassess, embelm, petch, backpac, twintail, skool, stdent, highskool, middleskool, frind
 8c63a5eb-d74b-498d-9fd9-927a240a8672|Tank Uganda|FinnIsHere|W|2|tank uganda robot, android, machine, bot, automaton, male, gray, metal, metallic, armor, tech, sci-fi, futuristic, cyberpunk, techwear, mech, industrial, grinder, grndr, roboto, androyd
 59c62944-5807-4ae5-9d15-83855481db57|71 challenger|RoboticJoseph|W|4|71 challenger na
@@ -519,7 +519,7 @@ c94235c6-e62a-476d-90f5-edce15774ec9|Luka|jkhat|W|2|luka hatsune miku, vocaloid,
 72bffc8f-3d94-4ccd-94f1-04f85353a7e2|Oasis|Clark Kent|W|0|na
 2e3adf16-a291-48ac-b628-092ddfc6ebf2|Cloud|KiroZ|W|1|sfds na
 31b30977-8fec-4d7e-ba39-7e6802d39552|Hollow|OverseerZion|W|2|hollow na
-afaf4695-62f7-4a9d-bc10-d9d4732d7759|Spongebob Fish|.tv|Ladomiand|W|1|spongebob fish na
+afaf4695-62f7-4a9d-bc10-d9d4732d7759|Spongebob Fish|.tv Ladomiand|W|1|spongebob fish na
 b3700314-582d-4ba1-94f9-8988326d63d8|TRUMPKUCKLES|gothmoney|W|2|yup na
 ecff9946-c57e-443c-8b7f-080cbc5b8fbc|destroyer|paralog|W|0|destroyer commander shepard, mass effect, n7, male, human, soldier, marine, warrior, black, black armor, white n7 logo, gold visor, shooter, sci-fi, space galactic, comander, sheperd, effct
 abf3a442-c387-4bab-bdd1-6e43a3b48508|TestAv2|Oromie|W|0|testav2 na
@@ -841,7 +841,7 @@ e493f9fb-8791-41fb-ab06-295c51f962be|Konko v.2|Meaowyn|W|3|konko v.2 na
 872d0d80-92ef-4fc8-84af-45f4faff793d|Venom|MuscleBustah|W|0|venom venom, marvel comics, superhero, supervillain, anti-hero, symbiote, male, alien, black, white spider emblem, muscular, scary, horror, action, vemon, venomm, vennom
 19868c2a-f500-47cd-80e2-34b6a07fa0d0|PooBih|cumvaper666|W|2|poobih pink bear, furry, monster, fursuit, animal, anthro, meme, troll, pink, ursine, rosa, pantera, rosa ursena, urson, bere
 5b234891-751b-455d-b162-8517e2a76df1|Junko|RavenBird|W|3|junko na
-b06d0b39-46c0-48e8-8d50-aeda5e78610a|Ciel | DreadLord N|Froxty|W|3|ciel from elsword elf, mage, sorcerer, androgynous, humanoid, enchanter, wizard, warlock, white, lilac hair, blue highlight, eyes, black outfit, gold accent, fantasy, rpg, edgy, e-boy, magee, sorceror, elff
+b06d0b39-46c0-48e8-8d50-aeda5e78610a|Ciel   DreadLord N|Froxty|W|3|ciel from elsword elf, mage, sorcerer, androgynous, humanoid, enchanter, wizard, warlock, white, lilac hair, blue highlight, eyes, black outfit, gold accent, fantasy, rpg, edgy, e-boy, magee, sorceror, elff
 4debc081-27b5-4e3d-8fcc-9ed04fa54514|testcon|thatgentlemanwhossonneverpaidme|W|2|testcon na
 ff3de1c9-1bb6-4171-8239-18cd117bd0e3|Sephiroth|Darkus_Rei|W|0|final fantasy sephiroth, vii, ffvii, villain, antagonist, swordsman, male, human, warrior, knight, swords-person, grey, silver hair, black outfit, shoulder pauldrons, masamune, evil, battle, fight, fighting, sephirot, sephirothh, sephirotht, ff7, 7, swrodsman, sworsman
 f648ca42-e4cb-4612-9b8c-de8a9bf89452|Braum|Birdies Frijoles|W|1|braum from league of legends! warrior, knight, guardian, gladiator, male, demon, devil, fiend, imp, monster, brown, armor, shoulder guard, club, rpg, fantasy, knightt, knite, warrrior, guadian, deamon, demmon
@@ -4531,8 +4531,7 @@ bc4cce8c-cc8d-4c38-83e6-8a398b5d7a2d|kapla|Influere|W|5|kapla
 f8c8e6b8-d369-41ab-b4b1-b3bbd0a943f2|BrandPerfecto|Luciano_M80|W|1|brandperfecto undead, skeleton, lich, male, demon, corpse, zombie, monster, fiend, ghoul, blue, light blue earrings, green belt, horror, scary, creepy, spooky, emo, ghotic, unded, skelton, lichh, deamon, zombi, monsterr, fiendd, goul, bloo, ligh bloo earing, greenn horrer, scarey, creppy
 130d78bd-11c3-48a9-ad2c-da5e1907455c|2cornchan|AmRabbit|W|0|2cornchan na
 0ce30e59-7090-4fa1-8fb7-b5a47756906d|Gene|Villager of SmashVille|W|3|gene na
-a122044e-78e8-4486-ace6-9d2eb3399c39|Kiniro Mosaic Karen
-|OxYUNI|W|2|me. alice cartelet, kinmoza, hello!! anime, student, female, human, schoolgirl, school scholar, pupil, girl, blonde, blue eyes, pink ribbon, sailor uniform, collar, anime japenese kawaii, cute, moe, tsundere, waifu, schoolgirl outfit, animated, cartoon, alis kinmozaa, alise cartelette, skool alis, japanesse, japoness, moee, tundere, wayfu
+a122044e-78e8-4486-ace6-9d2eb3399c39|Kiniro Mosaic Karen  |OxYUNI|W|2|me. alice cartelet, kinmoza, hello!! anime, student, female, human, schoolgirl, school scholar, pupil, girl, blonde, blue eyes, pink ribbon, sailor uniform, collar, anime japenese kawaii, cute, moe, tsundere, waifu, schoolgirl outfit, animated, cartoon, alis kinmozaa, alise cartelette, skool alis, japanesse, japoness, moee, tundere, wayfu
 50d5ee51-a82d-488e-a404-9ec60b57767f|CF2 qwe4|weso111111111111111111111111|W|2|cf2 qwe4 na
 22b2214a-018d-4a83-a403-2c9c7deccb85|Diviy is Dumb|Lewd4HeadPats|W|3|hi female, anime, human, schoolgirl, student, girl, red scarf, blue hair, yellow hairclip, cosplay, kawaii, cute, anime avatar, vrc, social, chibi, bluhair, yello, skoolgrl
 7936602a-9fa1-4f9e-af6b-80feb7f44eb9|Yoshimitsu|Yaron8|W|3|as head of the manji clan, yoshimitsu entered king iron fist tournament distraction, to allow steal tournament's funds unobserved. alien, male, extraterrestrial, monster, creature, reptilian, gray, alien head, bulky, menacing, scary, horror, sci-fi, science fiction, sci fi, ugly, strong, alienz, aliien, alin

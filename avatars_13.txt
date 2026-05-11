@@ -989,8 +989,7 @@ da77ee38-c69a-4c97-9cec-56ad331deb06|IA|Manzanna|W|2|ia anime girl, j-pop idol, 
 d30eef19-7937-4acb-8438-0758585d11c1|Sample Avatar|likearrboss|W|2|sample avatar mannequin, male, humanoid, anthropomorphic, figure, dummy, blue, navy, low poly, simple, basic, generic, placeholder, default, minimalist, impersonal, untextured, manakin, maniquen
 0942ab5a-34b1-4f1d-bd30-5dc608b14cc3|tic tirl|illusima|W|5|tic tirl
 622e53b9-6115-4a40-a7b1-ecdcd26319ef|9 Tailed Loli|Excel d656|W|5|tailed loli
-a0331bb3-bdc5-47aa-9eb8-125d57aea70a|BanditBandit Marauder
-Game	Bord 2|EagleEye7000|W|0|from borderlands psycho, borderlands, bandit, male, human, psycho madman, scavenger, lunatic, grey, grey outfit, masked, creepy, scary, horror, evil, psychoo, bortherlands, bordelands
+a0331bb3-bdc5-47aa-9eb8-125d57aea70a|BanditBandit Marauder Game	Bord 2|EagleEye7000|W|0|from borderlands psycho, borderlands, bandit, male, human, psycho madman, scavenger, lunatic, grey, grey outfit, masked, creepy, scary, horror, evil, psychoo, bortherlands, bordelands
 66fbf9f6-d3ff-4a0d-af9f-43451dfffd2b|Loli With Wings|Excel d656|W|5|loli with wings
 527b7b9b-1b87-4e7b-ab30-ad0b86594783|Ahri Guardiana Estelar|FhiurerDemon|W|1|ahri guardiana estelar ahri, league of legends, champion, female, fox, kitsune, mage, sorcerer, humanoid, orange hair, red tails, white dress, blue accents, blonde magical girl, game character, gamer, sexy, ahriii, ari, arei, lague, legands, champon
 fb5744fe-b07b-47e8-9105-5b7e970efbf8|Jimkles|Bob Sempai|W|0|jimkles ugandan knuckles, knuckles the echidna, sega, sonic hedgehog, male, anthro, furry, warrior, fighter, tribal, red, white, blue, meme, funny, troll, do you know way, ugandan, click click, spit on him, de uganda, knuckels, knucklez
@@ -4310,7 +4309,7 @@ c45feb87-f3ed-4ecc-80d1-70c71d3a8968|Wavejammers|Wavejammers|W|4|hi friens dwarf
 8e9d79cf-6655-490f-997b-1ec4f39b2362|knuckles mcdonalds|lol 864a|W|5|knuckles mcdonalds
 ef58f9ab-b79d-4286-b9e9-930d56edb89f|Knuckles Human Size|hb_lester|W|0|knuckles human size ugandan knuckles, sonic, male, creature, monster, anthropomorphic, do you know the way, one of us, red, black eyes, meme, funny, troll, viral, cursed, broken, da wae, ughandan knuckels, knuckless
 bce6eaf6-c014-460f-8e2c-35412e99a00d|Knight Of Purp|Katake|W|2|knight of purp plague doctor, knight, grim reaper, dark male, humanoid, monster, evil, scary, creepy, wizard, warlock, sorcerer, purple, black hat, mask, grey cape, horror, emo, gothic, creepypasta, eldritch, plauge, plauge
-5962337b-cd2f-4a49-bddc-e31b97847152|CielTina||Tina||W|3|cieltina butler, servant, male, human, anime, manga, dark blue, blue suit, gothic, emo, edgy, serving, kawaii, pretty boy, goth, buttler, butller, bootler, darkblue
+5962337b-cd2f-4a49-bddc-e31b97847152|CielTina| Tina |W|3|cieltina butler, servant, male, human, anime, manga, dark blue, blue suit, gothic, emo, edgy, serving, kawaii, pretty boy, goth, buttler, butller, bootler, darkblue
 3c8b89a8-e4ac-4d02-b9ce-d182490dfe6e|Miku Creepy|ZenoChan|W|5|miku creepy
 ad9ad828-3182-412b-9c67-0760518fe120|F Guardian|Lunos_Mond|W|1|he's tall boi robot, android, machine, bot, automaton, gray, yellow, club, dancing, futuristic, roboto, robit
 c7a747b9-19bb-48e8-8e5c-089a70c9195b|Tomato With RANG|tomatoLmao|W|2|tomato with rang na
@@ -4739,7 +4738,7 @@ a4d4beb7-3858-4fc6-a2bb-1eee76c47204|VRCHATMAN|Alexibinks|W|1|he da man that vr'
 98e6768a-6e5b-4591-9870-9be411d5ecc5|Clone trooper|Adraenor|W|0|clone trooper trooper, star wars, galactic republic, soldier, marine, male, human, clone, space white, gray, armor, helmet, starwars, warz, clon troper, strar troopr
 d2099f20-19c9-414d-aa98-9cabbab29c97|Roy|TravelingLucario|W|0|police man policewoman, cop, officer, enforcer, law enforcement, female, human, uniform, tactical gear, short hair, serious, strict, focused, disciplined, alert, vigilant, watchful, lawful, protective, guard, vest, gray, police, cops, policewommen, polecewoman
 3cd2a939-bb75-48e0-a691-9813589939f8|Dance Louder?|Arusia|W|4|asdasd na
-44c8145b-e1c7-45be-a2c2-32f9624ce3b9|Kisaragi|sarahmrrp|W|2|kisaragi anime girl, kawaii, female, human, anime, loli, child, little cute, pastel, pink hair, white hat, school uniform, blue moe, cuddle, sleep, cozy, aesthetic, y2k, kawaai, anme, animee
+44c8145b-e1c7-45be-a2c2-32f9624ce3b9|Kisaragi |sarahmrrp|W|2|kisaragi anime girl, kawaii, female, human, anime, loli, child, little cute, pastel, pink hair, white hat, school uniform, blue moe, cuddle, sleep, cozy, aesthetic, y2k, kawaai, anme, animee
 69c00844-8d0d-4fe8-9b8e-131fca2dd591|the wae|Emrakul|W|0|magic ugandan knuckles, sonic the hedgehog, meme, troll, viral, cursed, red, echidna, cartoon, do you know way, immigrant beast, vr chat, knuckels, ugandian, ugangdan, nuckles
 99e0a9b9-2815-4287-b447-687085bec551|Akunckles|zeox|W|2|long ago in distant land... aku, samurai jack, cartoon network, shape-shifting master of darkness, shapeshifter, demon, male, monster, villain, evil, enemy, antagonist, black, red flames, eyes, shoes, green mouth, horror, scary, creepy, weird, troll, meme, akku, aaku, akuu, samaurai jac, jck
 c7d4ee05-447e-4a7e-ba24-14374a44ae18|emote|RinKyun|W|3|finger test female, human, anime girl, manga waifu, white hair, black hair ornament, red green eyes, cute, kawaii, moe, egirl, vtuber, streamer, avatar, avatr, animegirl, animay wiafu

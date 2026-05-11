@@ -1252,7 +1252,7 @@ ef3be6c6-4cb3-487c-a7be-d1ce94ff81d7|FairyMikuuuu|tje guy|W|3|uhhhhhh try again 
 c1ed164e-6b1b-4f02-87b7-017d587c6aca|Kirito|Snoopi|W|2|kirito na
 0c2d3ae3-31f2-4ab7-8ff8-7d825d829278|mimii|lvcrft|W|3|:3 schoolgirl, student, teen, anime girl, female, human, blonde, blonde hair, glasses, school uniform, cute, kawaii, anime, mmd, skirt, schoolgirll
 eff18b39-5cfd-468e-b93a-1f68e33bb38c|Kevin the Seacucumber|piperpo|W|0|hes weenie lol na
-621ebd32-532d-4c52-84af-4a3c1bd0ef1e|shrilex (Gun Girl 2.5 with unity shander)shrilex|shrilex|W|4|shrilex (gun girl 2.5 with unity shander)shrilex na
+621ebd32-532d-4c52-84af-4a3c1bd0ef1e| shrilex (Gun Girl 2.5 with unity shander)shrilex|shrilex|W|4|shrilex (gun girl 2.5 with unity shander)shrilex na
 658a0cb9-afb1-4b91-a6ba-c85b80fe2ae1|jack|WunderProject|W|3|jack anime girl, robot android, female, cyborg, machine, bot, automaton, white, grey, black, straps, arm wraps, cyberpunk, egirl, y2k, fighting, cool, emo, aneme, robotgurl
 14d902cf-6a23-4e5c-a180-8bea6b53c4fd|GachiPillow|Nightex|W|1|gachipillow na
 be4f6d6e-c6a5-40f2-b1d2-0f8930c2d5e4|Naiomi Shina (Anime)|SkiniUs|W|1|naiomi shina (anime) anime girl, magical schoolgirl, female, human, waifu, anime, manga, cute, pink, black, pink bikini, black hair, bows, ribbons, bracelet, kawaii, club, dancing, e-girl, y2k, grl, animae, mangg, schoo schoogirl, megical, magiical
@@ -2936,7 +2936,7 @@ e10ca190-fc83-4072-9d0d-ea89a8ed4acb|NoEyes|CrowsClever|W|0|noeyes monster, male
 6e53f09c-5d89-49f2-8822-5ac8837cb381|yander1|clementcaulfield|W|4|yander1 yandere-chan, yandere simulator, ayano aishi, student, female, human, schoolgirl, school high schooler, red scarf, black skirt, uniform, emo, creepy, horror, scary, anime, manga, yandere, yan chan, aiishi, yanderechan, aishi-san
 89b349b5-674b-44dd-9938-d3cc172a41a8|Yoshi|Khyris|W|1|green dinosaurous yoshi, super mario, dinosaur, male, reptile, lizard, green, skin, white eyes, nintendo, game character, mascot, funny, troll, meme, yoshy, yosshi, yoshie, dino
 29e9a082-ba6b-4eb1-9203-664d906e77b8|Uganda.|YuJui_ゆじゅい|W|0|uganda. ugandan knuckles, sonic the hedgehog, meme, cartoon, red, tan, 3d character, funny, ugandan, cursed, do you know way, uganda, knucklesugandan, ugandanknuckles, knuckels
-09869e03-e4a3-4060-b331-b3397f953090|Koichi Pose|Pix||W|1|the pinnacle of all poses koichi hirose, hirose koichi, jojo's bizarre adventure, diamond is unbreakable, anime, manga, student, male, human, stand user, fighter, red, red uniform, purple, echoes, jjba, jjba jojos jojo, jojo's, kojchi, koechi, jojo
+09869e03-e4a3-4060-b331-b3397f953090|Koichi Pose|Pix |W|1|the pinnacle of all poses koichi hirose, hirose koichi, jojo's bizarre adventure, diamond is unbreakable, anime, manga, student, male, human, stand user, fighter, red, red uniform, purple, echoes, jjba, jjba jojos jojo, jojo's, kojchi, koechi, jojo
 eb2b3ebc-55b0-47b1-a310-02ab43c0aa20|Tomato Girl|VenomTM|W|0|tomato girl, female, human, anime cartoon character, red, green, red hood, sleep, cuddle, cozy, cartoonish, tomoto reeed, redddd, greennn
 63646214-dd9e-42c9-8a99-584ba7a4fec1|Jakob|Sn Win|W|0|jakob na
 b507a624-35c6-4321-b55a-1ddf8e2634c2|PK Yorick|nekles|W|4|pk yorick hunter, monster male, human, fighter, warrior, black, gray, monster, creature, hunting, fighting, warriar, huntter, huntr
@@ -4500,8 +4500,7 @@ af206a8f-bac7-4383-b246-514bcecb80c0|Musappou good tex?|Tigris|W|3|try na
 7f42d2a9-c05c-4644-9495-5958ea942d22|alucard |darkxcloud|W|2|alucard demon hunter, monster slayer, warrior, male, demon, gray, black, white shirt, red horns, belt, spiked cuffs, club, dancing, edgy, eboy, dark, demom, demin, hunterr, huntter, dmon, deamon, huner
 716185d6-8704-436f-b231-6c79633cebee|Top nep|DamnBobby|W|3|neptune, hyperdimension neptunia, video game, anime, female, human, goddess, cpu, game character, waifu, purple, white hoodie, purple accents, dancing, anime girl, nepu, nepgear, purpl, nep
 202b041c-863d-4820-93c4-24dd7a893d28|Athena|KurumiJinx|W|1|my first avatar upload robot, mecha, android, female, machine, cyborg, automaton, purple, grey, purple armor, grey metallic, futuristic, sci-fi, machina, androyd, femal
-85e43bad-ca7e-4a62-b03a-50757ef46145|稲荷大人
-|Givaup|W|3|稲荷大人 fox girl, anime, female, furry, kemonomimi, fox, vixen, canine, white, red, yellow eyes, red bow, white dress, cute, kawaii, sleep, cuddle, foxgirl, foxy, kemomimi, foxi
+85e43bad-ca7e-4a62-b03a-50757ef46145|稲荷大人  |Givaup|W|3|稲荷大人 fox girl, anime, female, furry, kemonomimi, fox, vixen, canine, white, red, yellow eyes, red bow, white dress, cute, kawaii, sleep, cuddle, foxgirl, foxy, kemomimi, foxi
 e0a91e1a-c6e0-4a92-bc91-40ae0ad02415|Pedo|GemmedYogurt|W|2|pedo na
 fab4fe76-c1fb-4963-a93c-463287658319|Theresa|Revolution12357|W|3|theresa bronya zaychik, honkai star rail, impact 3rd, video game, female, human, gamer, character, game silver hair, white gold trim, black coat, clothes, anime, waifu, serious, elegant, bronya, zaychick, zaychickk, honkai, gam, harr, whight blackk, bronia
 36df5638-8f69-41c4-8f83-6b98e2004abd|Kuzenbo colorless|foxrally|W|1|just test lol monster, androgynous, creature, reptile, beast, dinosaur, neutral, low poly, game asset, fantasy, horror, scary, creepy, fantsy, horor, scarry, creepy

@@ -2127,7 +2127,7 @@ d70df846-dd93-4977-a374-4eaecd522595|Gilgamesh|agememnon|W|5|girugameshu
 1ecbd1be-405e-42d1-a784-283e970cc3c6|Big Bird|Ewug|W|5|he big
 86215180-5131-42f3-9cf8-2a0c47e209d8|CopyofIA|KotoKenway|W|5|common mmd model
 28b7efec-504b-4920-8fa9-1efe04596014|Oka|Kiraitsuki|W|5|from yandere sim
-c43b8e40-bfa4-4a66-819f-b308ac15d0ef|Dr. Salvador 2|MrGreenToS|W|4|dr. salvador
+c43b8e40-bfa4-4a66-819f-b308ac15d0ef|Dr. Salvador  2|MrGreenToS|W|4|dr. salvador
 703be827-a193-40c0-8cd3-e420cac1f0b0|Fiora|Nethock|W|0|fiora zarya, paladins, mage, female, human, wizard, sorceress, purple hair, white robe, gold amulet, white, purple, fantasy, magical, zaria, palladins
 0a794294-e024-4e97-afb8-0ad37d41c24e|Super Super Mini Nepnep|Chinatsu|W|1|super mini nepnep neptune, hyperdimension neptunia, purple heart, female, human, goddess, anime girl, video game character, controller, hair clips, black, blue, purple, blue hair, hairclip, anime, jrpg, waifu, cute, neppie, nep nep, virtual idol, game, rpg, hyperdimension, bluee, nepptuene, neeptune
 9e797bb9-75af-418a-8476-2c81b3de5321|Knuckels|JaceOrangeCat|W|0|man ugandan knuckles, sonic the hedgehog, male, creature, meme, troll, red, red character, knuckles echidna, uganda, de way, do you know wae, cursed, funny, weird, cluckles, kugandan, knucklesss
@@ -2397,7 +2397,7 @@ b9298191-c7c1-4ae6-824b-149a6c87309d|Terry|R4D20|W|5|the detective terry on duty
 d9da9f23-253b-492e-8a71-f98a7dff8c57|VTheif|Moki|W|3|vtheif female, demon, succubus, monster girl, fiend, imp, red, black, white dress, red eyes, hair, earrings, horror, scary, creepy, emo, goth, grunge, scarry, creapy, daemon
 df678194-1bd0-4252-b5fc-f59913b7c742|Lux|pooppick|W|0|lux star guardian lux, league of legends, mage, female, human, champion, sorceress, hero, girl, magic user, magical wizard, purple, pink, white, gold, star, wand, hair ornament, magical, anime, game, cute, sparkly, vrc, vrchat, legends avatar, league, guardian, luks, lox, lol
 3188b08b-d7c8-4e91-8357-9ad5886a0123|Joker1|DimondExe|W|4|joker1 joker, ren amamiya, persona 5, phantom thief, male, human, leader, vigilante, trickster, black, grey, gray, white, red gloves, black mask, coat, buttons, p5, persona, memes, jooker, jokerr
-031219fe-21e8-4ff9-b376-29a9937aa423||Yinoko||BohemondOfTaranto|W|5|yinoko
+031219fe-21e8-4ff9-b376-29a9937aa423| Yinoko |BohemondOfTaranto|W|5|yinoko
 94a10b22-f5bb-4afc-97b3-1631001f0cec|Knuckles|cicciamassiccia|W|5|knuckles
 69284710-0534-4d15-ad28-519196305d46|Himiko Patch 1|Katzumy|W|5|himiko
 8aaad439-d221-4db4-bf7f-9648f6371df0|john sina|SgTRAIKER|W|5|john sina

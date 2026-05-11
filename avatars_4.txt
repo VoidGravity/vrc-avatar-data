@@ -47,7 +47,7 @@ e3617ae5-b526-40b2-b4cb-6913011162ba|mona|tamsburu|W|5|test
 843473ec-e8ed-4ea3-b6ef-f8f3e5506b57|Battle Bunny Riven|UndeadYoshi|W|5|it's riven, whaddayouwant?
 7508e7e8-b62d-4bae-829f-268ccf6068f4|Loli_Good|Loliwithproblems|W|5|lolis
 23d8cff2-8f9f-4884-bdf4-44f2a30f3bb9|XiaoQiao2|bunibee|W|5|attempt
-ef32243b-97a0-4a2e-a07b-ae0cf45ad667|Etna IV||Arcee|W|5|etna smaller etna.
+ef32243b-97a0-4a2e-a07b-ae0cf45ad667|Etna IV| Arcee|W|5|etna smaller etna.
 54419033-ce58-4960-87e2-fd3f953c8461|Goron OoT|IspamObjection|W|5|goron from legend of zelda: ocarina time
 500cfc22-5eec-463d-9400-c56dd92017f6|Rantaro|Karam217|W|5|danganronpa character ultimate survivor
 9ed24a46-41dd-4c39-a6a2-edec29c3c374|Superr|SuperrBoy|W|5|wdwd
@@ -225,7 +225,7 @@ f75cc8d2-bc71-415d-9b7c-7f105d72bfd0|nep! 1.3|いもうと|W|5|nep! 1.3 neptune,
 68bafa16-8bee-4049-bbbb-5dee6c75a3a3|ButRu_Test|ButRu|W|5|butru_test
 00b3ac2e-20fa-4ea0-bdef-aacdf7071f21|Dell Honne|IzayaMiwa|W|5|made by universalkun -- https://www.deviantart.com/art/mikumikudance-download-in-desc-tda-dell-honne-670017056
 dc3e59e0-31f4-4dcb-8a66-5c662998a3bb|buzz|Laughs in Ugandan|W|4|lol
-612a8a99-71de-4f0c-bae8-fb5587262921|ETNA V||Arcee|W|5|etna v5
+612a8a99-71de-4f0c-bae8-fb5587262921|ETNA V| Arcee|W|5|etna v5
 63809947-0ccb-4487-b0bc-9aeccc6de081|white kosaku|Yske|W|5|white kosaku
 12c8e9f9-64b9-4505-b4cd-46796ffba68d|BB-8|gopnik_is_sssr|W|5|bb-8
 8092a43e-e058-4550-9db6-791443754831|SupraS Knuckles|SupraS|W|5|follow me on twitch.tv/supras
@@ -430,7 +430,7 @@ d85a75af-2e73-480b-86af-a4eea07756ba|Grover|Detective Woffff|W|2|me very sad
 bd22b74c-a19a-4f91-9bcd-1657d5989c23|Graf|Lsbd|W|5|graf
 7787068b-2d99-47a8-a713-c19c3a08bf84|Luigi|Supa17|W|5|cool man
 6c51f368-c886-465b-8f20-09789f260c23|Animebaba|PipBari|W|5|animebaba
-dfb65711-5fdc-4a93-8700-901be0582182|Etna VI||Arcee|W|5|stable test
+dfb65711-5fdc-4a93-8700-901be0582182|Etna VI| Arcee|W|5|stable test
 e1c56454-f839-4bb3-8cc8-edd3cb087b68|Momiji|adadada19|W|5|momiji
 526305de-3898-4b0d-8a2a-27f627ac876b|Testing_DarkRat|SkaveRat|W|5|testing
 a83a82ff-bee0-4b12-b234-eaae4ea0f7ee|2B|VileValicanth|W|5|thicc son
@@ -1043,8 +1043,7 @@ be9bab65-6ca7-44ec-9e4b-7ba6abf98f42|Krystal ver2|Maria Robotnik|W|5|krystal ver
 cd3edb11-b7f9-4e4f-a263-af647cc152ef|Real boy eggman|DangusKhan|W|2|ew
 dd9678b7-a539-4597-b47f-887491af46ae|Barry-Bee-Benson|Encharia|W|5|barry-bee-benson
 ac9af298-49ef-4372-8688-3b2c2032d9f4|MyWaifu2.0|EbolaChan|W|3|mywaifu2.0
-6fd18220-c92d-4f01-bb63-bb54f6c3926b|Shiteyanyo
-Shiteyanyo|Putin Jr|W|5|shiteyanyo
+6fd18220-c92d-4f01-bb63-bb54f6c3926b|Shiteyanyo Shiteyanyo|Putin Jr|W|5|shiteyanyo
 ca043405-3f38-4b1c-8b6a-c17b784e8837|Tan Loli|nyaandere|W|1|she had torpedo. its gone now,
 77254aa8-ba47-46ad-8a80-2741e4275398|ooooooooo34334#?|frogr|W|5|ooooooooo
 0ad2afe2-0455-467b-accb-9d79b25ba846|zed|ShabbyTabby|W|5|ddd
@@ -4184,8 +4183,7 @@ a5fe5471-dcec-46c1-ba0f-7663df587924|Knuckles|SugarBlade|W|0|knuckles na
 6adea475-6fc2-41e2-9cae-0c920d4501f9|DVA|Mooncaretaker|W|5|nerfthis
 725354d6-b030-4a72-87d7-c66c7f677f4b|The Chosen One|Hek|W|5|gods
 dff5e82f-099e-47b2-b1b7-e9d142796b33|asad|nyumaki|W|5|asad
-c29515bb-be59-4d9e-8a3a-b06f05523b5b|Arctic_puffin
-Arctic puffin|Pigeon_777|W|5|arctic_puffin arctic puffin
+c29515bb-be59-4d9e-8a3a-b06f05523b5b|Arctic_puffin Arctic puffin|Pigeon_777|W|5|arctic_puffin arctic puffin
 7f3f90f3-f9db-4a41-bc7b-57acca11f87e|Kanna|sagiri014|W|5|lol
 39804666-d3dc-4231-a8a3-af13f31efc70|Link|WarupNuqqa|W|5|link
 55432224-0c9e-4dc8-b756-0428206b5382|Best Felix|Mitchthemage|W|5|best felix

@@ -4953,7 +4953,7 @@ b2781d87-6f4a-41ac-8729-be8907845ecb|Heavy Frame|Oh No B3LF|WA|4|heavy frame rob
 0e7ff0ec-8c37-4870-a9ac-322def3b0d47|Kyle|- Yukine -|WA|4|kyle witch, female, human, sorceress, enchanter, mystic, magic user, blue, black, gray, blue hair, emo, goth, dark, gloomy, witchy, hat, wotch, which, gothgirl
 9c4d0476-0c25-47de-8537-fb61813db18c|Deora II|jacdhalina|W|2|epic van na
 c500d9f8-7489-4f61-9c3a-751064e54453|noot noot|_DarkBunnyYuko|WA|0|noot na
-fbabd8ef-5bce-4252-92f8-3b78387c0436|Clarent Cinder 4|Binarydream|Welsh Warlord|WA|1|cinder type shadow figure, void creature, male, monster, silhouette, silhouette purple eyes, black, veins, horror, scary, creepy, void, shadow, monstr, skary, creepy
+fbabd8ef-5bce-4252-92f8-3b78387c0436|Clarent Cinder 4|Binarydream Welsh Warlord|WA|1|cinder type shadow figure, void creature, male, monster, silhouette, silhouette purple eyes, black, veins, horror, scary, creepy, void, shadow, monstr, skary, creepy
 2c8fa4c7-5806-4a84-9e1f-095667c7e5b7|swimkatkanna|herretix|WA|4|swimkatkanna neko girl, catgirl, female, human, kemonomimi, schoolgirl, anime, manga, waifu, kawaii, white hair, pink, blue eyes, black bow, cute, girly, neko, cat, animecore, weeb
 1e69b4b5-9ab6-4c68-bd58-404256e7096e|Sanji|_DarkBunnyYuko|WA|3|sanji sanji, one piece, anime, manga, cook, chef, male, human, blonde, black, yellow, formal, professional, elegant, sanjii, onepiecee, animee, mangaa
 a0a514ce-64f2-49c1-bdfc-ec00565cff0d|Ada Grant|Krenik|WA|1|ada grant anime girl, female, human, military, soldier, general, officer, leader, burgundy, black, gold trim, military uniform, tie, medal, stern, serious, army, soldir, milatary, generral, offficer

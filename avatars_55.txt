@@ -1634,7 +1634,7 @@ c6a89e6b-04ed-4021-9431-a9c62b071e30|pyro|Dosatis_Iuvenis|W|0|hyeh pyro, tf2, te
 d45b1174-0825-4663-ab1c-fa7765c15819|Marluxia|Lone Sheikah|W|4|number xi: the graceful assassin. marluxia, kingdom hearts, organization xiii, male, human, gamer, character, videogame, pink hair, black coat, kingdomheart, marlushia
 7e2b2c7c-b363-43d2-a935-8790b697ef39|Magikarp|Belphy|W|0|magikarp na
 61e2aff5-d557-4823-a955-8b6684450436|Nico|Felipinho|W|1|nico na
-d1895209-3f5e-4551-9f0d-6d33d9919cb3|Knight|Tr|_|mpCard|W|1|knight knight, medieval armored male, human, warrior, crusader, templar, paladin, fighter, black, silver armor, helmet, plate sword, fantasy, rpg, fighting, war, dark ages, night, knite, niight, nite
+d1895209-3f5e-4551-9f0d-6d33d9919cb3|Knight|Tr _ mpCard|W|1|knight knight, medieval armored male, human, warrior, crusader, templar, paladin, fighter, black, silver armor, helmet, plate sword, fantasy, rpg, fighting, war, dark ages, night, knite, niight, nite
 1843339d-e7f2-473a-ae82-3598db218948|SpookedSweetFog|GoddessOfTheWall|W|3|spookedsweetfog na
 c25e6922-c628-4395-beea-d258e84aed81|Rakan|amidead|W|2|rakan rakan, league of legends, male, human, bird, harpy, mage, support, enchanter, supporter, red, red hair, feathers, gold armband, charmer, lover, lol, leege mal, humam, harp, mag, suport, enchanterrr, supporterr, reddd, redd fethers, armbandd
 7ff37500-8972-482e-a2ac-73af94602036|sonic bes doski|Just hedgehog|W|4|sonic bes doski the hedgehog, sonic, sega, game character, mascot, male, anthropomorphic, fast, blue, white gloves, white, sunglasses, video game, cartoon, furry, sonik, somic, sonicc, soniccc
@@ -2835,7 +2835,7 @@ d4ff2249-f598-4937-a169-b96b5221b0a8|Kairi Cat|Hanjamon|W|3|kairi cat na
 badcf037-c669-4ce0-84e8-05fceac02b5a|desu guy|Dosatis_Iuvenis|W|1|desu guy androgynous, human, teen, youth, kid, teenager, young adult, avatar, model, black, red, pink, blue hair, headphones, cyberpunk, emo, scemo, alternative, edgy, scene, yoot, yuth, kiddo, yougn, androgenus
 11cd55d0-c8c2-48b8-b58d-5c4157baaf81|1|Júlia|W|4|anime girl, kawaii female, human, cute, manga, blonde, orange jumper, white t-shirt, blonde hair, club, dancing, cosplay, animee, animae, animie
 7486fe60-6f70-4f8f-9c4b-b15ccefcf852|Kaiko|TommyGx|W|4|kaiko anime girl, mage, sorcerer, female, human, sorceress, blue, blue hair, cape, shirt, magic, roleplay, rp, awnime, aneme, animae, magge, sorcereress
-a165852d-71e5-4199-a725-d53f55d49a11|Garrus||BlooD|LusT||W|0|garrus turian, vakarian, mass effect, bioware, soldier, alien, male, reptilian, blue, blue armor, visor, sci-fi, futuristic, game character, military, garius, affect, biowair
+a165852d-71e5-4199-a725-d53f55d49a11|Garrus| BlooD LusT |W|0|garrus turian, vakarian, mass effect, bioware, soldier, alien, male, reptilian, blue, blue armor, visor, sci-fi, futuristic, game character, military, garius, affect, biowair
 e98b7b31-34d0-44c0-bc91-cb03a79efa07|Ruby|BlueberryWizard|W|4|ruby e-girl, y2k, streetwear, female, human, pink hair, red top, crop black jacket, gloves, white trim, fashion, trendy, club, dancing, eboy, egirl, e-grill, k, girl, grill
 f52660d0-e5f0-46ec-98c4-aaf3c4a4571d|chiya|TeU's|W|2|chiya fox girl, shrine maiden, female, furry, kitsune, priestess, miko, inari, kemonomimi, fox, animal, white, black bodysuit, red ribbon, armbands, shrine, spiritual, anime, cute, kawaii, foxy, foxxy, kittysune, foxgirl, priestesss, mikko, kemomimi, foxx
 db167ead-64d4-4723-9da7-0fce18edbafc|Rem|Arny23|W|4|the waifu rem, re zero, anime, manga, maid, female, human, waifu, kawaii, blue hair, white dress, black and hair clip, headband, cosplay, sleep, cuddle, moe, cute, ree, reee, rezero, re_zero, maiddd, cospllay
@@ -3291,7 +3291,7 @@ bc3ef592-9ff9-41cf-befb-382de804f255|Kirito|Gakido|W|2|kirito kirito, kazuto kir
 129483aa-c44c-4573-a7dc-1b71d2fbf35e|meme konoko|Penguin-sage|W|3|not mine made changes anime girl, female, human, neko, cat kemonomimi, cartoon, animated, blue, blue hair, eyes, cute, character, anima anim animuh girl
 aaac50f8-5230-42fe-ba5f-e857cffb768a|Miku Bunny|sonia|W|3|miku bunny girl, rabbit animal female, humanoid, bunny, rabbit, hare, mammal, white, pink, blue, pink ears, blue hair, bow, cute, kawaii, sleep, cuddle, cozy, comfy, egirl, pastel, bunnny, rabit, cuddlecore, comffy
 e2381bb0-3c1d-47ee-8d83-716aa3e79db0|Yang Xiao|Rei Juan|W|4|yang xiao long, rwby, huntress, female, human, heroine, warrior, blonde, yellow hair, brown jacket, orange scarf, black sleeves, gold gauntlets, belt, fire emblem, fighting, anime, yaang, yan, rwbie, rwbyy
-60d2e58e-e83b-4842-98a7-b6f8e7688d4c|Edvard Elrik (Mini)||BlooD|LusT||W|3|edvard elrik (mini) na
+60d2e58e-e83b-4842-98a7-b6f8e7688d4c|Edvard Elrik (Mini)| BlooD LusT |W|3|edvard elrik (mini) na
 b191cdd8-ba40-4e5b-9077-c244f11d2de8|Akuma|CCattzz|W|2|akuma demon girl, imp, fiend, devil, female, demon, monster, red eyes, horns, blue hair, black dress, gothic, dark, creepy, horror, scary, chain, occult, spooky, goth, emo, demin, dimon, devilish, horor, scarry
 c17e2fe0-7618-45a2-accd-d7e2869314b3|nina|Ergo Proxy|W|2|nina anime girl, catgirl, kawaii, female, furry, pet, neko, ears, cat, pink hair, white hat, bow, animu, nekoo, nekoo
 92da424e-e4e2-4a13-bd04-2b0a82356f50|Princes|Ｓ Ａ Ｙ Ｏ Ｍ Ｉ|W|2|princes generic, female, robot, android, automaton, bot, machine, white, black, white hair, robot girl, cyberpunk, futuristic, sci-fi, metal, synthetic, fembot, android machine whitee, bottt, androyd
@@ -3470,7 +3470,7 @@ f8a621a1-2be1-48f5-850a-adda706ac613|ECHO Dodo X Ninja X Krito|EarripeBread|W|4|
 5f4b8b33-6f57-48cc-b7be-745a2a377cdb|Slenderman|MerkTheEdgelord|W|1|spooopy slenderman, creepypasta, male, humanoid, monster, faceless, businessman, suit, tie, horror, scary, creepy, slender man, slemderman, slendermann
 5fb8d46c-e5b9-4643-be29-8fc82735f64e|brokenCrash|wASKE|W|2|crash na
 6d41a5c8-ef43-4ac9-88f0-a6d5089108ca|Meh|Naudio|W|2|meheheheh na
-275956ca-cb4e-4e6b-921b-735fa4f84790|Asuna|r|Meme Chan|W|4|asuna yuuki, sword art online, sao, kirito, anime, game character, female, human, girl, knight, fighter, waifu, light novel, brown hair, white armor, red, cross emblem, yuki, yuuki
+275956ca-cb4e-4e6b-921b-735fa4f84790|Asuna|r Meme Chan|W|4|asuna yuuki, sword art online, sao, kirito, anime, game character, female, human, girl, knight, fighter, waifu, light novel, brown hair, white armor, red, cross emblem, yuki, yuuki
 fd71a9e0-b41e-4995-8cf5-337ddbd8412e|Foxy|Chardee|W|4|foxy foxy, fnaf, five nights at freddys, animatronic, robot, machine, male, furry, animal, fox, red, red hair, black vest, bloody, scary, horror, creepy, game character, foxyy, foxyfnaf, fonaf, foxyyy
 c84ee0e6-76b0-462e-82b2-d849564110fe|Knuckles Vendedor de Whey Bar|Kaneki_Ghoul|W|2|knuckles vendedor de whey bar na
 6158e4df-9f9d-4557-9932-87685f929d1c|muñi|Ergo Proxy|W|3|muñi optimus prime, transformers, autobot, robot, machine, bot, automaton, transformer, android, mech, mecha, grey, blue, optimus, autoboots

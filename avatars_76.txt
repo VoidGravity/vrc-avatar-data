@@ -694,7 +694,7 @@ eef6d197-8fd5-45c7-9b92-bfc48d79265f|Tall Fella|Adreano|W|0|tall fella anime boy
 5416c4b0-82e9-46ae-a5cf-4adc54b0ce08|deathwing|SyreSmith|W|2|deathwing dragon, wyvern, drake, male, monster, creature, mythical beast, black, red, fire fantasy, terrifying, scaled, dragin, dragun, dargon
 edd9d8f2-ecd8-46e0-ac0e-428d42cd4468|Gay 2B|Kyrite|W|2|dunno, that's just what it was titled 2b, yorha no. type b, nier automata, female, android, automaton, robot, machine, blonde hair, black dress, sleeves, gloves, thigh highs, black, blindfold, anime, game, fighting, action, bb, toobee, too bee, bee
 39a909fd-aec1-4292-8a1f-2e10cefc3a19|DJ ITACHI|VolinBR|W|4|dj itachi uchiha, naruto, akatsuki, anime, male, human, ninja, vigilante, superhuman, red, black, disco legion, hat, akatski, uchicha
-8a2a0adf-dc66-4891-b858-d2329a05341d|Blody Ghost Miku|Chito|Чито|W|1|blody ghost miky after apocalipse hatsune miku, vocaloid, singer, idol, female, humanoid, performer, musician, cyber black, black hair, red dress, dark, gothic, creepy, scary, horror, emo, goth, hastsune hastsune, hatsunee, mikue, mikuu
+8a2a0adf-dc66-4891-b858-d2329a05341d|Blody Ghost Miku|Chito Чито|W|1|blody ghost miky after apocalipse hatsune miku, vocaloid, singer, idol, female, humanoid, performer, musician, cyber black, black hair, red dress, dark, gothic, creepy, scary, horror, emo, goth, hastsune hastsune, hatsunee, mikue, mikuu
 113f7eff-7945-41df-b842-3c7d06e829e1|love me|Farmdoor95|W|0|love me hunchback of notre dame, quasimodo, disney, animated movie, male, human, bellringer, outcast, deformed, disfigured, cripple, malformed, green, green shirt, brown hair, cartoon, classic animation, ugly, unattractive, unconventional, grotesque, qusimodo, quasimoda, qasimodo, hunchback, dame
 d5751417-aa63-40b8-aa07-928e2e2dd339|Tomato V.3|Ayano Aishi (Yandere-Chan)|W|4|am tomato na
 0578c691-5ba8-4173-a927-e29e1eee627f|Redfox|XperiencePro|W|1|yee fox, female, furry, anime, kemonomimi, anthro, business woman, orange, white, brown, fox girl, foxy, office lady, neko, cute, kawaii, kemonomimi avatar, fux, furry avatar
@@ -1665,7 +1665,7 @@ f49273a6-137c-4823-ad22-12347e14278a|Kawaii Wolfy|Fleecykins|W|4|japanese wolf-c
 2bb805c4-286b-44cf-9a89-798e3283ee67|Scary|FriendlyRose|W|3|scary na
 4f0bc498-711f-49f3-965e-bc248c6a308c|Castanic|Dean8218|W|1|castanic female, elf, horned demon girl, demon, fiend, horns, dark rpg, fantasy, humanoid, elven, evil, fairie, pointed ears, grey armor, elff, horne, demin, feind, gray armour
 48ad3aa8-17ba-4d25-bd6a-8b5069ea9afe|Karin.1|Shiragai|W|2|karin.1 anime girl, female, human, woman, pink, white, pink hair, red eyes, kawaii, cute, pastel, soft, sweet, cuddle, sleep, anime, manga, schoolgirl, j-fashion, japanese fashion, kawaii cutie, animee, animegurrl, cutte, cutiepie
-5fc529cc-9e2a-4ecd-b51e-bf47c9d15be9|Emoji <3|twitch.tv|abinis|W|4|emoji <3 laughting emoji, meme, smiley, male, humanoid, emoticon, yellow, teal tears, laughing, crying, viral, troll, funny, laughtingemoji, laughingmoji, emojilaughting, emojilaughing, emogi, emodji
+5fc529cc-9e2a-4ecd-b51e-bf47c9d15be9|Emoji <3|twitch.tv abinis|W|4|emoji <3 laughting emoji, meme, smiley, male, humanoid, emoticon, yellow, teal tears, laughing, crying, viral, troll, funny, laughtingemoji, laughingmoji, emojilaughting, emojilaughing, emogi, emodji
 a2a351f4-c6ac-4366-bce4-e17964acbff1|Unitychan-seihuku2|Bireppu|W|2|unitychan-seihuku2 anime girl, female, human, schoolgirl, otaku, weeb, student, blonde hair, orange bow, brown cardigan, school uniform, kawaii, chibi, smoll, animae, animay
 0b9af322-ed2e-49e0-b8ce-be23c0c3c1de|Easter|KazIzBadz|W|3|easter bunny, female, human, harajuku, kawaii, pastel, pink hair, bunny hood, blue bow, cute, adorable, club, dancing, sweet, e-girl, egirl, egrel, earl, buny, bnuuy
 3175b21b-d3ae-4269-8f8c-918429abc473|Naruto vascaino|VolinBR|W|4|naruto uzumaki, naruto, anime, manga, male, human, ninja, shinobi, blonde, black, white, yellow vest, white sash, black ninja outfit, swordsman, fighting, adventure, naurto, usumaki, narto
@@ -2012,7 +2012,7 @@ fc88b98a-bb89-4a6e-852a-654a0e4ed9f7|Hydralisk|GamingHeadcrab|W|2|hydralisk zerg
 2edf9839-2279-43da-bf2f-0b5e3aeb5d6f|Fujigitsune2|inumomizi|W|4|fujigitsune2 holo, spice and wolf, female, furry, kemonomimi, fox, animal, blue, white, fox ears, anime, cosplay, roleplay, holoo, holl, spyceandwolf
 a9d138a7-54fc-4205-9337-e5f4cfd19a0d|Baneling|GamingHeadcrab|W|0|baneling arachnid, male, monster, insect, bug, alien, creature, spider, horror, scary, creepy, gross, spooky, grunge, arachnidz, aracknid, aranid
 fe344832-5ef0-4a51-b5bc-7af82606fe02|ASFQWEGDASVC123|Trogdor|W|2|123 na
-48f14c7f-5551-4ec5-bf83-62c7d167b573|Kana Little girl|Chito|Чито|W|4|cute cana from some anime na
+48f14c7f-5551-4ec5-bf83-62c7d167b573|Kana Little girl|Chito Чито|W|4|cute cana from some anime na
 6b298c61-ea3d-4af9-b5a3-56fcf9a7f60d|ChibiL|Lamp ♥|W|4|black gray anime boy, male, human, hair, grey accents, schoolboy, manga, anime, weeb, kawaii, dark, cool, edgy, school aneme, anima
 57b5951a-1f25-456f-b757-f0536bec7a3a|Mutilisk|GamingHeadcrab|W|2|mutilisk monster, demon, creature, unknown, horror, scary, creepy, nightmarish, monsterous, fiend, creacher
 48da364c-7b36-4f14-80bf-b57deb468922|Nekoma|pink.penguin|W|4|nekoko2 anime girl, female, demon, imp, devil, red, purple, red hair, bat wings, hood, goth, cute, kawaii, sleep, cuddle, cozy, e-girl, demom, devill, hoodd, gooth, qute, cuddleing
@@ -3326,9 +3326,7 @@ e4f070b5-3584-40bd-a7d3-769792371c1f|kaneki|GyrosTeller|W|4|kaneki ken kaneki, t
 305188d6-64f8-4241-84fd-34d8e1675363|PurpleT Nurse|9milesniper|W|3|purplet nurse maid robot, female, maid, android, anime, machine, automaton, purple, black, glasses, cyberpunk, servant, housekeeper, goth, club, robotic, roboto, mashine, andriod
 af46b83d-2817-4d7c-9732-6e0f9b8716f0|Ringless|Viola Crossfire|W|3|but not bad at all na
 e00cd2f7-1491-4031-a5aa-f8e132c755fe|AC Arms|DeDee|W|4|ac arms cyborg, female, android, robot, automaton, machine, pink, black, white, black armor, white pink hair, horns, club, dancing, futuristic, cybergirl, cyb0rg, androyd, roboot, machinne
-45fb937f-4f3a-4dab-896d-50e7d071120e|Doe-chan
-
-Uploaded by HazeUs|Anonymous,|W|4|doe-chan uploaded by hazeus na
+45fb937f-4f3a-4dab-896d-50e7d071120e|Doe-chan    Uploaded by HazeUs|Anonymous,|W|4|doe-chan uploaded by hazeus na
 808e316d-02fb-4e9d-b50a-890f78e97e79|Isabelle|Radpo|W|0|isabelle isabelle, animal crossing, villager, dog, female, animal, canine, pet, yellow, yellow fur, hair bow, office, sleep, cuddle, cozy, cartoon, cute, izabelle, crosing, cossing
 987d695b-461d-425d-9118-0f0cf368aac4|Lu Chiliarch|jonatak|W|2|lu chiliarch demon girl, female, demon, fiend, creature, behemoth, black, red, red eyes, black dress, trim, crown, goth, emo, scene, horror, scary, creepy, demoness, demongirl, demom
 f734cdc2-91fb-4be1-b4be-b9f0667d4252|SMUL BID|OniSad|W|0|smul bid na
@@ -3387,8 +3385,7 @@ c8b14a58-fbe0-4679-bae5-457f8b2f123b|Jet Jaguar|Cᴜᴘᴄᴀᴋᴇ|W|2|heisei j
 f7060fcc-0f35-434a-a6c4-44e3c3640590|Zodiac Smol|Ginger~|W|4|zodiac smol fox, red foxgirl, female, furry, animal, canine, vixen, red, eyes, hair, black markings, eyeliner, cute, adorable, kawaii, foxy, foxxy, vixxen, redfox, foxx
 0228138b-6710-4cd6-bddc-c3b04505ae46|N64 Geno|Axem_Red|W|4|if geno was in nintendo 64 era na
 01f1735e-eae1-4437-ac6f-f5e518c527ad|tinytanya|Aries♡|W|0|tanya von degurechaff, youjo senki, saga of the evil, military, female, human, blonde hair, blue eyes, black, red, officer, war, military uniform, army, degurechaff
-7bdf5f87-0ff0-4ab6-b372-595e9b504b62|KasumiTheFox
-|KasumiTheFox|W|3|kasumithefox neko, maid, female, furry, catgirl, kemonomimi, domestic, anime, white, black dress, pink eyes, patch, collar, kawaii, cute, sleep, cuddle, club, dancing, party, neco, mada, catgrill, kemonomemi
+7bdf5f87-0ff0-4ab6-b372-595e9b504b62|KasumiTheFox  |KasumiTheFox|W|3|kasumithefox neko, maid, female, furry, catgirl, kemonomimi, domestic, anime, white, black dress, pink eyes, patch, collar, kawaii, cute, sleep, cuddle, club, dancing, party, neco, mada, catgrill, kemonomemi
 459add28-015b-4a7d-9c4c-65b5211819c8|L Chan|HypnoticJetter|W|4|chan gothic, anime girl, female, human, black, white, yellow eyes, cross, black dress, gloomy, dark, spooky, goth, animae
 d9ad348c-0a18-4f46-9030-b7cdd51ecd84|test2|Snakyz|W|4|test2 villain, male, human, antagonist, bad guy, rouge, red, black, red coat, bird, jacket, menacing, dangerous, scary, evil, villian, villianous
 4f2ccba9-f06c-4bb8-bf11-90671036319e|Lycanroc|Fenfs|W|2|lycanroc protogen, primagen, dutch angel dragon, android, cyborg, robot, machine, bot, automaton, red, white, red armor, white mech, futuristic, cyberpunk, synthwave, dad, dutchie, prorogen, prootogen, prootjen, proto, prot, progin
@@ -3623,14 +3620,14 @@ d85fc547-9999-4def-9894-7097f6601931|Noctis|T.O.M|W|2|dope. na
 c6ed9747-c5c6-42f2-8702-5c4cd5074a3d|Tide|ZappyCoffee|W|1|tide schoolgirl, anime girl, female, human, student, brown shirt, black skirt, pigtails, school uniform, bi-color hair, blue pigtail, orange brown, black, school, anime, schoolgirl cosplay, blue, orange, and schoo bi color colr hair
 92743115-b74f-406c-9c9f-cb1313d07b93|Bunnny|Lucyelle|W|4|bunny girl, female, humanoid, rabbit, anime anime, manga, playgirl, pink, white hair, bowtie, ears, club, dancing, kawaii, egirl, e-girl, bunnyy, buni, buny, bune, rabit, rabiit
 c823f96d-f0f5-4f6d-9921-c874b3b790f1|i got all the recessive nanomachines|420succ420|W|3|fagadg naked snake, big boss, john, david, metal gear solid, video game, soldier, mercenary, male, human, warrior, fighter, spy, tan, yellow sunglasses, green camo pants, muscular, buff, abs, pecs, biceps, macho, military, meme, funny, troll, bigboss, metalgear, nakesnake, mgs, mgsv, pecks
-28d4e1d2-546f-4ee6-8b28-8f60b32e7f4b|Kanekyi||Method||W|4|kanekyi ken kaneki, tokyo ghoul, protagonist, male, human, main character, anime, manga, gray hair, black, black outfit, mask, sleeves, edgy, e-boy, kawaii, tokoyo caneki, keneki
+28d4e1d2-546f-4ee6-8b28-8f60b32e7f4b|Kanekyi| Method |W|4|kanekyi ken kaneki, tokyo ghoul, protagonist, male, human, main character, anime, manga, gray hair, black, black outfit, mask, sleeves, edgy, e-boy, kawaii, tokoyo caneki, keneki
 ab39ff42-901d-4693-98f8-9d68bd089aeb|WhiteServele|UmDepressivo|W|3|whiteservele serval, kemono friends, girl, female, furry, catgirl, feline, kitty, kitten, tan, brown spots, white dress, eyes, spotted, cute, adorable, playful, cat, kittycat, servalcat, serval kemo chan, serval-chan, servl, servell, surval
 0dd4ba5c-bad1-45f8-9f98-5cd2b80516ac|UmaruBlue|SlenderRosa|W|0|umarublue anime girl, kawaii female, human, chibi, blue, white, blue hood, white dress, cartoon, anime, kawai, cutie, chibby, chibbi
 7602e778-efa5-4f0b-82a7-c621f753e59e|wolf|Kyonyu_No_Masuta|W|3|wolf link, the legend of zelda, twilight princess, male, furry, wolf, canine, anthro, beast, grey, white, beige, tribal, fighter, warrior, game, rpg, hero, buff, muscular, fictional, lolflink, wolfink, lnk, thelegndofzelda
 ea51946f-eddb-43e3-8c7c-d3ea14929069|SexyCop|Robsta94|W|2|sexycop cop, officer, police, male, human, law enforcement, policeman, lawman, blue eyes, green hair, white shirt, black tie, police cap, wings, club, dancing, e-boy, y2k, meme, funny, troll, cringe, policee, poleece, cpo, pliceman
 55c4355d-88d4-4de6-b1f3-4972b79db05a|bowser|Kyonyu_No_Masuta|W|3|bowser na
 6c7ee2b9-ed2d-4965-a4ed-7de0c5ef2c6e|Piano Kirby|Mico27|W|4|hard boiled... pianist kirby, noir kirby with hat, nintendo, male, puffball, sphere, noir, detective, mobster, gangster, black cute, funny, meme, kawaii, gaming, kirbi, kirbeh, kurby, nintndo
-6ba580a4-7e2d-4a22-b5bb-1e4886807e9d|Grew ||Method||W|3|grew wolf warrior, male, furry, anthro, beastman, werewolf, lycanthrope, canine, gray, white, blue headband, brown strap, tribal, fighter, battler, brawler, wolfman, wolfwarrior, woofwarrior, wolfwarrier, wurrior, wereworrior
+6ba580a4-7e2d-4a22-b5bb-1e4886807e9d|Grew | Method |W|3|grew wolf warrior, male, furry, anthro, beastman, werewolf, lycanthrope, canine, gray, white, blue headband, brown strap, tribal, fighter, battler, brawler, wolfman, wolfwarrior, woofwarrior, wolfwarrier, wurrior, wereworrior
 fd4baf09-0373-4303-803c-56ffbd27497f|chibi romano|MatrixOvershock|W|3|chibi! na
 3161265c-a6e7-4c66-a285-d542c320cbe1|Karambit Boi|Lujipeka|W|4|lot of karambit na
 f321b8ea-4187-47a7-91c2-0499f5e6ae7e|aser|aser1121|W|2|aser anime boy, schoolboy, teen, male, human, black hair, yellow red eyes, school uniform, student, emo, streetwear, y2k, e-boy, eboy, emoboy, cloak, animee, animme, schoolboi

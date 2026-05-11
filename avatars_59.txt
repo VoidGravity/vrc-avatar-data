@@ -1992,7 +1992,7 @@ b8300bb0-38b9-4393-b37b-fae17ed0d914|Uzuki Cubed|excd|W|3|uzuki cubed na
 65ebdbcd-4a9c-43cd-95cb-a8acb494121f|Clone-P2|Nexxiiss|W|0|clone trooper trooper, star wars, galactic republic, soldier, male, human, armor, white, blue, helmet, science fiction, sci-fi, marine, space scifi, clonetroopa, clontrooper, starr wars
 16e0b549-7d3d-46a2-a734-03c74fa9e5e5|Akira Kurusu|EVilCHilD|W|3|akira kurusu anime girl, female, human, peche, yellow jacket, pink sailor collar, sweet, cute, kawaii, moe, anime, manga, pastel, egirl, pchee, peachii, gril
 b861a7ad-331c-471d-be4f-e40efc9aa45a|Knuckles pizza|TheBaise|W|2|knuckles pizza na
-90eb8873-2f2a-47d8-bba7-f4f4a6a7505f|amry guy|maddog 20|20|W|2|army soldier, mercenary, male, human, infantry, fighter, black, black armor, gear, tactical military, shooter, fps, war, callofduty, codm, soilder, soldir, mercinary
+90eb8873-2f2a-47d8-bba7-f4f4a6a7505f|amry guy|maddog 20 20|W|2|army soldier, mercenary, male, human, infantry, fighter, black, black armor, gear, tactical military, shooter, fps, war, callofduty, codm, soilder, soldir, mercinary
 0bceb63e-9cfe-4d94-b450-b5398fed65ea|LIIIIITTT|Lil Tim|W|0|liiiiittt laughing emoji, crying male, humanoid, yellow, blue tears, funny, meme, troll, emote, lol, lmao, laughting, emojii
 d748bdbc-5da0-43fc-9f04-b190a6fd6ccf|kirito|LoK505|W|2|kirito kirito, sword art online, anime, manga, male, human, swordsman, protagonist, anime character, black, black coat, grey accents, straps, hero, fighter, animee, sao, blackk, blac, greyy, gray, animme
 0fa5acaf-03dc-4842-95ad-ef74c50cb086|gordo|GiloPavani|W|4|gordo male, human, heavy, big, large, overweight, obese, fat, man, guy, dude, large number 5, blue shirt, blue, comfortable, sleep, troll, meme, funny, viral, cursed, male
@@ -2411,7 +2411,7 @@ da21f0be-2c4d-4718-8c63-97ed0f8d2836|Reaper|Cutecumber|W|4|reaper reaper, overwa
 56bb9847-69c4-4a33-859a-f430d8c6a29e|Tomoko|Keizo 狼|W|3|tomoko kuroki, watamote, no matter how look at it, it’s you guys' fault i’m not popular!, female, human, neet, introvert, shut-in, tan jacket, red tie, high school student, anime, manga, otaku, hikkikomori, soicaly awkward, tomoko, wata mote, meme, funny, troll, socially inept, social anxiety, tommoko, kurokee, tomoako
 4c06c461-0d0a-4a9c-86bd-81c784020b8a|Sharkie|Yukino_|W|1|sharkie shark, furry, animal, male, blue, white, cute, cartoon, funny, mascot, deep sea, cartoony, sharky, fory, anmal, mal
 0d697c53-5f81-4f6a-a94a-e0b443590294|Dawn|Xeratous|W|3|dawn generic blonde girl, female, human, teenager, blonde, hair, tanktop, plaid shirt, black red casual, teen, blondee, gurl, teenagerz
-7bee7b6d-27a4-46ce-b6ae-cbecc6dae40b|Akuma Miku|twitch.tv|TheNamesSpooky|W|2|pretty scary female, demon, imp, devil, fiend, spirit, emo, goth, alternative, club, dancing, horror, scary, black, red, white, demonic, edgy, black dress, demon horns, femalee, demonn, impp, dvil
+7bee7b6d-27a4-46ce-b6ae-cbecc6dae40b|Akuma Miku|twitch.tv TheNamesSpooky|W|2|pretty scary female, demon, imp, devil, fiend, spirit, emo, goth, alternative, club, dancing, horror, scary, black, red, white, demonic, edgy, black dress, demon horns, femalee, demonn, impp, dvil
 0ff99a48-347f-4bb6-9a44-8ea028ee57f8|Kanna|VR Scumback|W|2|kanna kamui, dragon maid, miss kobayashi's female, dragon, deity, mythical creature, mythical, fantasy, white, pink, purple hair, horns, moe, kawaii, sleep, cuddle, kanna, dragonn, dragonmmaid, kobayashi
 0768286d-cb82-4c0c-b1ba-5a9bfa7c3b0d|alvalvalv|Mailen|W|1|alvalvalv anime, waifu, female, human, girl, harem, damsel, blonde hair, red eyes, white choker, schoolgirl, school, animegirl, japan, cute, kawaii, adorable, loli, egirl, weeaboo, japann, cutegirl
 06b29902-c546-4386-aa7a-df29d42de9b7|Mini Miku|iNikkO|W|4|mini miku na
@@ -2554,7 +2554,7 @@ a4e875b3-dfb8-43da-ae82-c69c2bf983d4|Monza|NegaTheImpmon9508|W|0|monster with we
 5c27f764-02b2-40fd-ad0d-87c3efa3cc20|Onigiri|Kafele_Jackal|W|3|onigiri unknown, androgynous, humanoid, uniform, soldier, officer, commander, general, maroon, red, grey, gray, gold, gold emblem, military, costume, anime, manga, generic solider, marroon, maroonn
 fca6179f-ec9e-4dea-91fc-796c8cd85b94|sefsddaaswerwrwrfedfsd|Cutecumber|W|2|sefsddaaswerwrwrfedfsd plague doctor, bird, disease, male, creature, healer, physician, medic, black, yellow, black hoodie, white text, creepy, horror, scary, emo, grunge, plague, doc, birdman, plaguee, plauge, doctur
 055a6e5c-f72e-4305-868b-b76c64b51dbd|Organization 13 Knuckles|Elsie (LCL)|W|1|organization 13 knuckles light yagami, death note, anime, protagonist, anti-hero, male, human, detective, black, brown, red eyes, creepy, villain, menacing, edgy, yagmi, deathnote
-55b4d3b1-3780-47f5-b122-93d3402d2569|Lu Chiliarch spook version|twitch.tv|TheNamesSpooky|W|2|not really to spook but little bit na
+55b4d3b1-3780-47f5-b122-93d3402d2569|Lu Chiliarch spook version|twitch.tv TheNamesSpooky|W|2|not really to spook but little bit na
 b916127b-4a13-40dd-af3b-567127c53b0a|tiny kanna|magic chad|W|4|tiny kanna na
 a4c2f886-a3ab-4024-9791-0677d1032cde|Mikleo|HzHolo|W|2|mikleo male, human, boy, youth, character, dude, man, guy, turquoise, gold, white, armor, outfit, fantasy, rpg, jrpg, magical, hero, warrior, paladin, guardian, defender, rpg anime, manga, kawaii, cute, eboy, streetwear, y2k, fasion, turqouise, goldd, whitte, armorr, outfitt, fantassy, herro, warrier, paladinne, gurdian, deffender, magikal
 faeb5b85-f445-4d8c-b04b-b980b37e87b3|Vegeta Silver|dylanamcgyver|W|4|vegeta silver vegeta, dragon ball z, dbz, saiyan, male, human, warrior, prince, anime, cartoon, fighter, blue, blue hair, muscular, buff, super angry, powerful, vegeta-sama, vegueta, vegeeta, dbzed
@@ -2658,7 +2658,7 @@ a88d8115-62bb-4dee-84d7-b74452103329|Sif The GREAT WOLF|Grizzly|W|1|awdawdawd wo
 6dcf0e0d-d03a-420d-993f-4bd82f2cae59|Neku with Keys|Zyphon|W|2|testing addition of weapons or assets na
 d38ef4cb-52ad-444f-af7d-ba9aecb9971c|Angel|Hurley|W|3|angel hatsune miku, vocaloid, female, human, pop star, idol, singer, performer, turquoise, white dress, wings, blue eyes, music, hairstyle, stage, hadsune mikuu
 8141e63f-cd85-4fd3-aa8d-2292399d88a2|BobTheBuilder|NeverSafe|W|0|bobthebuilder bob the builder, cartoon, construction worker, male, human, constructor, repairman, handyman, yellow helmet, blue overalls, red plaid shirt, animated, kids, childrens, character, bob, buildr, bildr
-a1ca8b8c-c8fd-4fcf-b980-ef22073483c9|extra smol|twitch.tv|TheNamesSpooky|W|4|smol na
+a1ca8b8c-c8fd-4fcf-b980-ef22073483c9|extra smol|twitch.tv TheNamesSpooky|W|4|smol na
 e93238e5-b662-45e9-a34a-c46d2af02516|Atlas|Deesilsnarf|W|3|atlas na
 df0b221d-5355-4f4d-9555-f7a3b4bef3dd|Test|Sunanmi|W|3|test androgynous, anime, manga, cartoon, character, humanoid, blue, turquoise, cat ears, hood, hoodie, girl, kawaii, egirl, cute, club, dancing, avatar, vrchat, vrc, virtual, avatr, catears, vrchatavatar
 4c354906-0d6a-4aec-b64b-41c0ac6748a0|Nutso|NegaTheImpmon9508|W|1|ugly ass bear hulk, marvel, avenger, comic book, superhero, super hero, buff, male, humanoid, muscle, green, green skin, hulky, large, buffed, vrchat, vrc, hluk, holk, hulkk, hluky, hoki
@@ -2726,7 +2726,7 @@ e5f4b566-bf83-4f76-ac3b-bc7946ce2ba6|KABRUTO|ANGUSTIA|W|3|kabruto naruto uzumaki
 46fcc37f-31b9-4b7d-af42-6868ded8bf76|luka nyan|LoK505|W|2|luka nyan neko girl, catgirl, anime female, furry, cat, feline, kitten, kitty, black, purple, white, gray, golden bell, hooded jacket, hoodie, cute, kawaii, e-girl, streetwear, neko, catgril, necogirl, catgirlz, black hoodie
 5a36b472-9c07-4fe3-9bc0-8671613d5ded|Boom|Liquid Shad|W|3|boom soldier, male, human, mercenary, fighter, terrorist, tan, green, khaki, vest, balaclava, military, tactical, sand, militant, war, sleep, cosplay, costume, soljer, soldur
 2dd92ed3-15dd-4de0-a4c6-8b709c528ecc|Strike Commander|Papi Spicy|W|3|o3o mercy, overwatch, angela ziegler, female, human, support, healer, medic, blonde, white, blue, doctor, angel, mercyoverwatch, mersy
-d71173b7-1a37-4766-a13c-e137a0520a84|edgy|twitch.tv|TheNamesSpooky|W|4|super edgy female, human, woman, androgynous, black, black hair, headphones, wings, gloomy, dark, edgy, goth, scene, emo, hacker, cyberpunk, blck, blac, haker
+d71173b7-1a37-4766-a13c-e137a0520a84|edgy|twitch.tv TheNamesSpooky|W|4|super edgy female, human, woman, androgynous, black, black hair, headphones, wings, gloomy, dark, edgy, goth, scene, emo, hacker, cyberpunk, blck, blac, haker
 a01a52dc-1f49-41cb-9a70-7be6355cfadb|Murdoc Censored|Pan Diman||5|murdoc niccals, gorillaz, bassist, musician, cartoon character, male, humanoid, man, dude, guy, green, black hair, sleep, club, dance, meme, troll, funny, murdoc, gorilaaz, gorilaz, murdocc, gorilllaz
 c8a3ca43-293a-486f-9466-cb8953d0de03|yes|MeanMe|W|3|yes na
 c09b6e4d-1a2f-4bfb-a633-869c012922cb|Fish|digittttt|W|0|your mom's gay na
@@ -3972,7 +3972,7 @@ d47e7b7c-64e2-481f-ad97-6b2bb18b6dd1|Thanos|Toomin|W|2|thanos warrior, knight, s
 bc5be9c7-7ab8-4a39-a742-39fbd6f5fd9d|Ryouta ShardFast|Luro|W|4|ryouta shardfast na
 c47433e8-994c-4d9f-9379-064db0e06739|Galaco|Kitty_Catzzy|W|3|galaco female, human, anime girl, woman, teen, brunette, brown hair, galaxy sleeves, jacket, casual, everyday, chill, relaxed, brunete, brownhair, galaxysleeves
 bd822f17-3827-42a7-a73e-fe8a7873a27d|Sora|Venger Makato|W|3|sora sora, kingdom hearts, game character, male, human, hero, protagonist, keyblade wielder, champion, defender, spiky hair, black outfit, red yellow straps, belt, spiked vidya game, rpg, adventurer, keyblade, soara, kimgdom hearts
-4af0c9a1-6024-4080-abc2-8e8c07bebcd1|Lu Noblesse|twitch.tv|TheNamesSpooky|W|2|cool bronya zaychik, honkai star rail, impact, character, video game, female, human, soldier, white hair, blue, blue outfit, anime girl, hsr, honkai, zaychick
+4af0c9a1-6024-4080-abc2-8e8c07bebcd1|Lu Noblesse|twitch.tv TheNamesSpooky|W|2|cool bronya zaychik, honkai star rail, impact, character, video game, female, human, soldier, white hair, blue, blue outfit, anime girl, hsr, honkai, zaychick
 619acc2d-b48c-424e-a7e7-640895edd529|Reinhardt|Soulie|W|4|reinhardt na
 80222f9f-391e-4ac5-8569-5e4f6188acde|extra big 1|Malcie|W|3|extra big na
 b81180e6-6829-4080-9308-8b4ff7596610|memedan|Abyss|W|3|memedan mr. bean, rowan atkinson, comedian, british, meme, male, human, actor, funnyman, humorist, funny, silly, derp, goofy, weird, strange, bizarre, beige, black hair, mr bean faces, shirt, been, face, beanie, mrbeen, atkison
@@ -4002,7 +4002,7 @@ c6610e51-c02d-47f2-9d69-25f65de4d65a|Jake Esticado|Amaden|W|0|jake esticado na
 9601cbdd-a9bf-4320-8c83-72cd09587cb4|BEWD|Sgtwizardfist|W|2|bewd na
 86eb843c-c678-42b4-8ebc-4cfff2d97b70|Dullybuns|Dullahan|W|3|dullybuns maid, female, anime, waifu, brown, brown bows, green dress, beige cute, kawaii, moe, maidcore, loli, mide, mayd, maiddo
 ff0fb229-4ae5-4b61-98d1-642408abed28|commander of the lords of the knights|Djkillbrine|W|2|commander of the lords knights rainbow knight, warrior, fighter, male, human, paladin, cavalier, champion, white, rainbow, spectrum, gradient, armor, fantasy, mythical, magical, rainboww, night, nyght, warior, armore, cavallier
-939e7127-426d-4000-98c3-f0c5d26c012b|angel miku|twitch.tv|TheNamesSpooky|W|3|angel miku hatsune miku, vocaloid, virtual idol, female, android, singer, musician, vocal synthesizer, white, teal, teal hair, white dress, singing, dancing, virtual, digitial, hatsune, vocloid, vocoloid, hadsune, hadsun, miko, micu
+939e7127-426d-4000-98c3-f0c5d26c012b|angel miku|twitch.tv TheNamesSpooky|W|3|angel miku hatsune miku, vocaloid, virtual idol, female, android, singer, musician, vocal synthesizer, white, teal, teal hair, white dress, singing, dancing, virtual, digitial, hatsune, vocloid, vocoloid, hadsune, hadsun, miko, micu
 0f43290e-2659-41ef-aa61-e357d6cc6945|Junko|mixreddy|W|3|junko enoshima, danganronpa, female, human, fashionista, gyaru, pigtails, pink hair, black, red bow, gothic, gothic lolita, junko, enoshina, danganronpa girl, meme
 285d9599-7045-4b7a-9d41-d08692543703|military|DrBox|W|2|military soldier, mercenary, grunt, marine, male, human, military, armor, black, grey, helmet, tactical gear, war, fighting, fps, shooter, solider, miltary, mercenaryy, mercanary, soldierr, marin, marinee
 6870f44a-6e8c-4b59-a921-f0295506cb66|Miyabi|Creamy_K|W|3|miyabi anime, female, human, wizard, magician, mage, white hair, white, black, red, outfit, cartoon, manga, wizard girl, sorcerer, sourcerer, animae, magican

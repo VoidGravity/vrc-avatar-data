@@ -1757,7 +1757,7 @@ bb22818d-d023-483c-9dca-a584164948cc|Aoba Suzukaze|ohlongjohnson|W|4|i'll try my
 ba85b7e9-34a5-4553-ac2c-b9b5d42447d1|baile|Near Kradow e0f1|W|5|baile
 8d4ee327-7046-44bb-95c6-8eed7eac9d3e|loli7|Lafite、|W|3|loli7 na
 3f251c4e-9702-4934-b57f-076f4a2e75c2|lolibruja|Lucem|W|5|lolibruja
-ad333ad8-67be-4478-90eb-da1ea17a8fbc|Yougio|twitch|shaaari|W|4|yougio dark magician girl, yu-gi-oh, duel monster, female, human, anime character, sorceress, magician, enchantress, wizard, blue, pink, yellow, gold star, magic, cosplay, club, dancing, card game, dmg, magic yu gi oh, yoogioh, you yugioh, yugi magicain dork girl
+ad333ad8-67be-4478-90eb-da1ea17a8fbc|Yougio|twitch shaaari|W|4|yougio dark magician girl, yu-gi-oh, duel monster, female, human, anime character, sorceress, magician, enchantress, wizard, blue, pink, yellow, gold star, magic, cosplay, club, dancing, card game, dmg, magic yu gi oh, yoogioh, you yugioh, yugi magicain dork girl
 179da87b-4ac8-4c4c-bb76-6cf585fa40fd|megumin|JARNHEN|W|5|megumin
 4f76ffad-88f1-48e0-8119-21b523b83952|bowserinav10|Detectibear|W|4|sdasdsadads anime boy, rabbit male, furry, black and white, red tentacles, mysterious, bunny, rabbit, anime, b&w, tentacle, anthro, anyme, whight, anyme boyy, tenticles
 a66a1290-6e6e-44c1-a5b9-67755fe3eef2|Pikachu|Pepiot|W|0|pikachu, pokemon, pokemon series, electric mouse, male, rodent, animal, cartoon, anime, yellow, black ears, red cheeks, video game, pocket monster, pika, pkachu, pokeman, pokimon
@@ -2081,7 +2081,7 @@ a21fa77b-fbc3-4032-ab38-f495a7f4faea|AraSDES|RedJolti|W|3|arasdes female, human,
 0c8c38e1-c162-401c-bda0-9955b52d1770|Cpt. Falcon|BoBtheGod|W|3|cpt falcon smash skin captain falcon, f-zero, nintendo, video game, racer, superhero, male, human, bounty hunter, orange suit, yellow scarf, pilot, goggles, punch, show me your moves, hero, captainfalcoln, orangesuit, bounthunter, captin falcoln, ornge, yello, showmeyourmoves
 61fd91bf-15fb-433a-b86f-ef1bf9829c5b|SapphiChan|Smol Sarah|W|4|sapphichan female, human, schoolgirl, student, anime girl, waifu, blue hair, white shirt, tie, purple eyes, school uniform, moe, cute, kawaii, skirt, anime, club, dancing, otaku, shoolgirl, schollgirl
 841889f0-665c-4f82-9454-64683315f205|kungfutiger|VJP|W|2|kungfutiger tiger, tigress, feline, anthro, female, furry, mammal, orange, black, martial arts, asian, karate, kungfu, ninja, training, club, cozy, sport, anime, manga, cat, kitten, tigger, tyger, striped, big tygress, tiiger
-729204dc-b5d5-4132-90b4-c683553e253e|Felix Argyle|Savyy|W|2|trap felix argyle, ferris, re:zero, female, trap, catboy, nekomimi, kemonomimi, anthro, feline, cat ears, blonde hair, white dress, blue blue, white, maid, butler, servant, cuddle, sleep, waifu, cute, kawaii, ferris felix, feris, felixx, feriss
+729204dc-b5d5-4132-90b4-c683553e253e|Felix Argyle |Savyy|W|2|trap felix argyle, ferris, re:zero, female, trap, catboy, nekomimi, kemonomimi, anthro, feline, cat ears, blonde hair, white dress, blue blue, white, maid, butler, servant, cuddle, sleep, waifu, cute, kawaii, ferris felix, feris, felixx, feriss
 6712894f-17f8-48bd-96e8-be9d2432d0e4|Haku|blademask|W|3|ninja, assassin, warrior, fighter, female, human, kimono, white, purple, black, floral sword, katana, mask, battle, combat, fight, assasin, katanah
 e780f092-4623-49a2-a509-4f13c576aecb|Don't Look|Daddy_Shiro|W|3|maid, female, human, anime, servant, attendant, assistant, black, white, blindfold, black bow, horror, creepy, scary, eerie, maidcore, scarry, creeepy, spooky, blinfold, blinndfold, maind, mayd
 2de46e6b-97b7-4d56-8aa4-4d901c9a467d|Kanna Gang V2|Kaizu|W|4|kanna gang v2 generic, imp, demon girl, female, demon, fiend, devil, incubus, succubus, red, red hair, confirmed, mlg, lol, smiley face, horns, emo, e-girl, egirl, edgy, impo, demongur, demongirl, demin girl
@@ -2330,7 +2330,7 @@ fb95398f-1773-4cbb-b6eb-ffe958a985ef|Kiki|Haitsma|W|4|kimono girl, female, human
 663aba8c-a2b1-4c72-b0a1-2eebcd91c0c1|miku ghost|Velvet b719|W|5|ghostmiku
 aa2ebf5c-6f37-42a2-a53c-4902e57de5ae|Tsuyu Asui|Panga|W|2|lets "hop" to it! na
 3ff7dba4-c940-4940-8a30-9b41058a217b|Mini DoomGuy|MDMonster|W|1|mini doomguy doom slayer, eternal, doomguy, space marine, male, human, soldier, shooter, fps, first person green armor, tactical, gaming, sci-fi, doomslayer, doometernal, dooom, dooomguy
-ffb35a3c-3f1f-4e69-b06d-25520039d3c0|Sele|Densen ¯|_(ツ)_|¯|W|3|:d female, humanoid, doll, puppet, mascot, waifu, white, pink, red, rose, white hair, bonnet, red bow, rose emblem, cosplay, kawaii, cute, anime, manga, dollie, dolliecore, loli, pink dress, dool, puppit, mascott, waifuu, kawii
+ffb35a3c-3f1f-4e69-b06d-25520039d3c0|Sele|Densen ¯ _(ツ)_ ¯|W|3|:d female, humanoid, doll, puppet, mascot, waifu, white, pink, red, rose, white hair, bonnet, red bow, rose emblem, cosplay, kawaii, cute, anime, manga, dollie, dolliecore, loli, pink dress, dool, puppit, mascott, waifuu, kawii
 96327736-1fe2-4098-82c8-50e6d896722d|halloween|Velvet b719|W|5|halloweenanime
 0ecf3488-10c4-4c6d-bf32-70be378d1a78|wolf blue|xGumipty|W|5|wolf blue
 28daec7d-a7d0-4e70-b51b-06f7df274756|Futaba Oracle Outfit|Bull Sugar|W|3|futaba battle outfit v2 sakura, persona 5, navi, oracle, hacker, female, human, protagonist, gamer, red goggles, black catsuit, green accents, headphones, cyberpunk, sci-fi, futuristic, game, anime, waifu, girl, fubata, futaba, fubata futaber, gamer cyber catsuit
@@ -4201,8 +4201,7 @@ e4b456ac-fd16-4e1b-8b2f-7b6c4fcf58f6|patricio|◀▶Astaroth◀▶2|W|5|patricio
 e454a7c0-203f-4ad1-8a4d-870e6b8ff2f3|CH Engineer|Shepardina|W|2|ch engineer soldier, mercenary, operative, fighter, male, human, military, combatant, warrior, trooper, black, gas mask, black tactical gear, camouflage vest, red ammo pouches, dark, serious, tactical, militaristic, prepared, battle ready, solger, soldyer, soldiar
 e6e88d97-d398-472c-bd27-300307e7f55f|Lux|Jutix|W|1|lux lillia, league of legends, riot games, support, jungler, female, fantasy, deer, centaur, fawn, mage, purple, blue, gold ornament, flower crown, flowery dress, magical girl, caster, lol, league, lila, liliaa, liliah, lilia leauge legends
 488aabf5-d853-440c-855e-f2566de510fb|Hero Coat|Soulpagan|W|4|hero coat emo boy, anime, androgynous, human, eboy, alternative, scene, black and blonde hair, red eyes, eye, pale, pale skin, dark collar, e-boy, emo, emoboy, emoboy
-927ac877-4bca-4ce4-9ab9-048850918cf8|Ryuji Sakamoto
-|Savyy|W|4|ryuji sakamoto, persona 5, phantom thieves, skull, male, human, student, teenager, boy, guy, punk, yellow shirt, black blazer, blond hair, spiky spiky, school, club, dancing, anime, ryugi, ryujisakomoto, personna
+927ac877-4bca-4ce4-9ab9-048850918cf8|Ryuji Sakamoto  |Savyy|W|4|ryuji sakamoto, persona 5, phantom thieves, skull, male, human, student, teenager, boy, guy, punk, yellow shirt, black blazer, blond hair, spiky spiky, school, club, dancing, anime, ryugi, ryujisakomoto, personna
 1e57d9a2-f26a-4d89-8e98-3865a4be2870|123|Pixelclash|W|5|123
 f238a90d-1459-4a73-9886-1bfa8193331c|叢雲|Зима|W|3|叢雲 anime girl, female, human, ship warship battleship soldier, warrior, fighter, white, red, red bow, grey armor, bunny ears, silver metal, uniform, anime, waifu, kawaii, moe, military, gun, guns, weaboo, weeaboo, shipgirl, botes, boatfu, kawii, animae
 7bdab5d2-6e78-4e82-aaea-8f1ba15a59a1|nirvana|Tetradior|W|5|nirvana
@@ -4754,7 +4753,7 @@ a7087b83-295e-448d-96c1-e00588819c7f|dogd|Influere|W|5|dogd
 48ab205f-b273-4fba-89df-e22f3d1f72ad|Giant Pingu|Britt-Stina|W|2|just giant version of pingu pingu, penguin, claymation, noot noot, animated, male, animal, bird, black, white, orange beak, funny, meme, cartoony, pingo, pingoo, pingeon
 d3de8f9d-1b88-4043-8397-bb876e912be4|anime zabava|Number of Stars 08f4|W|5|anime zabava
 6caf34e4-7ac4-4c6a-b53e-2dc36867bc72|Ghost Foxgirl|Tsubajashi|W|2|ghost foxgirl anime girl, female, human, foxgirl, kemonomimi, purple hair, white shirt, plaid skirt, cute, schoolgirl, kawaii, manga, violet, anime, purple, bow, suspenders, ears, tail, girle, kawaai, eears
-04bde920-7f09-4c91-8fe1-35218a5469e3|Anim||Kiritsuna|W|1|anim luka megurine, vocaloid, female, human, idol, popstar, singer, j-pop, pink hair, black dress, gold trim, belt, armbands, jpop, megurineluka, vocloid, vocaloyd
+04bde920-7f09-4c91-8fe1-35218a5469e3|Anim |Kiritsuna|W|1|anim luka megurine, vocaloid, female, human, idol, popstar, singer, j-pop, pink hair, black dress, gold trim, belt, armbands, jpop, megurineluka, vocloid, vocaloyd
 15bbda69-5671-4fe3-8c41-6fec07fc6359|yandere|SophieLover 954d|W|5|yandere
 0655a613-91cf-4eb7-8c63-a3c15ec27570|dragonaidasXDDD|piskit nx daunai f218|W|5|dragonaidasxddd
 cff4cc0a-424b-4bce-8c5d-73bf2adb067f|Enoshima|Nannou|W|3|enoshima junko enoshima, danganronpa, ultimate despair, fashionista, female, human, e-girl, influencer, model, social media star, black, pink, white, black dress, red bow, meme, troll, funny, cringe, edgy, jinko, enoshime, dangan rompa, danganronpaa

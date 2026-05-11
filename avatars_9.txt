@@ -143,7 +143,7 @@ c969f355-2fd5-479e-916a-b9d73c7f57d0|Null Anima|Aizlluna|W|4|null anima general,
 c46d336e-d8c1-46ba-b7bd-ea0e0a653aaa|toothless|DontStressBruh|W|5|toothless
 587201c6-f559-4206-8243-491f3bef2053|og|superduperlooper|W|2|pls work female, human, anime girl, nekomimi, catgirl, lingerie, underwear, black, brown hair, sexy, lewd, neko, kawaii, animae, kattgirl
 8b40b9ac-d200-4ce5-937e-9a8a8c14a63e|TinyKnucks|djdok|W|0|knuckles
-092fa378-e2c0-4e27-a87e-90b2d089d7bf|HalfHumanSizeSpider|Fate|South|W|5|
+092fa378-e2c0-4e27-a87e-90b2d089d7bf|HalfHumanSizeSpider|Fate South|W|5|
 ec211df1-0468-4e9b-afb7-dbb65ae0a1bc|ugganda|Ogamix|W|0|ugganda
 71845834-9a9a-49ed-9651-0a2141ccfd29|MoonMan|Yellowcooln|W|2|moonman
 32d0c2e0-9691-4908-9a6a-f7ca62b293b7|Mercury|ThunderWolf409|W|1|mercury
@@ -251,7 +251,7 @@ b3f18587-03ef-499b-a400-9223b7563aef|Chibi|chickenadobo1|W|2|kawaii avatar(https
 17498782-ad65-492e-b419-f7e63057b1de|Kratos III|Net_Beans|W|4|kratos from god of war iii ps3
 487e3fb7-7007-4984-b80b-7968a350be1d|HaruhiFinal|SamPolch|W|5|haruhifinal haruhi suzumiya, suzumiya series, anime, schoolgirl, female, human, school uniform, headband, yellow bows, red armband, sailor tsundere, anime girl, cosplay, roleplay, harrhi, harhu, haurhi
 f9f04647-cabf-4d47-b5ae-654ddbf86345|lol|kaniry|W|2|lol na
-71cc84d7-e65b-48da-a4c5-ec5af04b09da|VeryLarge|Fate|South|W|2|leg spyder mannequin, dummy, model, abstract, androgynous, humanoid, figurine, blue, blue skin, smooth, minimalist, basic, simple, blank, generic, monochromatic, bloo, blu, manniquin, manakin
+71cc84d7-e65b-48da-a4c5-ec5af04b09da|VeryLarge|Fate South|W|2|leg spyder mannequin, dummy, model, abstract, androgynous, humanoid, figurine, blue, blue skin, smooth, minimalist, basic, simple, blank, generic, monochromatic, bloo, blu, manniquin, manakin
 5bf3f706-0eeb-4f04-9abc-712b7844cb8a|Luka Cheer|ZZeta|W|3|luka cheer cheerleader, pom girl, squad, female, human, blue, white, gold, cheer, blue cheerleader top, gold diamond pattern, maroon trim, school, sport, dance, cute, kawaii, anime, cheerleeder, cheerlader, cheerldeer, pompom, cheerleaderr
 48860f33-49e5-4641-af73-fcaf8863b114|Marcy Test|tamashiina|W|5|marcy test
 9cd51d9f-cb88-40eb-b7e2-54ab22a90449|A failed test|Hikari_Ichii|W|5|failed test anime girl, elf, female, humanoid, waifu, woman, elf blue hair, highlights, black outfit, sleep, cuddle, cozy, e-girl, y2k, anime, low poly, lowpoly, blu elff
@@ -363,7 +363,7 @@ afdcbe20-3eb9-4b0a-81a7-d400f6117e98|cute puppy girl avatar|MidnightMochi23|W|2|
 c27ade89-1c98-492a-a732-fdff65da677c|Kaichi|Computer Boy|W|1|kaichi anime boy, school male, human, student, schoolboy, teen, maroon hair, black uniform, gold buttons, school, anime, manga, academy, highschool, schoolboye, schoolboie, skoolboy, skoolboie
 42aaf3e6-4435-4d7e-8360-8e7165c17a3d|purpgang may|Mr.Cloud|W|2|purpgang may may, pokemon, anime, cartoon, female, human, character, trainer, girl, purple, purple vest, bow, white yellow wristband, cute, kawaii, anime cartoon poke, pockemon, pockyemon, animae, caroon
 574065e8-a444-4d67-b242-279aa3d34d14|Greninja|sinhasbeen|W|3|greninja
-0310864c-b000-4c73-b15c-5084ba70ea27|LegSpiderTest|Fate|South|W|0|legspidertest mannequin, male, humanoid, dummy, model, blue
+0310864c-b000-4c73-b15c-5084ba70ea27|LegSpiderTest|Fate South|W|0|legspidertest mannequin, male, humanoid, dummy, model, blue
 33e42742-95d4-447f-bea3-b17bb407c98e|Snake|Soldier|W|5|snake
 3e2305a7-d613-4888-a1c5-6ef7413e11d4|blond little girl|selfie stick|W|2|blond little girl
 1c999679-dcb4-4d67-9dec-0b2999dbd5ad|Farfour|Farfour|W|1|farfour
@@ -392,7 +392,7 @@ d2625f50-3540-441c-b470-661cdc22ab43|Rena|Acrylia|W|5|rena elf, fantasy characte
 3a1e45be-70ca-47ce-993e-3f3193bcfe83|Tron|Makarov1123|W|1|hate the tomate
 eb65b3a5-0983-40b1-a57d-fcddda96efb7|Tda-Ama-no-Jaku-Gumi|ShibaJade|W|4|my first vr avatar- sailor, female, human, seafarer, mariner, navy, officer, blue, white, sailor hat, blue outfit, bow, maritime, nautical, uniform, kawaii, moe, cute, waifu, club, dancing, e-girl, y2k, metaverse, vrchat, sailer, saylor, seafarerr, mareiner, navvy, oficer
 fa905c4e-01aa-4bc1-89f3-0f5159f2a8d5|godzilla knuckles|joeytheheck|W|2|am da big brudda
-ede2551a-39a1-4c80-a903-63ec1ebb7bb2|FlatSpudder|Fate|South|W|5|flatspudder mannequin, dummy, figure, male, human, blue, pose, basic, simple, default, empty, blank, minimalist, minimilist, manekin, dummmy, figgure
+ede2551a-39a1-4c80-a903-63ec1ebb7bb2|FlatSpudder|Fate South|W|5|flatspudder mannequin, dummy, figure, male, human, blue, pose, basic, simple, default, empty, blank, minimalist, minimilist, manekin, dummmy, figgure
 84061a8f-f3a5-4ef4-b95a-27c59ce2a07d|c qfwv|weso111111111111111111111111|W|3|qfwv
 2af112a1-62ba-454e-bb3a-f15fbb1deb51|Spiderman|Hippieranger|W|5|spiderman
 3f3c2402-700a-403b-b938-9a764cc51f0b|Mistake of a Sans|Sans.|W|5|mistake of sans sans, undertale, skeleton, male, monster, comedian, yolo, red hat, blue hoodie, meme, funny, troll, viral, cursed, brainrot, sanes, sannes, under tale, undirtale
@@ -433,7 +433,7 @@ f4eb4644-7a96-47e3-a30a-bf351228b1e7|Krul Tepes|wheyte|W|4|krul tepes
 08658876-cd33-4733-8f70-fe0b145a51a9|Nice|huangster|W|5|nice
 a2126d92-6a6e-4b82-8446-2612aa6f4604|Lucoa Quetzalcoatl|WicKedBassline|W|4|lucoa quetzalcoatl
 c0ef965a-7796-4ce8-b4c1-1b517fb58e8b|Demon Wall|MarethBlack|W|2|idk what you expect na
-b0ead860-5453-4794-8db0-2d203591b0e2|toespider menu|Fate|South|W|5|toespider menu
+b0ead860-5453-4794-8db0-2d203591b0e2|toespider menu|Fate South|W|5|toespider menu
 5991ab8d-25f5-4542-9dd4-96734cb709bc|Charmeleon|Bananaleo|W|5|charmeleon
 17ffffeb-d1b2-46d1-b844-022c40bb4ad0|Kirito FINAL|himnick666|W|5|kirito
 f6901109-483f-4e5c-9d8e-fc9c7ac15aca|PBJTSOOOUUUND|The Gif Man|W|1|pbjtsooouuund banana, meme, fruit, food, troll, funny, yellow, black, pixelated, 8-bit, retrogaming, bananan, bananer, bananna, fruitt, fod
@@ -640,7 +640,7 @@ b6e37f53-7792-49fc-9331-a5501831d18a|miko|That Microwave|W|5|loli
 4d321e35-7a55-4776-856d-1d6d690be7f0|Kaito|Lee_The_W@y|W|5|vocaloid
 6ef99abd-deed-4878-9efd-def576c9ebe3|Dog|Olu|W|5|dog
 a1a5cd22-a1fd-4e17-9872-8c3c40e92a1d|Lucoa Final|Nysterious|W|5|preatlas
-328ba5ab-edde-459a-af1d-01d5e0b7ce7e|SS 2|twitch.tv|shawnez|W|5|super saiyan
+328ba5ab-edde-459a-af1d-01d5e0b7ce7e|SS 2|twitch.tv shawnez|W|5|super saiyan
 b2758a10-4b9a-4a69-8acd-3764a2f5727c|Sora|Explosion!!!!|W|3|sora
 31055892-f643-48fc-aafa-22ae50df246a|Yahagi|Pud1ngu|W|5|agano-class light cruiser yahagi by: ぽんぷ長. ported from mmd
 3035a986-617e-4a22-8143-a2e19bbdee51|Momokuma|time_to_teaparty|W|5|momokuma
@@ -660,7 +660,7 @@ c15a8068-2abd-4f4e-a2df-79c39c904bbf|Slenderman v2|Lord Mukasa|W|0|spookyman
 8b976108-1449-4228-b38f-f9ddda091305|Stormcloak Guard|itsyaboy|W|5|ppffftt
 5da21b85-9807-4256-929a-2979d77cdfb8|Wally or Waldo|BlueShirtMan|W|5|can you find him? waldo, where's wally, book character, cartoon, male, human, red, white, glasses, striped shirt, nerd, goofy, funny, meme, troll, comic, walldo, wheres walley
 5e1b3066-0200-461e-b3bd-efd33fced0a0|AnimeGirlV2|KitsuneDesu|W|5|animegirlv2
-03a162b2-1bf5-4d6f-8143-7eca425eaaa7|Elesis|RaginCajunChips|W|5|elesis aisha, elsword, mage, female, human, sorceress, witch, mystic, red hair, white, black, gold trim, anime, manga, magic, elegant, fighter, elsworrdd, elswoorrld
+03a162b2-1bf5-4d6f-8143-7eca425eaaa7|Elesis |RaginCajunChips|W|5|elesis aisha, elsword, mage, female, human, sorceress, witch, mystic, red hair, white, black, gold trim, anime, manga, magic, elegant, fighter, elsworrdd, elswoorrld
 9383d5e5-49a4-4348-857e-8395478f2f40|Ashe|vevitt|W|0|lol
 7bc6479e-da63-4a1f-9d97-ab39f47e0ba2|Clone Trooper (Episode III)|Scary2099|W|5|from star wars movies clone trooper, wars, 501st legion, soldier, male, human, galactic republic clone, infantry, white, blue, white armor, blue markings, battle, sci-fi, starwar, clonetrooper, clon, troopr
 ca33688c-7dbb-4ba3-b1cb-0be715b6a5d0|Tomas the Dank Engine|Dizioboy|W|1|big boi na
@@ -708,7 +708,7 @@ d4191510-afe7-4d1d-ac6f-970e7005b91d|7|Kurtastrophe|W|4|
 0cca6ecc-c025-4a41-8e9b-58d1674a620b|viper|heleith|W|5|viper from titanfall
 a2957560-5ce2-4363-aa9a-9fa742001a90|Trololi Kana V2|Towelie12345|W|5|trololi kana v2
 72c33c0b-8c1c-4013-bcb8-775c6aa351ce|Fox Senpai|Smarti8|W|5|fox senpai female, furry, anthro, kemonomimi, girl, green, egirl, foxgirl, catgirl, canine, mammal, vixen, ears, emerald hair, pink eyes, white shirt, black suspenders, goth, club, dancing, ear, cat green grren, grefn, furgirl, furri
-2d1a7f76-6964-4759-a3ec-4caec8d6456b|LETS FUCKING GOOOO|twitch.tv|shawnez|W|4|lets fucking goooo
+2d1a7f76-6964-4759-a3ec-4caec8d6456b|LETS FUCKING GOOOO|twitch.tv shawnez|W|4|lets fucking goooo
 04d7c837-4b61-49c8-ad4c-3359b82c3944|Turn A|KurodaXHomura|W|5|turn gundam, robot, anime, mecha, mobile suit, sci-fi, android, machine, automaton, white, blue, yellow, red, sci fi, militaristic, battle, fighting, war, future, animae, fiighting
 07cb5bef-cd1b-4dc8-9b7a-759b254ed2fe|yep|PssySlayer69|W|5|yep
 661b0d0e-486c-4e20-989c-5392998eb441|not|iPuntSmallKids|W|2|gona work
@@ -851,7 +851,7 @@ afbf69dd-1b66-4935-bfc4-8cfb9a47b380|GunTeast|Tropath|W|4|gunteast emo boy, male
 c3dd2ee6-cd4b-4b07-9476-92fdc255bfd2|Brewster|Dola|W|0|brewster brewster, animal crossing, male, bird, pigeon, avian, birdperson, ornithoid, green, black suit, bowtie, glasses, butler, sleep, cuddle, relax, cozy, wholesome, ac, burester, brwstr, brewstr, burwester, brewsterac
 d9025b2d-c1cd-482a-847d-9fd3f720c395|Reindeer|Miyuu Chan|W|4|reindeer, female, furry, cervidae, christmas anthro, holiday, reindeer girl, deer, festive, gray, gray coat, white fur, gold bell, red and green bow, christmas, cuddle, sleep, cozy, kawaii, xmas, rendeer, rendeir, der
 ff341dbc-811d-4cd0-8cab-584aca028315|D.Va|Scientist|W|2|d.va d.va, hana song, overwatch, magician, female, human, gamer, tank, magician girl, illusionist, black, white, black tophat, red bowtie, fishnets, magic, showgirl, diva, dva, deeva, deva, overwatchgirl
-56965da5-2401-4309-bcf9-70af8b937bf8|DEJA VUUU|twitch.tv|shawnez|W|2|deja vu na
+56965da5-2401-4309-bcf9-70af8b937bf8|DEJA VUUU|twitch.tv shawnez|W|2|deja vu na
 79ace7b8-8377-476d-926c-cf494a26f3f1|dab4|LubeMyTube|W|3|messed up hands anime schoolgirl, female, human, student, child, girl, navy blue, white sailor shirt, blue bow, manga, moe, cute, kawaii, school uniform, animegirl, scholgirl, schoolgurl
 8fcdd56e-2f31-4e5c-8c3f-cdf05cdbe0fc|Saber Alter|Eiji․|W|4|saber alter saber, artoria pendragon, fate, fate stay night, female, human, warrior, knight, swordsman, swordswoman, fighter, grey, red markings, blonde hair, gold eyes, anime, fighting, action, saberu, artoriah, fatte, sabor, artoria, pendragonu
 a6498ddd-bd36-4012-b43d-82574e867dac|KnucklesRusian|HeisenberGG|W|1|nice knuckles riding tank ugandan knuckles, meme, sonic the hedgehog, male, furry, warrior, soldier, fighter, red, white ushanka, soviet star, russian hat, do you know way, spitting, clicking, clan, tribe, tribal, funny, troll, cursed, vrchat de ded ugandian uganden, knockles
@@ -3133,7 +3133,7 @@ f4f5c82d-c123-41ca-b758-d35eb3965635|Mini Wash|DestroGaming|W|4|mini wash na
 2310d021-ab47-466a-9c7d-cc0006603e11|Hida v1|Tsukuyomi-sama|W|2|hida v1 male, human, boy, man, emo, goth, black, edgy, dark, brooding, gloomy, sad, lonely, anime, scene, twink, twinkie, emo goth boi, boi
 04b59fdc-1900-44d3-9f4a-84697b7ace5d|GanondorfTwilight|InsideMailman|W|3|ganondorftwilight ganondorf, the legend of zelda, male, demon, gerudo, villain, antagonist, dark, gray, metallic, armor, fantasy, evil, ganon, gannon, ganondorf elda, gannondorf
 10cf69f5-93b8-464f-9049-5ceb7cc53bd4|Gang Madoka|cautiouscritter|W|4|gang madoka kaname, puella magi magica, magical girl, female, human, anime witch, mage, sorceress, pink hair, black mask, yellow dress, cute, kawaii, waifu, manga, madoka, magi, magicca, kanname, madooka, mahical girl
-fe3dfd09-d16c-4920-9687-2e85c7072941|VLRunning|Fate|South|W|2|vlrunning alien, extraterrestrial, humanoid, male, grey, black pants, odd, uncanny, strange, unusual, sci-fi, future, ufo, et, gray, ailen, alian, extraterestrial
+fe3dfd09-d16c-4920-9687-2e85c7072941|VLRunning|Fate South|W|2|vlrunning alien, extraterrestrial, humanoid, male, grey, black pants, odd, uncanny, strange, unusual, sci-fi, future, ufo, et, gray, ailen, alian, extraterestrial
 08872549-b9d8-4553-82ea-394818e08b36|Winter Anna v3|Laeline|W|2|with mouth movement! gray turtleneck girl, female, human, casual, grey, gray, turtleneck, grey jeans, club, dancing, grayshirt, greyshirt, greyjeans, grayjeans, turtleneckgirl, turtleneckgirl
 47c1502d-ca42-4f45-9775-e542c7933926|grillstick|Hungry?|W|0|grillstick na
 08d39739-45b6-42ff-b279-bec5415aea6c|Eggman Neo|Ninetails_Kurama|W|1|eggman neo model dr eggman, doctor robotnik, sonic the hedgehog, sega, male, human, villain, scientist, grey, black, red, yellow, sonic, doctoreggman
@@ -3168,7 +3168,7 @@ c2c436ea-e8d2-4cf2-86d8-756f52b4731b|SoldierHoppouV4b|Fredag|W|4|soldierhoppou m
 499b531a-54da-4876-b0e5-94fb3a5c19dc|sk|Steel|W|2|sk majora's mask, legend of zelda, male, monster, demon, masked, guardian, zelda orange, yellow, green, majora, majoramask, horror, scary, fierce deity, deity link, deku, creepy, horrorgame, n64, nintendo, ocarinaoftime, majoras
 5bc83d3f-5188-4d10-bb8e-270d69e72ca7|Jaja|elDrogazz|W|0|holo na
 6291cda4-988c-4ba5-8da7-77b2a6774d1f|2B|Tocina Bacon|W|1|2b 2b, yorha no.2 type b, nier automata, android, female, robot, automaton, machine, bot, black, black dress, white hair, blindfold, gothic, rpg, anime, game, nier, yhorha, yorha, 2-b, nierautomata, neir, yorka, 2bee
-e9c60c9f-793c-46e2-90de-cd666fe10811|LegRunning|Fate|South|W|0|legrunning male, human, avatar, figure, mannequin, blue, blue skin, man, abstract, simple, stylized, low poly, lowpoly, blu, manniquin
+e9c60c9f-793c-46e2-90de-cd666fe10811|LegRunning|Fate South|W|0|legrunning male, human, avatar, figure, mannequin, blue, blue skin, man, abstract, simple, stylized, low poly, lowpoly, blu, manniquin
 234f2164-9bc0-4083-926d-7df2239fa924|Rantaro V2 (LESS BOBLE EYES)|UserCodeh|W|0|rantaro v2 (less boble eyes) generic, male, human, boy, teen, casual, black striped shirt, brown pants, eboy, softboy, grunge, anime, striped, goth, e-boy, casual wear, alternative, alternative fashion, scarf, braclet, ring, bandage, eboi, ebiy, eboii
 c8ecef72-dede-468f-96de-1a2e867c0133|deybit11|Da3ron|W|3|deybit11 black rock shooter, anime, manga, video game, female, android, cyborg, robot, automaton, machine, bot, black, hair, blue eyes, jacket, white straps, bikini top, checkered shorts, boots, fighting, action, cyberpunk, scifi, sci-fi, bllack, androidd, androyd, robo, cyborgg, cyperpunk
 6814e7dc-ef98-4daf-a029-e86ff397cc0f|Walkken|Hapsi|W|4|walken na
@@ -3465,7 +3465,7 @@ e9074023-abe5-4a32-98dc-6d8669bb025d|Sidekick|Mista Lonely|W|1|do not call him t
 1e5512ca-da5e-45fa-a388-3377fffbfe20|Warp Assault v7|Speediestsaf|W|4|dont use please na
 3e5461fe-43ba-43fd-b956-03f3904e501a|waluigi|BlastVR|W|0|waluigi na
 696fffa3-a994-4740-8f5f-424f2c8d25d5|IcePrincess|Diss|W|3|iceprincess anime girl, female, human, casual, pink hair, hoodie, notebook, pen, casual outfit, club, dancing, egirl, emo, kawaii, cutecore, animegorl, pinkk, pinkkkk, casul
-9c589978-6674-4c2d-88d9-c36a6e7a4a66|FootRunning|Fate|South|W|0|footrunning generic, avatar, male, human, character, blue, cartoon, simple, basic, minimalist, stylized, solid color, uniform, plain, genericavatar, blu, blew, bloo, bluu
+9c589978-6674-4c2d-88d9-c36a6e7a4a66|FootRunning|Fate South|W|0|footrunning generic, avatar, male, human, character, blue, cartoon, simple, basic, minimalist, stylized, solid color, uniform, plain, genericavatar, blu, blew, bloo, bluu
 750feb40-2ccc-4a94-8701-cb36deac01a9|Hoppou-Chan|Hoksi|W|3|#14 monster girl, female, demon, ghoul, creepy, horror, scary, white, red eyes, black, ghost, spooky, monsterwoman, demongirl, creepydoll, horroravatar, lets go, letsgo, letts letz go
 80d2d0df-4b86-4505-83dd-c76f3bb992ee|auriX knucklEs|Aurix|W|0|tjenare na
 8da815be-15d0-4752-84ff-377ba43d78a6|kakashi war|_Ene_|W|1|321 kakashi hatake, naruto, anime, manga, male, human, ninja, shinobi, fighter, warrior, black, olive vest, grey headband, hidden leaf village, fighting, kakasi, kakaashi, khakashi, kakshi, ninjya
@@ -3549,8 +3549,7 @@ fb188dd0-0938-4024-a750-3f71d625bcef|Duke Nukem|MrCoderwhite|W|2|pls fixed survi
 5c5c99e7-c0f3-4d5c-be23-bc1e8b64374e|Myesterious Heroine X Alter|Kirsch|W|3|myesterious heroine alter anime girl, female, human, manga, kawaii, anime, woman, humanoid, schoolgirl, glasses, black jacket, white shirt, cute, club, dancing, animee, kawwai
 89dc0971-82e3-495c-aedb-b4b1c25321b7|Mimic|Muutsuu|W|1|asd na
 745aabe9-ad41-4ad3-9c5b-7e7563425e76|Boxing Freeman|pyrofoxy|W|3|boxing freeman gordon freeman, half-life, valve, scientist, male, human, physicist, gaming, gamer, fps, gray, orange, black, glasses, goatee, beard, hazmat suit, protective shooter, geek, nerd, hl, half life, valv, siientist, phycisist, gamin, gammer, fps
-e13ff27c-d007-4159-92f5-f19913797759|Alpha male
-|TyZ|W|1|tyz na
+e13ff27c-d007-4159-92f5-f19913797759|Alpha male  |TyZ|W|1|tyz na
 2f6b29e8-a90d-4b93-b64f-2a7184756f55|Mario's Green Mushroom (Life)|Minisher|W|0|up+ na
 90cfcaf2-ce71-4352-b7be-e79f1944b42c|Tidus|JULI-FFX|W|3|tidus na
 f91ba481-73f7-44c3-af24-87fb723249a6|dragon|Leonavi|W|5|dragon
@@ -4281,7 +4280,7 @@ a844dbd1-52bc-4523-8073-768d859655a8|kanna2|dizzy.|W|5|kanna2
 e6746906-7f02-452c-8322-11e025e8c4cf|536 destroyer ship|Debiruku|W|3|536 destroyer ship sailor, schoolgirl, student, anime character, female, human, japanese mariner, seafarer, white, navy blue, red tie, school uniform, sailor collar, school, roleplay, cuddle, sleep, whitee, naviblue
 1507c6ad-8041-4dca-95ba-5ac9dcbdcaed|zigggs|Sulfozin|W|1|1223 na
 dec77bd0-48fd-471b-9c78-9a65f3163521|Giga Shaggy|Indolence|W|4|dis is giga shaggy na
-ac4d566e-7a60-489b-a018-f45ac7f33249|LifeSizeMaid|Fate|South|W|3|lifesizemaid maid, classic anime waifu, female, human, servant, housekeeper, cleaning lady, french black, white, white apron, black dress, hairband, anime, cute, kawaii, maidchan, mayd, mmade, mayde, clasicmaid, klassicmaid
+ac4d566e-7a60-489b-a018-f45ac7f33249|LifeSizeMaid|Fate South|W|3|lifesizemaid maid, classic anime waifu, female, human, servant, housekeeper, cleaning lady, french black, white, white apron, black dress, hairband, anime, cute, kawaii, maidchan, mayd, mmade, mayde, clasicmaid, klassicmaid
 0a55394e-99ba-4f87-af68-e3533e3fd846|Skelecog A Unanimated|Mummified|W|3|skelecog unanimated robot, machine, male, android, automaton, clockwork, steampunk, metal, mechanical, bot, gear, automoton, mech
 a58dc2e3-0a8b-41ff-9e4c-caa9bf0e307c|Ghastly Fox Final|draaven|W|3|the final fix!!! furry, female, anthro, kemonomimi, nekomimi, canine, purple, white, purple hair, plaid skirt, white shirt, bow, wolf ears, animal anthropomorphic, femboy, club, dance, cosplay, kawaii, cute, kemonomimi girl, anthro ferri, fery, furri
 6e1021da-f488-4761-a217-15615b013432|Vincent|Monkeh|W|2|by ichi joker, persona 5, ren amamiya, protagonist, male, human, phantom thief, black hair, red shirt, white jacket, metaverse, rpg, anime, game, jooker, personna, amamiyya, protagonest, maile, phanom, blackk hairr, redd whitee animay
@@ -4297,7 +4296,7 @@ c727f7eb-494b-41fc-932d-85b245ca337a|fire hoppou|Hubix|W|2|so hot demon, monster
 07413b06-6f20-4291-a697-a83579487dac|Robot|Midgardz|W|4|robot soundwave, transformers, robot, autobot, machine, android, metallic, blocky, blue, white, purple decepticon logo, decepticon, villain, sci-fi, cyberpunk, mech, bot, sound wave, automaton
 ab718c97-b18a-4fdb-867f-ee95db3f35a0|WodahsCasual|Kurin|W|3|wodahscasual schoolgirl, student, scholar, female, human, girl, white shirt, purple ribbon, skirt, eye patch, gray hair, club, dancing, e-girl, cute, kawaii, waifu, skoolgirl, skool, stuudent, studdent
 d280982f-c665-4cdc-8065-a9bdbbefaf05|Big Sister|White Pegasus|W|0|big sister daddy, bioshock, bioshock male, cyborg, monster, protector, defender, heavy, enforcer, diving suit, submersible rust, brown, metal, drill, green eye, tank, steampunk, retrofuturism, horror, scary, creepy, bio shock, daddyy, dady, biioshock
-8b21c91e-bdd6-4a8c-9243-ffc92e7c6fc9|Dva...?|| Koda ||W|1|dva...? d.va, hana song, overwatch, female, human, hero, gamer, mech pilot, overwatch 2, pink accents, blue suit, white armor, sci-fi, futuristic, shooter, online game, va, overwatchh, dva
+8b21c91e-bdd6-4a8c-9243-ffc92e7c6fc9|Dva...?|  Koda  |W|1|dva...? d.va, hana song, overwatch, female, human, hero, gamer, mech pilot, overwatch 2, pink accents, blue suit, white armor, sci-fi, futuristic, shooter, online game, va, overwatchh, dva
 e1ff8d5a-4363-4d20-9903-4494c6bacbc4|bufftsuki|dizzy.|W|5|bufftsuki
 e6aea2d1-f6ce-42b5-b59f-df1ea1d2f116|green grey|Former Class President|W|4|green grey catboy, male, furry, neko, cat boy, person, anthro, feline, hair, emerald black outfit, bowtie, eyes, cute, wholesome, emo, ears, kemonomimi, green, black, catperson, cattboy, neco, greenhear
 e384eee5-efff-48ef-b656-cd6b9f94a998|Pec Eyes|gelt201|W|2|hey why are you lopking at my head eyes down here na
@@ -4358,7 +4357,7 @@ bcc4c0d3-7f1d-440e-818d-5cb80b21d721|Broke|2_BrokeToAffordVR|W|2|broke na
 a2d47e37-f416-446e-8e7a-3dd7a311e1f0|Acid IA|Azaerys|W|3|acid ia anime girl, female, humanoid, cyborg, android, robot, machine, bot, automaton, pink, purple, white, futuristic, sci-fi, sci fi, cyberpunk, jumpsuit, spandex, lycra, tight, bodysuit, anime, manga, japanese, pink hair, blue eyes, femail, androyd, robo, machin, autometon
 3905d247-ee50-424c-96be-3ca21c6e9695|Big Knife|Advair|W|4|big knife female, anime, schoolgirl, student, school uniform, white, blue, girl, animee, scoolgirl, femaile
 a9dd45e1-9f26-48a4-ba66-b63506677851|Uni Avatar|Mim_DH|W|1|uni avatar noire, hyperdimension neptunia, lastation, female, human, goddess, cpu, anime girl, black, black dress, light blue trim, bows, hair ornaments, game character, waifu, kawaii, cute, noir, hiperdimension, animagirl, cutte, kawii
-317f7e04-1f69-440f-b609-3556440940fd|HalfMaid|Fate|South|W|3|halfmaid maid, female, human, servant, french anime, cartoon, cute, kawaii, blue hair, white apron, adorable, light skin, domaestic, maidd
+317f7e04-1f69-440f-b609-3556440940fd|HalfMaid|Fate South|W|3|halfmaid maid, female, human, servant, french anime, cartoon, cute, kawaii, blue hair, white apron, adorable, light skin, domaestic, maidd
 99b7c587-4b96-4639-a670-e1e130f7c96b|WARRIOR|Eatdapuffin|W|5|warrrrr na
 c22c08df-f8e5-4994-aa7f-4c22aed290d1|Morrîgan|kambilla|W|2|morrîgan witch, sorceress, enchantress, female, human, occultist, spellcaster, necromancer, dark, black, red, wide brim hat, blindfold, skull necklace, tattoo, gothic, emo, goth, witchy, wytch, witxh, bich, bytch
 c79de90b-103c-4087-991b-00aebd0debe5|Arenita|Crazy Ana|W|0|arenita bikini morado na
@@ -4410,7 +4409,7 @@ f7f007c8-e64c-45bf-ad4c-e9a6a5df6fbe|Waluigi|MasterWaluigi|W|1|waaaaaa na
 20ec8c47-4709-4adc-8d13-160eb81d4411|Archer gay|Nyel|W|2|archer gay archer, fate stay night, anime, male, human, servant, heroic spirit, protector, guardian, white hair, silver red jacket, trim, fate, staynight, fete
 0882ff2b-b745-4167-8a57-b4b0c02c0a85|Megumin|Impreza97|W|2|megumin megumin, konosuba, arch wizard, female, human, mage, sorcerer, witch, enchanter, burgundy, black hat, gold trim, explosions, comedy, anime, isekai, magic, meguminu, meguin, konosouba
 e533f82d-89b3-424a-955a-ebe0043f9570|Neppy|Neko Nagasaki|W|1|neppy neptune, hyperdimension neptunia, jrpg, goddess, purple heart, cpu, female, humanoid, anime girl, cartoon character, waifu, heroine, defender, purple, white jacket, dress, bracelets, emblem, anime, waifu material, cute, adorable, kawaii, neppy, nep nep, nepu, nerptune, hyperdimension, neptoon, neptuna, nepton
-9f5a3642-5585-45ee-8a48-cc11a87eb799|TinyMaid|Fate|South|W|3|tinymaid na
+9f5a3642-5585-45ee-8a48-cc11a87eb799|TinyMaid|Fate South|W|3|tinymaid na
 5b8b136a-ce05-42ec-b4ba-fe40f89c7ee3|Shizuo Flat lit|munchybubbles|W|4|flat lit durarara shizuo bartender, waiter, host, male, human, anime, manga, blonde hair, black vest, white shirt, bowtie, service, e-boy, kawaii, e-girl, baratender, waitor, hostt
 a47f985a-23da-487f-929c-37883d8483a7|Link|AugusVidela|W|3|link from botw link, legend of zelda, the male, human, hero, adventurer, hylian, blue, blue tunic, leather, leather belt, straps, hero time, adventure, action, quest, zelda tears kingdom, botw, totk, tloz, hylian lnink, lunk, linc, legnd zellda
 a5f0c7ab-79d0-4190-bc54-118eef9746ba|Indianapolis|Kryptique|W|3|don't worry, she's legal oni girl, demon female, furry, kemonomimi, cartoon, anime, monster, horned, white hair, red shoes, gold horns, club, dancing, edgy, e-girl, egirl, oni, deamon, deamoness, demoness, hornedgirl, whiter
@@ -4513,7 +4512,7 @@ e4e3cc55-03fc-4419-b6b5-4c35a5d2c5fa|Sheer Heart Attack|SuckySuck|W|0|kocchi wo 
 0849b409-6e9f-4980-a2c1-050dbf29ccbb|raregirl5times|DemonAbused|W|5|raregirl5times
 0fb2603b-1a8c-4ed1-8d49-72788c47dfa5|Spiral World|ShizzeldieDizzel|W|1|spiral world na
 0dd6378b-ae73-4664-ad01-b18e91bb6281|Punchy the Dragonite|HibiscusUnicorn|W|2|he is shiny as can be! dragonite, pokemon, pokemon go, monster, animal, furry, dragon, green, yellow, cute, cartoon, game, kids, pokemongo, draginite, dragoonite, pockemon, pockemongo
-b1b01afd-0773-4b21-bfff-b1f305a47c1d|Junko|Pix||W|3|"are you watching, chang'e?" empress, female, human, queen, ruler, aristocrat, ginger hair, red eyes, red, gold, black, asian, chinese, chinese dress, regal, traditional, vintage, roleplay, emdress, empresse, qween, qeen, epress
+b1b01afd-0773-4b21-bfff-b1f305a47c1d|Junko|Pix |W|3|"are you watching, chang'e?" empress, female, human, queen, ruler, aristocrat, ginger hair, red eyes, red, gold, black, asian, chinese, chinese dress, regal, traditional, vintage, roleplay, emdress, empresse, qween, qeen, epress
 8bb3a6af-acc6-475d-803e-61661ddc16f3|Knuckles in a tank lamo|Liquid Popsicle|W|0|knuckles in tank lamo ugandan knuckles, meme, echidna, sonic, male, animal, monster, red, tank, gray, fire, gun, do you know da wae, spit on him, the way, ugandan, ugandian, funny, troll, viral, cursed, brainrot, knukles, nuckles, nuckels, tankk, fay
 6dae3552-30c4-4230-8dcb-94937b59e89d|Saber Excalibur|Stormowl|W|2|saber excalibur saber, artoria pendragon, fate series, female, human, knight, warrior, king, servant, anime, blonde hair, blue, silver armor, sword, fate, stay night, arthur alter, sabber, series
 8427116e-9354-42d4-aa0e-5a8902cbee01|GardevoireV1.2|NekoGeriiKun|W|4|gardevoirev1.1 female, human, anime girl, manga waifu, light green, red eyes, bow, ribbon, green hair, pale skin, cute, kawaii, egirl, angelic, innocent, angel, pure, anime, manga, gurl, feamle, aneme, mangaa, kawaaii
@@ -4832,7 +4831,7 @@ dac3de6e-b05d-470a-9565-21f349fde099|Purple Heart V|Neko Nagasaki|W|1|purple hea
 16cbf322-4538-4768-90e9-390d643b01cd|OGUMI|White_Ducks|W|2|ogumi anime girl, green hair, cartoon, female, human, manga, animated, orange, green, white, anime, cute, kawaii, colorful, costume, cosplay, cosplayer, cartoongirl, animegrill, mangagrill
 dd8d4fb2-c1c8-4c36-98d7-c6bf33eeef87|Mark VR|Lallering|W|0|mark vr na
 147ae1c0-bd9c-45f1-8c3e-00fdefd55509|clown jpeg|Clone!|W|0|clown jpeg clown, horror, male, humanoid, jester, funny, colorful, red, blue, pixelated, red nose, clownn, jesster, humannoid, pixel, horrror, horrer
-9ee95a54-687c-4a15-a9fd-a62a7df1bff7|Knuckles|| Koda ||W|0|knuckles na
+9ee95a54-687c-4a15-a9fd-a62a7df1bff7|Knuckles|  Koda  |W|0|knuckles na
 d5654804-ec66-480c-aa04-b7fdb712ae43|Kudo|cloudydraws|W|0|digimon furry, feline, cat, mammal, male, anthropomorphic, wolf, fox, dog, canine, white, yellow, red, collar, animal, anthro, fursona, quadsuit, quadruped, ferret, weasel, fery, wessel
 294c4d01-bca1-4964-9662-762737758db3|Hestia|FluffyTheZombie|W|2|now fixed?
 aebd8db8-b3e8-491f-8c36-ebcf9c981c21|RX-79G Ez8|McSnazzyPants|W|2|rx-79g ez8 gundam, mecha, mech, robot, automaton, android, male, machine, gray, number 831, gray armor, sci-fi, futuristic, fighting, shooter, war, battle, gunndam, gundaam, meccha, mekha, meca

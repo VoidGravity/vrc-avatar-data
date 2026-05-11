@@ -1456,7 +1456,7 @@ bf79fe9a-c23b-4572-9efa-e3f52dfb9791|Yuko|The Final Pam|W|2|yuko na
 16f39994-9349-4300-ab37-23a06c3d8ee3|Sakuya Koumajou|TheBlablaman|W|3|credits arlvit hvp subway pokie-punk maid, female, human, anime, victorian, black, white, frilly, french gothic lolita, servant, gothic, maide, made, gothik, gotihic servent
 3c310ce4-090e-41ce-8a5b-7325e27c125e|Broken Dance |PopeBeats|W|3|broken dance gumi megpoid, vocaloid, character, female, human, anime, pink, blue, pink hair, dress, buttons, cute, kawaii, idol, cartoon, digital diva, pop star, vocaloid gumi, vocaloidmegpoid, megpoidgumi, gummi, megpoidd, vocaloidgummi, gumivocaliid
 4ef6452c-12d8-467f-8df1-de7c3e3c4092|BlackLoli|Lusty Batch|W|4|blackloli anime girl, female, human, black hair, red bow, pink eyes, anime, manga, waifu, kawaii, cute, bishoujo, animee, aniime, gurl, eyez, awnime, animi
-c5631d9c-db05-4932-8085-8fa6a32b857a|Gyro Zeppeli|Pix||W|1|"pizza mozzarella" gyro zeppeli, jojo's bizarre adventure, steel ball run, male, human, cowboy, gunslinger, jojo, jjba, purple, gold, blue, hat, outfit, anime, manga, giros jojos bizzare adventure
+c5631d9c-db05-4932-8085-8fa6a32b857a|Gyro Zeppeli|Pix |W|1|"pizza mozzarella" gyro zeppeli, jojo's bizarre adventure, steel ball run, male, human, cowboy, gunslinger, jojo, jjba, purple, gold, blue, hat, outfit, anime, manga, giros jojos bizzare adventure
 f24b3921-2d07-467e-8421-42a93c42bb63|HollowIchigo|Shaygar|W|2|for friend na
 179b4100-c2a5-4aa7-96d9-d10bf533c6fc|Halo1|SWedenUp|W|2|halo master chief, halo, spartan, male, human, soldier, video game character, sci-fi, green, armor, helmet, futuristic, first person shooter, fps, game, marine, trooper, warrior, hallo, haloo, mastrechief, solder, gamer, gamerr
 8b0cff29-ea70-4c13-95ff-9f2917c87a41|lolitits|kristijanEX|W|1|lolitits catgirl, female, furry, kemonomimi, nekomimi, feline, humanoid cat, blonde hair, white bikini, brown hoodie, casual, beach, summer, tan, tanned, orange, katgirl, ketgirl, feline
@@ -1606,8 +1606,7 @@ dd3e525b-8169-4642-9887-db7b9e99976e|YuruYuri8|yuruyuri8|W|2|yuruyuri8 na
 7e9de0bb-bad3-4aa2-a576-f38ec60d3abb|Ninja|NinjaKitty|W|4|ninja black rock shooter, blackrock brs, female, anime, manga, warrior, fighter, cyberpunk, anti-hero, black, hair, blue eyes, bandages, choker, blek shutr, blck rok shooter
 52e1f1b5-974a-4769-a009-301480893abe|EtimonVRChat|Fraunhofer|W|0|adsdawdsawd dog, doggo, canine, animal, furry, male, brown, beige, black, goofy, silly, cartoon, animalistic, pup, puppy, doggie, dawg, bone, orange, dang, doog
 f1635fc5-0bdc-43a4-a58b-9516491fcdc8|Atago|Cobee|W|4|the actual atago ship girl, anime female, human, waifu, sailor, blonde hair, blue outfit, military, sailor uniform, cute, kawaii, shipgirl, shpgirl, animae, femal, blondehair, blueoutfit
-3f56eb9a-770b-4c00-9bf3-086092169d49|Rainbow Nep nep fly2
-|Chinatsu|W|1|rainbow nep fly2 neptune, neptunia, hyperdimension video game, jrpg, female, human, goddess, cpu, blue, white, headphones, rpg, anime, cartoon, funny, neptunee, neptuniaa, neptunai, hypedimension
+3f56eb9a-770b-4c00-9bf3-086092169d49|Rainbow Nep nep fly2 |Chinatsu|W|1|rainbow nep fly2 neptune, neptunia, hyperdimension video game, jrpg, female, human, goddess, cpu, blue, white, headphones, rpg, anime, cartoon, funny, neptunee, neptuniaa, neptunai, hypedimension
 73e3de33-dd2c-441b-aae2-fc2f5275d51c|FS|Xim|W|4|fs sans, undertale, skeleton, monster, male, undertael, undertal, skelton, bone, bones, white, black, blue eye, red scar, funny, meme, troll, sanes, snes, sanss
 bff8b55a-be1f-4797-9f14-5eef5d1a01fe|Mikane|Munificent|W|1|mikane hana-chan, ojamajo doremi, witchling, female, human, magical girl, sorceress, apprentice, blue dress, red bag, blonde hair, anime, cute, kawaii, hana chan, ojamajo, witch, wizard, magigirl, magigal, animae, blu blonde, hanachan, oyamajo, ojama, do re mi, doriemi, san
 e35b9af1-6668-428c-a845-9938b40add1d|knucks whey bar|Wo1fgang|W|2|knucks whey bar na
@@ -2404,7 +2403,7 @@ ede9d11b-dbed-4009-99c5-0d9de50ecc9d|Misaki|Kydo|W|2|misaki na
 5475f0ac-42ae-4ab3-8d99-745875198b58|chibi miku|chippuchi|W|3|chibi miku na
 c655972f-4610-4b4e-8e80-a82b4c114240|Ditto|Snappyx|W|2|ditto ditto, pokemon, pokemon go, purple, amorphous, slime, monster, ooze, blob, transforming, shapeshifter, meme, funny, viral, derp, derpy, copycat, dito, ditoo, diddo, pokeman, pocemon
 a4ccff3f-0467-4c39-87bd-5ad9f27bccfe|Nes|Valex 28ea|W|5|nes
-f1136264-08d2-46ce-bde2-88d8432169c2|A smol cow|Pix||W|0|top quality stuff right here na
+f1136264-08d2-46ce-bde2-88d8432169c2|A smol cow|Pix |W|0|top quality stuff right here na
 5c56dcca-4d6f-4042-83c2-d192408ca56d|Animeeeeee|Cey|W|2|animeeeeee geisha, maiko, female, human, asian, doll, kimono, parasol, japanese, oriental, orange, red black anime, cosplay, exotic, giesha, giisha
 08b2504d-d46d-4b4a-8248-6dedd35ac683|kana|Proxeria|W|1|kana na
 4bdbdce6-37b5-4d04-823f-e115050d9b25|Space3|Advz|W|5|space3
@@ -2496,7 +2495,7 @@ c03ba7cb-725b-4854-a53c-d75c1d0297ce|t11t poppin lady|L010|W|2|t11t poppin lady 
 7a5fc76d-731f-4d45-8ed3-e9f37da8cf7e|Akane Owari|Lunalyst|W|4|akane owari from ganganropa owari, danganronpa, ultimate gymnast, female, human, athlete, student, white shirt, red skirt, short hair, tomboy, sporty, schoolgirl, anime, owarii, danganrompa, akaneowari, akanne, whiter, reddd
 8377745c-9903-4865-bd0c-25f6e5de2b12|Zeppy|Whuping|W|4|graf zeppy anime girl, female, human, military, officer, anime, manga, white, black, red, uniform, hat, military cute, kawaii, waifu, tactical, militar, militarygirl, officergirl, animae, animay
 dfe19a41-709c-4c1a-adc4-3a4aaa715085|gery2|00ScubaSteve|W|0|gery2 grey alien, extraterrestrial, e.t., grey, galactic, otherworldly, extraterrestrial being, tall xenomorph, ufo, aliengrey, graeyalien
-9e58f6a2-5973-4340-8e77-8e9bad0a5ff0|SupraS Avatar|TWITCH.TV|supras|W|0|follow me on twitch.tv/supras ugandan knuckles, do you know the way, meme, male, demon, imp, monster, creature, purple, purple twitch.tv/supars, troll, funny, viral, cursed, ugandian ugangian, da wae, kugles, knugles, knukles, know, way
+9e58f6a2-5973-4340-8e77-8e9bad0a5ff0|SupraS Avatar|TWITCH.TV supras|W|0|follow me on twitch.tv/supras ugandan knuckles, do you know the way, meme, male, demon, imp, monster, creature, purple, purple twitch.tv/supars, troll, funny, viral, cursed, ugandian ugangian, da wae, kugles, knugles, knukles, know, way
 fe2ef5cd-62c8-41c3-a51c-7c2e1035da3e|thot 2.0|Uranicsum|W|3|thot 2.0 demon, succubus, imp, anime girl, female, white, black horns, red eyes, purple, galaxy print, gothic, horror, scary, creepy, demom, sucubus
 298736c0-1767-4fbb-b8a1-736b3ddf28a2|Angry Dino Gnar|nekles|W|0|angry dino gnar gnar, league of legends, yordle, furry, male, monster, mage, plushie, brown, purple, orange, cartoon, gamer, game character, moba, lol, leauge gnarr, nnar, ordel, yordel
 05118802-60dd-45d8-854c-de7aaf8a780a|Succubus Neru|リュウ|W|4|succubus neru demon girl, female, demon, anthro, monster, imp, orange eyes, hair, black horns, bat wings, sexy, club, dancing, seductive, demongirl, orang hair
@@ -2553,7 +2552,7 @@ ac88abbe-c806-4d86-8dc2-c2337e0c1817|Ren|BaronTeros|W|4|ren androgynous, human, 
 0416f43c-fba5-4fbe-b005-2a14149e0bf7|Charizard|Loophole|W|3|charizard charizard, pokemon, fire type, dragon lizardon, male, monster, pokemon character, orange, blue wings, orange lizard, anime, cartoon, charazard, shurizard, shurrisard, sharizard
 0cd7fc0d-fff7-4532-a5b2-4847fb4df1b6|yoda|illusima|W|5|yoda
 f402e9c1-73e3-4a7d-83b8-3755ecd7ced9|Casual Shep|sir785|W|1|wow so casual anderson shephard, mass effect, soldier, commander, commander male, human, military, space marine, protector, defender, infantry, black, grey, tactical uniform, sci-fi, shooter, action, soldierer, commanderr, sheperd, mas effect
-a0f1e056-f86b-469e-b757-63003251ff27|Pac-man|Pix||W|0|from: here comes pacman/pac on crack pac-man, pacman, arcade game, retro, namco, male, creature, cartoon, funny, meme, 80s, eighties, pac man, yellow, red, pacman ghost eater, videogame, 8-bit, bit, video packman, pac, mann, paccman
+a0f1e056-f86b-469e-b757-63003251ff27|Pac-man|Pix |W|0|from: here comes pacman/pac on crack pac-man, pacman, arcade game, retro, namco, male, creature, cartoon, funny, meme, 80s, eighties, pac man, yellow, red, pacman ghost eater, videogame, 8-bit, bit, video packman, pac, mann, paccman
 cb801669-ee0f-45bb-bad2-9f00965e0f32|green thing|Valex 28ea|W|5|green thing
 20ec76a7-180c-4177-82f9-f7599dd59a21|00greenone|00ScubaSteve|W|0|00greenone alien, extraterrestrial, martian, et, grey, green, creature, space e.t., alienn
 3a540454-eb51-471d-bab0-c02bf1140dd6|Mario 64|A Dish|W|4|mario 64 mario, super bros, video game, male, human, plumber, hero, red, blue, red hat, white gloves, overalls, meme, nintendo, nintento, maario
@@ -2817,8 +2816,7 @@ daa50f63-f419-4cc4-a2a4-5cf43fb12ad5|SwordMale|Anime Catfish|W|3|swordmale anime
 be9c28ac-62a2-48db-9cf4-c419cd38055c|BodyGuard|HugRez|W|2|bodyguard agent smith, the matrix, hugo weaving, movie, male, human, cyborg, agent, villain, bad guy, man, dude, he, black, black suit, sunglasses, tie, men in serious, business, horror, scary, agnet, agnt, smih
 3cbedcc0-4118-49a2-8a27-c2e3b6dfbd8a|Radio Kat 1.0|Mister Moon|W|4|swinger in the 1920's! radiohead, radio, male, robot, machine, android, automaton, bot, cyborg, tvhead, tv, hat, suit, formal, dada, surreal, abstract, funny, dadaist, radiohed, rediohead
 47fa6c16-c251-4038-9999-857617968825|I'm number 1|LeJeel 11c7|W|5|i'm number
-0f735f72-3cb1-4520-8d6f-a4db86753618|Chiaki Nanami
-iconjangsoyoNanami Chiaki|Nasbi|W|4|chiaki nanami iconjangsoyonanami nanami, danganronpa, female, human, gamer, student, cosplayer, black, pink, pink hair clip, bunny cuddle, sleep, nanamichiaki, chiakinanami, chiacki
+0f735f72-3cb1-4520-8d6f-a4db86753618|Chiaki Nanami iconjangsoyoNanami Chiaki|Nasbi|W|4|chiaki nanami iconjangsoyonanami nanami, danganronpa, female, human, gamer, student, cosplayer, black, pink, pink hair clip, bunny cuddle, sleep, nanamichiaki, chiakinanami, chiacki
 9d74f9bb-de7b-4677-b02d-e00dc1690ebc|Borderlands 2 Bandit Marauder|Epicdemic|W|0|they didn't have zer0, so did this instead. psycho, borderlands, borderlands 2, 3, male, human, bandit, raider, marauder, lunatic, gray, gray mask, red emblem, crazy, villain, madman, gamer, psychoo, psicho, psicho
 40c652cc-143d-4e30-8f5a-978db4c426ac|Jill BSAA|Ryo|W|4|jill bsaa valentine, resident evil, video game character, female, human, cop, police, officer, blue shirt, black gloves, evil zombie, valantine, villian
 31d0c7fd-1ce9-4163-aca9-58244e0bdc50|ElfGirl|RichardFeynman|W|0|elfgirl na
@@ -4712,7 +4710,7 @@ fab0be7f-b2ca-4251-a60f-4c9c5e675fc8|demon elf|ClussyGod|W|3|egaerg zombie, unde
 7e784be8-b9ac-450f-b118-d8337b800c4a|scout trooper|lordparagon|W|0|scout trooper trooper, star wars, soldier, clone galactic empire, male, human, infantry, military, armor, grey, white, black, shooter, sci-fi, starwars, starwarz, skouttrooper
 100b9710-983e-4821-bb2e-c63f49dab766|StormTrooper|LauraMaster|W|0|stormtrooper stormtrooper, star wars, clone trooper, soldier, male, human, sci-fi, galactic empire, imperial white armor, black undersuit, science fiction, fan content, cosplay, starwars, stromtrooper, stormtroper
 b0d0dac5-4bd3-4b84-be56-690653bbf1a7|Lucario V1.1|Fire_Fox_69|W|0|lucario v1.1 lucario, pokemon, pokemon series, aura jackal male, furry, monster, jackal, blue, blue fur, black red eyes, white patch, fighting, trainer, anime, looario, lukario, pokeman, pokeman series
-9fa2187d-a67e-4c24-ab18-40555092dee6|MayMay|Ducky || アンドレ|W|3|maymay female, human, anime, waifu, magical girl, cartoon, manga, blue hair, purple eyes, pink dress, cute, kawaii, pastel, doll, cosplay, pretty, anime vrchat avatar, avatar
+9fa2187d-a67e-4c24-ab18-40555092dee6|MayMay|Ducky    アンドレ|W|3|maymay female, human, anime, waifu, magical girl, cartoon, manga, blue hair, purple eyes, pink dress, cute, kawaii, pastel, doll, cosplay, pretty, anime vrchat avatar, avatar
 9bee5723-b61a-43b2-82d5-f3701a88eed5|KIKU|ＮＩＣＥ５４５２５ｆ＿阿槍|W|4|kiku eris boreas greyrat, mushoku tensei, rudeus female, human, magician, mage, sorcerer, red, white, anime, manga, fanart, cosplay, eri, eras, moshoku mushokutensei, eriis, erisu
 6bd44d06-79b7-4e98-a54a-27a3972f198f|Knuckles youtube |surviver145|W|0|knuckles youtube uganda knuckles, do you know da wae, ugandan warrior, male, anthropomorphic animal, meme, troll, funny, cringe, ugandian, knuckes
 60851fc8-8226-4fe5-9cd2-bb3becc9edaf|GLOW BLOB|LeJeel 11c7|W|5|glow blob
@@ -4808,7 +4806,7 @@ ed52ac0e-0a48-4135-a733-c56c70483934|Yu Narukami|Devsterman12|W|4|yu narukami, p
 7f710922-8e37-4eb7-a116-90c98bf45485|REM|Yven 3866|W|5|rem
 46474b31-8d8d-4f86-9100-91b733a48672|agent venom|Henk_2040|W|0|agent venom spider-man, marvel, superhero, villain, symbiote, male, human, spider, black, white spider logo, comic book, antivenom, anti-venom, hero, antihero, anti-hero, avenger, black suitt, spiderman, marvels, heroo, blacksuit
 3b9ce440-02e3-4f5c-a863-0b65aa0d2115|Eizen noclothrig2|ArenIsHere|W|1|eizen noclothrig aristocrat, noble, lord, male, human, gentleman, cavalier, red, gold trim, grey, grey gloves, victorian, steampunk, medieval, roleplay, formal, aristo, noable, lorde
-a0f5f6ca-736f-4e16-bf2a-e014836713d7|Spartan |HALO||BoredCrysis|W|2|spartan halo spartan, halo, unsc, soldier, cyborg, male, space marine, supersoldier, warrior, futuristic black, red, red visor, armor, helmet, science fiction, sci-fi, sci fi, sciencefiction, sparrtan
+a0f5f6ca-736f-4e16-bf2a-e014836713d7|Spartan  HALO |BoredCrysis|W|2|spartan halo spartan, halo, unsc, soldier, cyborg, male, space marine, supersoldier, warrior, futuristic black, red, red visor, armor, helmet, science fiction, sci-fi, sci fi, sciencefiction, sparrtan
 1af6e951-861b-4e0d-ae53-ec59e71188c2|Pit (Beta Version)|ItallianoMan|W|3|need to add: eye, and mouth tacking wing physics. pit, kid icarus, male, angel, hero, video game character, gaming, icarus uprising, brown hair, white toga, gold armlet, winged, angelic, angel wing, ikkarus, pitt, angeul
 77700a15-7a4e-4601-839e-df4703268e28|marvin the martiany|Oktober_Aid|W|0|marvin the martiany martian, looney tunes, space jam, male, alien, extraterrestrial, invader, green, black, black eyes, white gloves, red undersuit, funny, meme, cartoon, marvn, martin, loney toons
 0dd3b76e-a942-4dbd-9b5d-c4743470090d|Joker|Katzenjammer|W|0|ha hahaaaaa ha...*... haaaaaaaaaaa! raditz, dragon ball z, anime, male, human, saiyan, warrior, fighter, spiky hair, green armor, orange dbz, ball, zfighter, ballz, radditz
